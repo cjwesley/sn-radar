@@ -76,6 +76,30 @@
       "home": "https://www.youtube.com/@servicenowguru"
     },
     {
+      "id": "yt-jace",
+      "name": "JaceNow",
+      "type": "video",
+      "group": "creator",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXCuRTGhtIPuUKj2sGlTw",
+      "home": "https://www.youtube.com/@JaceNow"
+    },
+    {
+      "id": "yt-techtalk-bill",
+      "name": "TechTalk with Bill",
+      "type": "video",
+      "group": "creator",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMf7pje1x5iZkkEF-Y3PLSA",
+      "home": "https://www.youtube.com/@TechTalkwBill"
+    },
+    {
+      "id": "yt-the-duke",
+      "name": "Robert, The Duke, Fedoruk",
+      "type": "video",
+      "group": "creator",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfhKNeCYiaJQaaKuACKt0Sg",
+      "home": "https://www.youtube.com/@robertthedukefedoruk5607"
+    },
+    {
       "id": "comm-all-articles",
       "name": "Community articles (all boards)",
       "type": "community",
