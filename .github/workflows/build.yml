@@ -1,0 +1,37 @@
+name: Build SN Radar
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "sources.json"
+      - "build.py"
+      - "template.html"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python build.py
+      - name: Commit refreshed dashboard
+        run: |
+          git config user.name "sn-radar-bot"
+          git config user.email "sn-radar-bot@users.noreply.github.com"
+          git add docs/
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "Refresh dashboard $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
+          git push
