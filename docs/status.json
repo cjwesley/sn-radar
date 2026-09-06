@@ -1,0 +1,239 @@
+{
+  "generated_at": "2026-09-05T21:14:07.802830+00:00",
+  "status": [
+    {
+      "id": "yt-basico",
+      "name": "Basico ServiceNow Learning",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJIhKeKrS5_uMOX0hYDBUw",
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.373286+00:00"
+    },
+    {
+      "id": "pod-break-point",
+      "name": "Break Point (Developer Advocates)",
+      "url": "https://www.omnycontent.com/d/playlist/922e0f19-2d84-4485-835c-a83f00036b00/482f14e7-034f-4f55-a28a-abff01781da7/62c03853-0d6b-45ed-88ea-abff01797007/podcast.rss",
+      "ok": true,
+      "items": 100,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:04.800555+00:00"
+    },
+    {
+      "id": "pod-cj-the-duke",
+      "name": "CJ & The Duke",
+      "url": "https://feeds.transistor.fm/cj-the-duke",
+      "ok": true,
+      "items": 128,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:04.902989+00:00"
+    },
+    {
+      "id": "comm-all-articles",
+      "name": "Community articles (all boards)",
+      "url": "https://www.servicenow.com/community/s/cgfwn76974/rss/Community?interaction.style=blog",
+      "ok": true,
+      "items": 20,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.374299+00:00"
+    },
+    {
+      "id": "comm-community-week",
+      "name": "Community: Community Week blog (MVP Insights series)",
+      "url": "https://www.servicenow.com/community/s/cgfwn76974/rss/board?board.id=community-week-blog",
+      "ok": true,
+      "items": 20,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:04.429058+00:00"
+    },
+    {
+      "id": "comm-dev-advocate",
+      "name": "Community: Developer advocate blog",
+      "url": "https://www.servicenow.com/community/s/cgfwn76974/rss/board?board.id=developer-advocate-blog",
+      "ok": true,
+      "items": 20,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.422006+00:00"
+    },
+    {
+      "id": "comm-dev-blog",
+      "name": "Community: Developer blog",
+      "url": "https://www.servicenow.com/community/s/cgfwn76974/rss/board?board.id=developer-blog",
+      "ok": true,
+      "items": 20,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.419629+00:00"
+    },
+    {
+      "id": "comm-in-other-news",
+      "name": "Community: In other news (MVP announcements and spotlights)",
+      "url": "https://www.servicenow.com/community/s/cgfwn76974/rss/board?board.id=blog",
+      "ok": true,
+      "items": 20,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:04.229927+00:00"
+    },
+    {
+      "id": "comm-now-platform",
+      "name": "Community: Now Platform blog",
+      "url": "https://www.servicenow.com/community/s/cgfwn76974/rss/board?board.id=now-platform-blog",
+      "ok": true,
+      "items": 20,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.431239+00:00"
+    },
+    {
+      "id": "news-gnews",
+      "name": "Google News: ServiceNow",
+      "url": "https://news.google.com/rss/search?q=ServiceNow+when:30d&hl=en-US&gl=US&ceid=US:en",
+      "ok": true,
+      "items": 100,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.712604+00:00"
+    },
+    {
+      "id": "blog-jace",
+      "name": "Jace Benson",
+      "url": "https://jace.pro/feed.xml",
+      "ok": true,
+      "items": 336,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.540195+00:00"
+    },
+    {
+      "id": "yt-servicenow",
+      "name": "ServiceNow",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLukrOQYSgsHUR_NSiVZndQ",
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.371769+00:00"
+    },
+    {
+      "id": "yt-sn911",
+      "name": "ServiceNow 911",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXpQCadm49L7FtPlCuOzqbA",
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.373007+00:00"
+    },
+    {
+      "id": "yt-community",
+      "name": "ServiceNow Community",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCBQU8mlFrElxQNR2mo-gLg",
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.372671+00:00"
+    },
+    {
+      "id": "yt-devprogram",
+      "name": "ServiceNow Dev Program",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdXorgCT87YlFRN9n8oJ7_A",
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.372176+00:00"
+    },
+    {
+      "id": "yt-docs",
+      "name": "ServiceNow Documentation",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQjE37R-Y4DTq7kUWPO83Wg",
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.372458+00:00"
+    },
+    {
+      "id": "blog-snelite",
+      "name": "ServiceNow Elite",
+      "url": "https://www.servicenowelite.com/blog?format=rss",
+      "ok": true,
+      "items": 20,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.506466+00:00"
+    },
+    {
+      "id": "yt-guru",
+      "name": "ServiceNow Guru (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxz4zy9PV5nAyHUZiYvtJBQ",
+      "ok": true,
+      "items": 0,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.373544+00:00"
+    },
+    {
+      "id": "pod-insights",
+      "name": "ServiceNow Insights",
+      "url": "https://www.omnycontent.com/d/playlist/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/1874ae4a-a5d0-4e62-8a98-a8470155f111/podcast.rss",
+      "ok": true,
+      "items": 100,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.815134+00:00"
+    },
+    {
+      "id": "pod-community",
+      "name": "ServiceNow Podcasts (Community)",
+      "url": "https://www.omnycontent.com/d/playlist/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/c27942bc-1e3d-412a-a004-a9fa0168417c/podcast.rss",
+      "ok": true,
+      "items": 100,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.734793+00:00"
+    },
+    {
+      "id": "pod-store-highlights",
+      "name": "ServiceNow Store Highlights",
+      "url": "https://feed.podbean.com/servicenowstorehighlights/feed.xml",
+      "ok": true,
+      "items": 99,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:04.015272+00:00"
+    },
+    {
+      "id": "news-sn-blog-via-gnews",
+      "name": "servicenow.com blog (via Google News)",
+      "url": "https://news.google.com/rss/search?q=site:servicenow.com/blogs&hl=en-US&gl=US&ceid=US:en",
+      "ok": true,
+      "items": 10,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.553952+00:00"
+    },
+    {
+      "id": "blog-snprotips",
+      "name": "SN Pro Tips",
+      "url": "https://snprotips.com/rss.xml",
+      "ok": true,
+      "items": 50,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.480723+00:00"
+    },
+    {
+      "id": "pod-xentegra",
+      "name": "Syncing with ServiceNow (XenTegra)",
+      "url": "https://api.riverside.com/hosting/LSV6GkY5.rss",
+      "ok": true,
+      "items": 55,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:04.101705+00:00"
+    },
+    {
+      "id": "pod-change-agents",
+      "name": "The Change Agents Podcast",
+      "url": "https://www.omnycontent.com/d/playlist/922e0f19-2d84-4485-835c-a83f00036b00/c8c9ba77-c2c2-4841-9ca6-b30e00f20675/386913fe-ab63-41f5-be46-b30e00f20bb6/podcast.rss",
+      "ok": true,
+      "items": 9,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:04.009119+00:00"
+    },
+    {
+      "id": "pod-honor-roll",
+      "name": "The Honor Roll (ServiceNow University)",
+      "url": "https://feeds.transistor.fm/the-honor-roll",
+      "ok": true,
+      "items": 8,
+      "error": "",
+      "fetched_at": "2026-09-05T21:14:03.936231+00:00"
+    }
+  ]
+}

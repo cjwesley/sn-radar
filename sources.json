@@ -1,0 +1,242 @@
+{
+  "settings": {
+    "max_age_days": 90,
+    "max_items": 2000,
+    "request_timeout_seconds": 25,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36 SN-Radar/1.0",
+    "community_cache_key_fallback": "cgfwn76974",
+    "exclude_title_patterns": [
+      "\\bNYSE:\\s*NOW\\b",
+      "\\bprice target\\b",
+      "\\bshares? (rose|fell|jump|slip|drop|gain)",
+      "\\bstock (rating|forecast|analysis)\\b",
+      "\\b(buy|sell|hold) rating\\b",
+      "\\banalyst(s)? (upgrade|downgrade)"
+    ],
+    "tag_patterns": {
+      "MVP": "\\bMVPs?\\b|Most Valued Professional|Rising Star",
+      "Dev advocates": "Chuck Tomasi|Brad Tilton|Earl Duque|Lauren McManamon|Travis Toulson|Laszlo Balla|Developer Advocate|Break Point|Live Coding Happy Hour|\\bLCHH\\b"
+    }
+  },
+  "sources": [
+    {
+      "id": "yt-servicenow",
+      "name": "ServiceNow",
+      "type": "video",
+      "group": "official",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLukrOQYSgsHUR_NSiVZndQ",
+      "home": "https://www.youtube.com/@ServiceNow"
+    },
+    {
+      "id": "yt-devprogram",
+      "name": "ServiceNow Dev Program",
+      "type": "video",
+      "group": "official",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdXorgCT87YlFRN9n8oJ7_A",
+      "home": "https://www.youtube.com/@servicenowdevprogram"
+    },
+    {
+      "id": "yt-docs",
+      "name": "ServiceNow Documentation",
+      "type": "video",
+      "group": "official",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQjE37R-Y4DTq7kUWPO83Wg",
+      "home": "https://www.youtube.com/channel/UCQjE37R-Y4DTq7kUWPO83Wg"
+    },
+    {
+      "id": "yt-community",
+      "name": "ServiceNow Community",
+      "type": "video",
+      "group": "official",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCBQU8mlFrElxQNR2mo-gLg",
+      "home": "https://www.youtube.com/@ServiceNowCommunity"
+    },
+    {
+      "id": "yt-sn911",
+      "name": "ServiceNow 911",
+      "type": "video",
+      "group": "creator",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXpQCadm49L7FtPlCuOzqbA",
+      "home": "https://www.youtube.com/channel/UCXpQCadm49L7FtPlCuOzqbA"
+    },
+    {
+      "id": "yt-basico",
+      "name": "Basico ServiceNow Learning",
+      "type": "video",
+      "group": "creator",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJIhKeKrS5_uMOX0hYDBUw",
+      "home": "https://www.youtube.com/channel/UCBJIhKeKrS5_uMOX0hYDBUw"
+    },
+    {
+      "id": "yt-guru",
+      "name": "ServiceNow Guru (YouTube)",
+      "type": "video",
+      "group": "creator",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxz4zy9PV5nAyHUZiYvtJBQ",
+      "home": "https://www.youtube.com/@servicenowguru"
+    },
+    {
+      "id": "comm-all-articles",
+      "name": "Community articles (all boards)",
+      "type": "community",
+      "group": "official",
+      "url": "https://www.servicenow.com/community/s/{community_key}/rss/Community?interaction.style=blog",
+      "home": "https://www.servicenow.com/community/"
+    },
+    {
+      "id": "comm-dev-blog",
+      "name": "Community: Developer blog",
+      "type": "community",
+      "group": "official",
+      "url": "https://www.servicenow.com/community/s/{community_key}/rss/board?board.id=developer-blog",
+      "home": "https://www.servicenow.com/community/developer-blog/bg-p/developer-blog"
+    },
+    {
+      "id": "comm-dev-advocate",
+      "name": "Community: Developer advocate blog",
+      "type": "community",
+      "group": "official",
+      "url": "https://www.servicenow.com/community/s/{community_key}/rss/board?board.id=developer-advocate-blog",
+      "home": "https://www.servicenow.com/community/developer-advocate-blog/bg-p/developer-advocate-blog"
+    },
+    {
+      "id": "comm-now-platform",
+      "name": "Community: Now Platform blog",
+      "type": "community",
+      "group": "official",
+      "url": "https://www.servicenow.com/community/s/{community_key}/rss/board?board.id=now-platform-blog",
+      "home": "https://www.servicenow.com/community/now-platform-blog/bg-p/now-platform-blog"
+    },
+    {
+      "id": "blog-snprotips",
+      "name": "SN Pro Tips",
+      "type": "blog",
+      "group": "creator",
+      "url": "https://snprotips.com/rss.xml",
+      "home": "https://snprotips.com/blog"
+    },
+    {
+      "id": "blog-snelite",
+      "name": "ServiceNow Elite",
+      "type": "blog",
+      "group": "creator",
+      "url": "https://www.servicenowelite.com/blog?format=rss",
+      "home": "https://www.servicenowelite.com/blog"
+    },
+    {
+      "id": "blog-jace",
+      "name": "Jace Benson",
+      "type": "blog",
+      "group": "creator",
+      "url": "https://jace.pro/feed.xml",
+      "home": "https://jace.pro/"
+    },
+    {
+      "id": "blog-snguru",
+      "name": "ServiceNow Guru",
+      "type": "blog",
+      "group": "creator",
+      "enabled": false,
+      "note": "servicenowguru.com sits behind a bot challenge that returns HTTP 202 instead of the feed. Flip enabled to true if that changes.",
+      "url": "https://servicenowguru.com/feed/",
+      "home": "https://servicenowguru.com/"
+    },
+    {
+      "id": "news-sn-blog-via-gnews",
+      "name": "servicenow.com blog (via Google News)",
+      "type": "news",
+      "group": "official",
+      "url": "https://news.google.com/rss/search?q=site:servicenow.com/blogs&hl=en-US&gl=US&ceid=US:en",
+      "home": "https://www.servicenow.com/blogs.html"
+    },
+    {
+      "id": "news-gnews",
+      "name": "Google News: ServiceNow",
+      "type": "news",
+      "group": "press",
+      "url": "https://news.google.com/rss/search?q=ServiceNow+when:30d&hl=en-US&gl=US&ceid=US:en",
+      "home": "https://news.google.com/search?q=ServiceNow"
+    },
+    {
+      "id": "pod-community",
+      "name": "ServiceNow Podcasts (Community)",
+      "type": "podcast",
+      "group": "official",
+      "url": "https://www.omnycontent.com/d/playlist/922e0f19-2d84-4485-835c-a83f00036b00/d7d10000-50e4-42aa-96ae-a84701459fc6/c27942bc-1e3d-412a-a004-a9fa0168417c/podcast.rss",
+      "home": "https://podcasts.apple.com/us/podcast/servicenow-podcasts/id1478424839"
+    },
+    {
+      "id": "pod-insights",
+      "name": "ServiceNow Insights",
+      "type": "podcast",
+      "group": "official",
+      "url": "https://www.omnycontent.com/d/playlist/922e0f19-2d84-4485-835c-a83f00036b00/739ec4be-e3b0-402c-939b-a8470155f108/1874ae4a-a5d0-4e62-8a98-a8470155f111/podcast.rss",
+      "home": "https://www.servicenow.com/community/"
+    },
+    {
+      "id": "pod-honor-roll",
+      "name": "The Honor Roll (ServiceNow University)",
+      "type": "podcast",
+      "group": "official",
+      "url": "https://feeds.transistor.fm/the-honor-roll",
+      "home": "https://feeds.transistor.fm/the-honor-roll"
+    },
+    {
+      "id": "pod-change-agents",
+      "name": "The Change Agents Podcast",
+      "type": "podcast",
+      "group": "official",
+      "url": "https://www.omnycontent.com/d/playlist/922e0f19-2d84-4485-835c-a83f00036b00/c8c9ba77-c2c2-4841-9ca6-b30e00f20675/386913fe-ab63-41f5-be46-b30e00f20bb6/podcast.rss",
+      "home": "https://www.servicenow.com/"
+    },
+    {
+      "id": "pod-store-highlights",
+      "name": "ServiceNow Store Highlights",
+      "type": "podcast",
+      "group": "creator",
+      "url": "https://feed.podbean.com/servicenowstorehighlights/feed.xml",
+      "home": "https://servicenowstorehighlights.podbean.com/"
+    },
+    {
+      "id": "pod-xentegra",
+      "name": "Syncing with ServiceNow (XenTegra)",
+      "type": "podcast",
+      "group": "creator",
+      "url": "https://api.riverside.com/hosting/LSV6GkY5.rss",
+      "home": "https://api.riverside.com/hosting/LSV6GkY5.rss"
+    },
+    {
+      "id": "comm-in-other-news",
+      "name": "Community: In other news (MVP announcements and spotlights)",
+      "type": "community",
+      "group": "official",
+      "url": "https://www.servicenow.com/community/s/{community_key}/rss/board?board.id=blog",
+      "home": "https://www.servicenow.com/community/in-other-news/bg-p/blog"
+    },
+    {
+      "id": "comm-community-week",
+      "name": "Community: Community Week blog (MVP Insights series)",
+      "type": "community",
+      "group": "official",
+      "url": "https://www.servicenow.com/community/s/{community_key}/rss/board?board.id=community-week-blog",
+      "home": "https://www.servicenow.com/community/the-community-week-blog/bg-p/community-week-blog"
+    },
+    {
+      "id": "pod-break-point",
+      "name": "Break Point (Developer Advocates)",
+      "type": "podcast",
+      "group": "official",
+      "url": "https://www.omnycontent.com/d/playlist/922e0f19-2d84-4485-835c-a83f00036b00/482f14e7-034f-4f55-a28a-abff01781da7/62c03853-0d6b-45ed-88ea-abff01797007/podcast.rss",
+      "home": "https://podcasts.apple.com/us/podcast/break-point/id1478424839"
+    },
+    {
+      "id": "pod-cj-the-duke",
+      "name": "CJ & The Duke",
+      "type": "podcast",
+      "group": "creator",
+      "url": "https://feeds.transistor.fm/cj-the-duke",
+      "home": "https://feeds.transistor.fm/cj-the-duke",
+      "note": "Your own show, included so it sits on the same timeline as everything else. Uncheck it in the Sources rail or set enabled to false."
+    }
+  ]
+}

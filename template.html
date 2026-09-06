@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SN Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #052F43;
+    --blue: #013958;
+    --gold: #F6DE44;
+    --paper: #F2F5F6;
+    --card: #FFFFFF;
+    --ink: #16232B;
+    --mute: #5C6B74;
+    --line: #D9E1E5;
+    --line-soft: #EAF0F2;
+    --t-video: #C0392B;
+    --t-community: #1F8A70;
+    --t-blog: #6A4FB8;
+    --t-podcast: #C4781C;
+    --t-news: #4A6B8A;
+    --radius: 6px;
+    --rail-w: 232px;
+    --plan-w: 320px;
+    --font: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font); font-size: 15px; line-height: 1.5; }
+  a { color: var(--blue); }
+  button { font-family: inherit; font-size: 13px; cursor: pointer; }
+  input, select, textarea { font-family: inherit; font-size: 13px; color: var(--ink); }
+  :focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+
+  /* Header */
+  .top { background: var(--navy); color: #fff; padding: 22px 28px 18px; }
+  .top-inner { max-width: 1480px; margin: 0 auto; display: grid; grid-template-columns: 1fr auto; gap: 24px; align-items: end; }
+  .brand { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; }
+  .brand h1 { margin: 0; font-size: 26px; font-weight: 600; letter-spacing: -0.01em; }
+  .brand h1 span { color: var(--gold); }
+  .brand .sub { color: rgba(255,255,255,0.72); font-size: 13.5px; }
+  .search { position: relative; min-width: 320px; }
+  .search input { width: 100%; padding: 9px 12px 9px 12px; border: 1px solid rgba(255,255,255,0.28); border-radius: var(--radius); background: rgba(255,255,255,0.10); color: #fff; font-size: 14px; }
+  .search input::placeholder { color: rgba(255,255,255,0.6); }
+  .search kbd { position: absolute; right: 10px; top: 9px; font-size: 11px; color: rgba(255,255,255,0.6); border: 1px solid rgba(255,255,255,0.3); border-radius: 4px; padding: 0 5px; font-family: inherit; }
+
+  .pulse { max-width: 1480px; margin: 18px auto 0; display: grid; grid-template-columns: auto 1fr; gap: 28px; align-items: center; }
+  .pulse-nums { display: flex; gap: 26px; }
+  .pulse-nums div { line-height: 1.15; }
+  .pulse-nums b { display: block; font-size: 24px; font-weight: 600; }
+  .pulse-nums small { color: rgba(255,255,255,0.7); font-size: 12.5px; }
+  .spark { height: 44px; width: 100%; display: block; }
+  .spark rect { transition: opacity 120ms; }
+  .spark-label { font-size: 11.5px; color: rgba(255,255,255,0.6); margin-top: 2px; display: flex; justify-content: space-between; }
+
+  /* Body grid */
+  .wrap { max-width: 1480px; margin: 0 auto; padding: 22px 28px 60px; display: grid; grid-template-columns: var(--rail-w) minmax(0, 1fr) var(--plan-w); gap: 28px; align-items: start; }
+  .rail, .plan { position: sticky; top: 16px; }
+  .rail h2, .plan h2, .feed h2 { font-size: 13px; font-weight: 600; color: var(--mute); margin: 0 0 10px; }
+  .rail section { margin-bottom: 26px; }
+  .seg { display: flex; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; background: var(--card); }
+  .seg button { flex: 1; border: 0; background: transparent; padding: 7px 0; color: var(--mute); }
+  .seg button + button { border-left: 1px solid var(--line); }
+  .seg button.on { background: var(--navy); color: #fff; }
+  .checks label { display: flex; align-items: center; gap: 8px; padding: 5px 0; font-size: 13.5px; cursor: pointer; }
+  .checks input { accent-color: var(--navy); margin: 0; }
+  .checks .n { margin-left: auto; color: var(--mute); font-size: 12px; }
+  .dot { width: 9px; height: 9px; border-radius: 50%; flex: none; }
+  .src-list { max-height: 360px; overflow: auto; padding-right: 4px; }
+  .src-list label { padding: 3px 0; font-size: 13px; }
+  .src-list label.off { color: var(--mute); }
+  .rail-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+  .ghost { border: 1px solid var(--line); background: var(--card); border-radius: var(--radius); padding: 5px 10px; color: var(--ink); }
+  .ghost:hover { border-color: var(--blue); }
+  .toggle { display: flex; align-items: center; gap: 8px; font-size: 13.5px; cursor: pointer; }
+
+  /* Feed */
+  .feed-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 10px; flex-wrap: wrap; }
+  .feed-head .count { font-size: 13px; color: var(--mute); }
+  .topics { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+  .topics button { border: 1px solid var(--line); background: var(--card); border-radius: 999px; padding: 3px 10px; font-size: 12.5px; color: var(--ink); }
+  .topics button b { color: var(--mute); font-weight: 500; margin-left: 5px; }
+  .topics button:hover, .topics button.on { border-color: var(--navy); background: var(--navy); color: #fff; }
+  .topics button.on b { color: rgba(255,255,255,0.7); }
+
+  .list { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); }
+  .row { display: grid; grid-template-columns: 4px 1fr; }
+  .row + .row { border-top: 1px solid var(--line-soft); }
+  .row .stripe { background: var(--tcol); }
+  .row .body { padding: 14px 18px 14px 16px; display: grid; grid-template-columns: 1fr auto; gap: 8px 16px; }
+  .row.has-thumb .body { grid-template-columns: 1fr auto 128px; }
+  .row.seen .body { opacity: 0.55; }
+  .row.planned .stripe { background: var(--gold); }
+  .meta { grid-column: 1 / 2; font-size: 12.5px; color: var(--mute); display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .badge { font-weight: 600; color: var(--tcol); }
+  .meta .sep { color: var(--line); }
+  .meta .tag { background: var(--navy); color: var(--gold); padding: 0 6px; border-radius: 3px; font-size: 11.5px; font-weight: 600; }
+  .title { grid-column: 1 / 2; margin: 2px 0 0; font-size: 16px; font-weight: 600; line-height: 1.3; }
+  .title a { color: var(--ink); text-decoration: none; }
+  .title a:hover { color: var(--blue); text-decoration: underline; }
+  .sum { grid-column: 1 / 2; margin: 2px 0 0; font-size: 13.5px; color: var(--mute); max-width: 72ch; }
+  .acts { grid-column: 2 / 3; grid-row: 1 / 4; display: flex; flex-direction: column; gap: 6px; align-self: start; }
+  .acts button { border: 1px solid var(--line); background: var(--card); border-radius: var(--radius); padding: 4px 9px; color: var(--ink); white-space: nowrap; }
+  .acts button.plan.on { background: var(--gold); border-color: var(--gold); color: var(--navy); font-weight: 600; }
+  .acts button.seen.on { background: var(--line-soft); color: var(--mute); }
+  .thumb { grid-column: 3 / 4; grid-row: 1 / 4; width: 128px; height: 72px; object-fit: cover; border-radius: 4px; background: var(--line-soft); }
+  .more { width: 100%; border: 0; background: transparent; padding: 14px; color: var(--blue); font-weight: 500; }
+  .empty { padding: 40px 20px; text-align: center; color: var(--mute); }
+
+  /* Plan rail */
+  .plan-box { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); }
+  .plan-item { padding: 12px 14px; border-bottom: 1px solid var(--line-soft); }
+  .plan-item:last-child { border-bottom: 0; }
+  .plan-item .pt { font-size: 13.5px; font-weight: 600; line-height: 1.3; margin: 0 0 6px; }
+  .plan-item .pt a { color: var(--ink); text-decoration: none; }
+  .plan-item .pt a:hover { text-decoration: underline; }
+  .plan-item .ps { font-size: 12px; color: var(--mute); margin-bottom: 8px; }
+  .plan-item .ctl { display: grid; grid-template-columns: 1fr 1fr auto; gap: 6px; }
+  .plan-item select, .plan-item input[type="date"] { border: 1px solid var(--line); border-radius: 4px; padding: 4px 6px; background: #fff; }
+  .plan-item textarea { width: 100%; margin-top: 6px; border: 1px solid var(--line); border-radius: 4px; padding: 5px 7px; resize: vertical; min-height: 34px; }
+  .plan-item .rm { border: 0; background: transparent; color: var(--mute); padding: 0 4px; }
+  .plan-item .rm:hover { color: var(--t-video); }
+  .plan-empty { padding: 22px 14px; font-size: 13px; color: var(--mute); }
+  .plan-foot { padding: 10px 14px; border-top: 1px solid var(--line); display: flex; gap: 6px; flex-wrap: wrap; }
+  .status-idea { border-left: 3px solid var(--line); }
+  .status-drafting { border-left: 3px solid var(--t-podcast); }
+  .status-scheduled { border-left: 3px solid var(--gold); }
+  .status-published { border-left: 3px solid var(--t-community); }
+
+  /* Health */
+  .health { margin-top: 26px; }
+  .health summary { cursor: pointer; font-size: 13px; color: var(--mute); }
+  .health table { width: 100%; border-collapse: collapse; font-size: 12.5px; margin-top: 10px; background: var(--card); border: 1px solid var(--line); }
+  .health td { padding: 6px 10px; border-top: 1px solid var(--line-soft); vertical-align: top; }
+  .health td.err { color: var(--t-video); }
+  .health td.ok { color: var(--t-community); }
+  .toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: var(--navy); color: #fff; padding: 8px 14px; border-radius: var(--radius); font-size: 13px; opacity: 0; pointer-events: none; transition: opacity 160ms; }
+  .toast.show { opacity: 1; }
+
+  @media (max-width: 1180px) {
+    .wrap { grid-template-columns: var(--rail-w) minmax(0, 1fr); }
+    .plan { grid-column: 1 / -1; position: static; }
+  }
+  @media (max-width: 820px) {
+    .top { padding: 16px; }
+    .top-inner { grid-template-columns: 1fr; }
+    .search { min-width: 0; }
+    .pulse { grid-template-columns: 1fr; }
+    .wrap { grid-template-columns: 1fr; padding: 16px; gap: 20px; }
+    .rail { position: static; }
+    .src-list { max-height: 200px; }
+    .row.has-thumb .body { grid-template-columns: 1fr auto; }
+    .thumb { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="top-inner">
+    <div class="brand">
+      <h1>SN <span>Radar</span></h1>
+      <div class="sub" id="generated"></div>
+    </div>
+    <div class="search">
+      <input id="q" type="search" placeholder="Search titles, sources, summaries" autocomplete="off">
+      <kbd>/</kbd>
+    </div>
+  </div>
+  <div class="pulse">
+    <div class="pulse-nums" id="nums"></div>
+    <div>
+      <svg class="spark" id="spark" preserveAspectRatio="none" aria-label="Items per day, last 30 days"></svg>
+      <div class="spark-label"><span>30 days ago</span><span>today</span></div>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <aside class="rail">
+    <section>
+      <h2>Window</h2>
+      <div class="seg" id="win"></div>
+    </section>
+    <section>
+      <h2>Type</h2>
+      <div class="checks" id="types"></div>
+    </section>
+    <section>
+      <h2>Origin</h2>
+      <div class="checks" id="groups"></div>
+    </section>
+    <section>
+      <h2>Sources</h2>
+      <div class="rail-actions" style="margin-bottom:8px">
+        <button class="ghost" id="src-all">All</button>
+        <button class="ghost" id="src-none">None</button>
+      </div>
+      <div class="checks src-list" id="sources"></div>
+    </section>
+    <section id="tags-sec">
+      <h2>Tagged</h2>
+      <div class="checks" id="tags"></div>
+    </section>
+    <section>
+      <label class="toggle"><input type="checkbox" id="hide-seen"> Hide items marked seen</label>
+      <label class="toggle" style="margin-top:6px"><input type="checkbox" id="only-planned"> Only planned items</label>
+    </section>
+    <section>
+      <div class="rail-actions">
+        <button class="ghost" id="mark-all-seen">Mark visible as seen</button>
+        <button class="ghost" id="reset">Reset filters</button>
+      </div>
+    </section>
+  </aside>
+
+  <main class="feed">
+    <div class="feed-head">
+      <h2 style="margin:0">Latest</h2>
+      <span class="count" id="count"></span>
+    </div>
+    <div class="topics" id="topics"></div>
+    <div class="list" id="list"></div>
+    <details class="health">
+      <summary id="health-sum">Source health</summary>
+      <table id="health"></table>
+    </details>
+  </main>
+
+  <aside class="plan">
+    <h2 id="plan-h">Content plan</h2>
+    <div class="plan-box">
+      <div id="plan-list"></div>
+      <div class="plan-foot">
+        <button class="ghost" id="exp-md">Copy as Markdown</button>
+        <button class="ghost" id="exp-csv">Download CSV</button>
+        <button class="ghost" id="exp-json">Backup</button>
+        <button class="ghost" id="imp-json">Restore</button>
+        <input type="file" id="imp-file" accept="application/json" hidden>
+      </div>
+    </div>
+  </aside>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+const DATA = /*__DATA__*/null;
+
+const TYPES = [
+  ["video", "Videos", "Video"], ["community", "Community articles", "Community"], ["blog", "Blogs", "Blog"],
+  ["podcast", "Podcasts", "Podcast"], ["news", "News", "News"]
+];
+const GROUPS = [["official", "ServiceNow official"], ["creator", "Community creators"], ["press", "Press and analysts"]];
+const WINDOWS = [[1, "24h"], [7, "7d"], [30, "30d"], [90, "All"]];
+const STATUSES = ["idea", "drafting", "scheduled", "published"];
+const TCOL = { video: "var(--t-video)", community: "var(--t-community)", blog: "var(--t-blog)", podcast: "var(--t-podcast)", news: "var(--t-news)" };
+const SPARKCOL = { video: "#E8776B", community: "#5FBFA6", blog: "#A38BE0", podcast: "#E3A84D", news: "#8FB0CC" };
+
+const store = {
+  key: "snradar.v1",
+  load() { try { return JSON.parse(localStorage.getItem(this.key)) || {}; } catch (e) { return {}; } },
+  save(s) { try { localStorage.setItem(this.key, JSON.stringify(s)); } catch (e) { /* storage unavailable; state lives for this page load only */ } }
+};
+
+const saved = store.load();
+const state = {
+  win: saved.win || 7,
+  types: new Set(saved.types || TYPES.map(t => t[0])),
+  groups: new Set(saved.groups || GROUPS.map(g => g[0])),
+  sources: new Set(saved.sources || DATA.sources.map(s => s.id)),
+  hideSeen: !!saved.hideSeen,
+  tags: new Set(),
+  onlyPlanned: false,
+  q: "",
+  seen: saved.seen || {},
+  plan: saved.plan || {},
+  limit: 60
+};
+function persist() {
+  store.save({ win: state.win, types: [...state.types], groups: [...state.groups], sources: [...state.sources],
+    hideSeen: state.hideSeen, seen: state.seen, plan: state.plan });
+}
+
+const items = DATA.items.map(it => ({ ...it, ts: Date.parse(it.published || it.first_seen) || 0 }));
+const byId = Object.fromEntries(items.map(i => [i.id, i]));
+const now = Date.now();
+
+function ago(ts) {
+  const m = Math.max(0, Math.round((now - ts) / 60000));
+  if (m < 60) return m + "m ago";
+  const h = Math.round(m / 60);
+  if (h < 36) return h + "h ago";
+  const d = Math.round(h / 24);
+  if (d < 14) return d + "d ago";
+  return new Date(ts).toLocaleDateString(undefined, { month: "short", day: "numeric" });
+}
+function esc(s) { return (s || "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c])); }
+function el(id) { return document.getElementById(id); }
+function toast(msg) { const t = el("toast"); t.textContent = msg; t.classList.add("show"); clearTimeout(t._h); t._h = setTimeout(() => t.classList.remove("show"), 1600); }
+
+function visible() {
+  const cutoff = now - state.win * 86400000;
+  const q = state.q.trim().toLowerCase();
+  return items.filter(it => {
+    if (it.ts < cutoff) return false;
+    if (!state.types.has(it.type) || !state.groups.has(it.group) || !state.sources.has(it.source_id)) return false;
+    if (state.hideSeen && state.seen[it.id]) return false;
+    if (state.onlyPlanned && !state.plan[it.id]) return false;
+    if (state.tags.size && !(it.tags || []).some(t => state.tags.has(t))) return false;
+    if (q) {
+      const hay = (it.title + " " + it.source + " " + it.via + " " + it.author + " " + it.summary).toLowerCase();
+      if (!q.split(/\s+/).every(w => hay.includes(w))) return false;
+    }
+    return true;
+  });
+}
+
+function renderRail() {
+  el("win").innerHTML = WINDOWS.map(([d, l]) => `<button data-w="${d}" class="${state.win === d ? "on" : ""}">${l}</button>`).join("");
+  el("win").querySelectorAll("button").forEach(b => b.onclick = () => { state.win = +b.dataset.w; state.limit = 60; update(); });
+
+  const cutoff = now - state.win * 86400000;
+  const inWin = items.filter(i => i.ts >= cutoff);
+  const tc = {}, gc = {}, sc = {};
+  inWin.forEach(i => { tc[i.type] = (tc[i.type] || 0) + 1; gc[i.group] = (gc[i.group] || 0) + 1; sc[i.source_id] = (sc[i.source_id] || 0) + 1; });
+
+  el("types").innerHTML = TYPES.map(([k, l]) => `<label><input type="checkbox" data-t="${k}" ${state.types.has(k) ? "checked" : ""}><span class="dot" style="background:${TCOL[k]}"></span>${l}<span class="n">${tc[k] || 0}</span></label>`).join("");
+  el("types").querySelectorAll("input").forEach(c => c.onchange = () => { c.checked ? state.types.add(c.dataset.t) : state.types.delete(c.dataset.t); update(); });
+
+  el("groups").innerHTML = GROUPS.map(([k, l]) => `<label><input type="checkbox" data-g="${k}" ${state.groups.has(k) ? "checked" : ""}>${l}<span class="n">${gc[k] || 0}</span></label>`).join("");
+  el("groups").querySelectorAll("input").forEach(c => c.onchange = () => { c.checked ? state.groups.add(c.dataset.g) : state.groups.delete(c.dataset.g); update(); });
+
+  const srcs = [...DATA.sources].sort((a, b) => a.type.localeCompare(b.type) || a.name.localeCompare(b.name));
+  el("sources").innerHTML = srcs.map(s => `<label class="${state.sources.has(s.id) ? "" : "off"}"><input type="checkbox" data-s="${s.id}" ${state.sources.has(s.id) ? "checked" : ""}><span class="dot" style="background:${TCOL[s.type]}"></span>${esc(s.name)}<span class="n">${sc[s.id] || 0}</span></label>`).join("");
+  el("sources").querySelectorAll("input").forEach(c => c.onchange = () => { c.checked ? state.sources.add(c.dataset.s) : state.sources.delete(c.dataset.s); update(); });
+  const tagc = {};
+  inWin.forEach(i => (i.tags || []).forEach(t => tagc[t] = (tagc[t] || 0) + 1));
+  const tagNames = DATA.tags || [];
+  el("tags-sec").style.display = tagNames.length ? "" : "none";
+  el("tags").innerHTML = tagNames.map(t => `<label><input type="checkbox" data-tag="${esc(t)}" ${state.tags.has(t) ? "checked" : ""}>${esc(t)}<span class="n">${tagc[t] || 0}</span></label>`).join("");
+  el("tags").querySelectorAll("input").forEach(c => c.onchange = () => { c.checked ? state.tags.add(c.dataset.tag) : state.tags.delete(c.dataset.tag); update(); });
+  el("hide-seen").checked = state.hideSeen;
+  el("only-planned").checked = state.onlyPlanned;
+}
+
+function renderPulse() {
+  const day = 86400000;
+  const start = now - 29 * day;
+  const days = Array.from({ length: 30 }, () => ({}));
+  let last7 = 0, last1 = 0;
+  items.forEach(i => {
+    if (i.ts >= now - 7 * day) last7++;
+    if (i.ts >= now - day) last1++;
+    if (i.ts >= start) {
+      const idx = Math.min(29, Math.floor((i.ts - start) / day));
+      days[idx][i.type] = (days[idx][i.type] || 0) + 1;
+    }
+  });
+  const planned = Object.keys(state.plan).length;
+  const unseen7 = items.filter(i => i.ts >= now - 7 * day && !state.seen[i.id]).length;
+  el("nums").innerHTML = `<div><b>${last1}</b><small>last 24h</small></div><div><b>${last7}</b><small>last 7 days</small></div><div><b>${unseen7}</b><small>unseen, 7 days</small></div><div><b>${planned}</b><small>in plan</small></div>`;
+
+  const max = Math.max(1, ...days.map(d => Object.values(d).reduce((a, b) => a + b, 0)));
+  const W = 600, H = 44, bw = W / 30;
+  let svg = "";
+  days.forEach((d, i) => {
+    let y = H;
+    TYPES.forEach(([t]) => {
+      const n = d[t] || 0; if (!n) return;
+      const h = n / max * (H - 2);
+      y -= h;
+      svg += `<rect x="${(i * bw + 1).toFixed(1)}" y="${y.toFixed(1)}" width="${(bw - 2).toFixed(1)}" height="${h.toFixed(1)}" fill="${SPARKCOL[t]}"><title>${new Date(start + i * day).toLocaleDateString()}: ${n} ${t}</title></rect>`;
+    });
+  });
+  const s = el("spark"); s.setAttribute("viewBox", `0 0 ${W} ${H}`); s.innerHTML = svg;
+}
+
+function renderTopics() {
+  el("topics").innerHTML = (DATA.topics || []).slice(0, 18).map(t => `<button data-term="${esc(t.term)}" class="${state.q.toLowerCase() === t.term ? "on" : ""}">${esc(t.term)}<b>${t.count}</b></button>`).join("");
+  el("topics").querySelectorAll("button").forEach(b => b.onclick = () => { state.q = state.q.toLowerCase() === b.dataset.term ? "" : b.dataset.term; el("q").value = state.q; update(); });
+}
+
+function row(it) {
+  const planned = !!state.plan[it.id], seen = !!state.seen[it.id];
+  const thumb = it.thumbnail ? `<img class="thumb" loading="lazy" src="${esc(it.thumbnail)}" alt="">` : "";
+  const via = it.via ? `<span class="sep">|</span><span>${esc(it.via)}</span>` : (it.author && it.type !== "video" ? `<span class="sep">|</span><span>${esc(it.author)}</span>` : "");
+  const dur = it.duration ? `<span class="sep">|</span><span>${esc(it.duration)}</span>` : "";
+  const tags = (it.tags || []).map(t => `<span class="sep">|</span><span class="tag">${esc(t)}</span>`).join("");
+  return `<article class="row ${planned ? "planned" : ""} ${seen ? "seen" : ""} ${thumb ? "has-thumb" : ""}" data-id="${esc(it.id)}" style="--tcol:${TCOL[it.type]}">
+    <div class="stripe"></div>
+    <div class="body">
+      <div class="meta"><span class="badge">${TYPES.find(t => t[0] === it.type)[2]}</span><span class="sep">|</span><span>${esc(it.source)}</span>${via}${dur}${tags}<span class="sep">|</span><span title="${new Date(it.ts).toLocaleString()}">${ago(it.ts)}</span></div>
+      <h3 class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
+      ${it.summary ? `<p class="sum">${esc(it.summary)}</p>` : ""}
+      <div class="acts">
+        <button class="plan ${planned ? "on" : ""}" data-act="plan">${planned ? "In plan" : "Plan"}</button>
+        <button class="seen ${seen ? "on" : ""}" data-act="seen">${seen ? "Seen" : "Mark seen"}</button>
+        <button data-act="copy">Copy link</button>
+      </div>
+      ${thumb}
+    </div>
+  </article>`;
+}
+
+function renderList() {
+  const vis = visible();
+  el("count").textContent = `${vis.length} item${vis.length === 1 ? "" : "s"} in the last ${state.win === 90 ? DATA.settings.max_age_days + " days" : state.win === 1 ? "24 hours" : state.win + " days"}`;
+  if (!vis.length) {
+    el("list").innerHTML = `<div class="empty">Nothing matches these filters. Widen the window or clear the search.</div>`;
+    return;
+  }
+  const shown = vis.slice(0, state.limit);
+  el("list").innerHTML = shown.map(row).join("") + (vis.length > shown.length ? `<button class="more" id="more">Show ${Math.min(60, vis.length - shown.length)} more of ${vis.length - shown.length}</button>` : "");
+  const more = el("more"); if (more) more.onclick = () => { state.limit += 60; renderList(); };
+  el("list").querySelectorAll("article").forEach(a => {
+    a.querySelectorAll("button[data-act]").forEach(b => b.onclick = () => act(b.dataset.act, a.dataset.id));
+  });
+}
+
+function act(kind, id) {
+  const it = byId[id]; if (!it) return;
+  if (kind === "plan") {
+    if (state.plan[id]) delete state.plan[id];
+    else state.plan[id] = { status: "idea", date: "", note: "", added: new Date().toISOString() };
+  } else if (kind === "seen") {
+    if (state.seen[id]) delete state.seen[id]; else state.seen[id] = now;
+  } else if (kind === "copy") {
+    navigator.clipboard?.writeText(it.url).then(() => toast("Link copied"));
+    return;
+  }
+  persist(); update();
+}
+
+function renderPlan() {
+  const ids = Object.keys(state.plan).sort((a, b) => {
+    const pa = state.plan[a], pb = state.plan[b];
+    return (pa.date || "9999") < (pb.date || "9999") ? -1 : (pa.date || "9999") > (pb.date || "9999") ? 1 : STATUSES.indexOf(pa.status) - STATUSES.indexOf(pb.status);
+  });
+  el("plan-h").textContent = `Content plan (${ids.length})`;
+  if (!ids.length) {
+    el("plan-list").innerHTML = `<div class="plan-empty">Press "Plan" on any item to build a shortlist for your content calendar. Status, date, and notes stay in this browser.</div>`;
+    return;
+  }
+  el("plan-list").innerHTML = ids.map(id => {
+    const p = state.plan[id], it = byId[id] || { title: p.title || id, url: id, source: p.source || "", type: p.type || "news", ts: 0 };
+    return `<div class="plan-item status-${p.status}" data-id="${esc(id)}">
+      <p class="pt"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></p>
+      <div class="ps">${esc(it.source)}${it.ts ? " | " + new Date(it.ts).toLocaleDateString() : ""}</div>
+      <div class="ctl">
+        <select data-f="status">${STATUSES.map(s => `<option value="${s}" ${p.status === s ? "selected" : ""}>${s[0].toUpperCase() + s.slice(1)}</option>`).join("")}</select>
+        <input type="date" data-f="date" value="${esc(p.date)}">
+        <button class="rm" title="Remove from plan" aria-label="Remove from plan">&#10005;</button>
+      </div>
+      <textarea data-f="note" placeholder="Angle, hook, or format idea">${esc(p.note)}</textarea>
+    </div>`;
+  }).join("");
+  el("plan-list").querySelectorAll(".plan-item").forEach(d => {
+    const id = d.dataset.id;
+    d.querySelectorAll("[data-f]").forEach(f => f.onchange = () => { state.plan[id][f.dataset.f] = f.value; persist(); if (f.dataset.f !== "note") renderPlan(); });
+    d.querySelector(".rm").onclick = () => { delete state.plan[id]; persist(); update(); };
+  });
+}
+
+function planRows() {
+  return Object.entries(state.plan).map(([id, p]) => {
+    const it = byId[id] || {};
+    return { date: p.date || "", status: p.status, title: it.title || p.title || id, source: it.source || p.source || "", type: it.type || p.type || "", published: it.ts ? new Date(it.ts).toISOString().slice(0, 10) : "", url: it.url || id, note: p.note || "" };
+  }).sort((a, b) => (a.date || "9999").localeCompare(b.date || "9999"));
+}
+function download(name, text, mime) {
+  const a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([text], { type: mime })); a.download = name; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 500);
+}
+el("exp-md").onclick = () => {
+  const rows = planRows();
+  const md = ["| Date | Status | Title | Source | Note |", "|---|---|---|---|---|", ...rows.map(r => `| ${r.date || "TBD"} | ${r.status} | [${r.title.replace(/\|/g, "/")}](${r.url}) | ${r.source} | ${r.note.replace(/\|/g, "/").replace(/\n/g, " ")} |`)].join("\n");
+  navigator.clipboard?.writeText(md).then(() => toast(`Copied ${rows.length} rows as Markdown`));
+};
+el("exp-csv").onclick = () => {
+  const rows = planRows();
+  const cell = v => `"${String(v).replace(/"/g, '""')}"`;
+  const csv = [["date", "status", "title", "source", "type", "published", "url", "note"].join(","), ...rows.map(r => [r.date, r.status, r.title, r.source, r.type, r.published, r.url, r.note].map(cell).join(","))].join("\n");
+  download(`sn-radar-plan-${new Date().toISOString().slice(0, 10)}.csv`, csv, "text/csv");
+};
+el("exp-json").onclick = () => {
+  const plan = {}; Object.entries(state.plan).forEach(([id, p]) => { const it = byId[id] || {}; plan[id] = { ...p, title: it.title || p.title, source: it.source || p.source, type: it.type || p.type }; });
+  download(`sn-radar-backup-${new Date().toISOString().slice(0, 10)}.json`, JSON.stringify({ plan, seen: state.seen }, null, 2), "application/json");
+};
+el("imp-json").onclick = () => el("imp-file").click();
+el("imp-file").onchange = e => {
+  const f = e.target.files[0]; if (!f) return;
+  f.text().then(t => { const d = JSON.parse(t); Object.assign(state.plan, d.plan || {}); Object.assign(state.seen, d.seen || {}); persist(); update(); toast("Restored"); }).catch(() => toast("That file could not be read"));
+  e.target.value = "";
+};
+
+function renderHealth() {
+  const st = DATA.status || [];
+  const bad = st.filter(s => !s.ok).length;
+  el("health-sum").textContent = bad ? `Source health: ${bad} of ${st.length} sources failed on the last run` : `Source health: all ${st.length} sources fetched`;
+  el("health").innerHTML = st.map(s => `<tr><td class="${s.ok ? "ok" : "err"}">${s.ok ? "ok" : "failed"}</td><td>${esc(s.name)}</td><td>${s.ok ? s.items + " items" : esc(s.error)}</td></tr>`).join("");
+}
+
+function update() {
+  persist();
+  renderRail(); renderPulse(); renderTopics(); renderList(); renderPlan();
+}
+
+el("q").oninput = e => { state.q = e.target.value; state.limit = 60; renderTopics(); renderList(); };
+el("hide-seen").onchange = e => { state.hideSeen = e.target.checked; update(); };
+el("only-planned").onchange = e => { state.onlyPlanned = e.target.checked; update(); };
+el("src-all").onclick = () => { DATA.sources.forEach(s => state.sources.add(s.id)); update(); };
+el("src-none").onclick = () => { state.sources.clear(); update(); };
+el("mark-all-seen").onclick = () => { visible().forEach(i => state.seen[i.id] = now); update(); toast("Marked as seen"); };
+el("reset").onclick = () => { state.win = 7; state.types = new Set(TYPES.map(t => t[0])); state.groups = new Set(GROUPS.map(g => g[0])); state.sources = new Set(DATA.sources.map(s => s.id)); state.hideSeen = false; state.onlyPlanned = false; state.tags = new Set(); state.q = ""; el("q").value = ""; update(); };
+document.addEventListener("keydown", e => { if (e.key === "/" && document.activeElement !== el("q") && !/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName)) { e.preventDefault(); el("q").focus(); } });
+
+el("generated").textContent = "Updated " + new Date(DATA.generated_at).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
+renderHealth();
+update();
+</script>
+</body>
+</html>

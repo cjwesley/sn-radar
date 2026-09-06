@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# local originals, duplicated by docs/ and repo contents
+sn-radar.zip
+sn-radar-dashboard.html
