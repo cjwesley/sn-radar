@@ -1,6 +1,23 @@
 {
-"generated_at": "2026-09-07T21:33:08.317181+00:00",
+"generated_at": "2026-09-08T04:41:11.544794+00:00",
 "items": [
+{
+"id": "https://www.servicenow.com/community/japan-%E6%97%A5%E6%9C%AC-snug/world-forum-tokyo-26-%E9%96%8B%E7%99%BA%E8%80%85-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E5%BF%85%E8%A6%8B%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%BE%E3%81%A8%E3%82%81/ba-p/3595562",
+"title": "【World Forum Tokyo 26】開発者・エンジニア必見セッションまとめ",
+"url": "https://www.servicenow.com/community/japan-%E6%97%A5%E6%9C%AC-snug/world-forum-tokyo-26-%E9%96%8B%E7%99%BA%E8%80%85-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E5%BF%85%E8%A6%8B%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%BE%E3%81%A8%E3%82%81/ba-p/3595562",
+"source_id": "comm-all-articles",
+"source": "Community articles (all boards)",
+"type": "community",
+"group": "official",
+"via": "",
+"author": "Manarobot",
+"published": "2026-09-07T22:00:00+00:00",
+"summary": "tag, no <script> ============================================================ --> World Forum Tokyo 2026 — 開発者&エンジニア向けガイド 【World Forum Tokyo 26】開発者・エンジニア必見セッションまとめ そのAIは、人が活きる。 AI 駆動開発の最前線を、2日間で体験しよう。 📅 2026年10月27日（火）・28日（水） 📍 グランドプリンスホテル新高輪 ✅ 参加無料 詳細・登録はこちら → こんな方におすすめ 対象読者 プラットフォームオーナー・アーキテクト・DevOps...",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-09-08T04:41:06.424176+00:00",
+"tags": []
+},
 {
 "id": "https://www.youtube.com/shorts/y5ATPK8cANQ",
 "title": "Install the ServiceNow MCP Server Plugin on Your ServiceNow Instance",
@@ -895,7 +912,7 @@
 "source": "Google News: ServiceNow",
 "type": "news",
 "group": "press",
-"via": "cnbc.com",
+"via": "CNBC",
 "author": "",
 "published": "2026-09-03T17:31:00+00:00",
 "summary": "",
@@ -1941,6 +1958,23 @@
 "thumbnail": "https://i4.ytimg.com/vi/KzUbqJVZ9QE/hqdefault.jpg",
 "duration": "",
 "first_seen": "2026-09-02T19:12:05.075613+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVhUM1RqX3FvT2pxZHdmM2lsNnlpUExoVFVTNlVrNzZhQlpWcl81N29KM2xMWUxFU0hacEQzQUM1dmdNSWtaN0E5ckFwNWNHMEk4Z2FEVjVfRzNhMWhyOEVnTF9vUlFTOG83VFUtWFNKRXg3c1lLYTdyc0hMaUVma2RkTm1yXy1hZU11aWMwNmZSUmxxLWQxOVNNaWktZjZjS0M2SUFOaE1wSDJnMTRjLVRSRWs2ZTZMbk5jTTlyMA?oc=5",
+"title": "Cybersecurity News: ServiceNow vulnerabilities warning, PaperCut zero-day, McKesson healthcare breach",
+"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVhUM1RqX3FvT2pxZHdmM2lsNnlpUExoVFVTNlVrNzZhQlpWcl81N29KM2xMWUxFU0hacEQzQUM1dmdNSWtaN0E5ckFwNWNHMEk4Z2FEVjVfRzNhMWhyOEVnTF9vUlFTOG83VFUtWFNKRXg3c1lLYTdyc0hMaUVma2RkTm1yXy1hZU11aWMwNmZSUmxxLWQxOVNNaWktZjZjS0M2SUFOaE1wSDJnMTRjLVRSRWs2ZTZMbk5jTTlyMA?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "CISO Series",
+"author": "",
+"published": "2026-08-31T10:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-09-08T04:41:06.850056+00:00",
 "tags": []
 },
 {
@@ -3534,7 +3568,7 @@
 "source": "Google News: ServiceNow",
 "type": "news",
 "group": "press",
-"via": "bloomberg.com",
+"via": "Bloomberg.com",
 "author": "",
 "published": "2026-08-21T07:00:00+00:00",
 "summary": "",
@@ -4112,7 +4146,7 @@
 "source": "Google News: ServiceNow",
 "type": "news",
 "group": "press",
-"via": "Benzinga",
+"via": "benzinga.com",
 "author": "",
 "published": "2026-08-18T07:00:00+00:00",
 "summary": "",
@@ -5151,7 +5185,7 @@
 "source": "Google News: ServiceNow",
 "type": "news",
 "group": "press",
-"via": "finance.yahoo.com",
+"via": "Yahoo Finance",
 "author": "",
 "published": "2026-08-10T07:00:00+00:00",
 "summary": "",
@@ -6443,23 +6477,6 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-09-02T19:12:06.659641+00:00",
-"tags": []
-},
-{
-"id": "https://learning.servicenow.com/lxp?id=learning_course_prev&course_id=2543d343c3514bd4e5533b877d01314f",
-"title": "Episode 6 - From Curiosity to Capability with Kabria Holmes",
-"url": "https://learning.servicenow.com/lxp?id=learning_course_prev&course_id=2543d343c3514bd4e5533b877d01314f",
-"source_id": "pod-honor-roll",
-"source": "The Honor Roll (ServiceNow University)",
-"type": "podcast",
-"group": "official",
-"via": "",
-"author": "ServiceNow University Radio",
-"published": "2026-06-09T21:34:06+00:00",
-"summary": "We're back with Episode 6 of The Honor Roll — and this conversation with Kabria Holmes is not one to miss. Jasmine sits down with Kabria Holmes, ServiceNow Business Consultant, who came into the ecosystem through a completely nontraditional path — think classrooms, not coding bootcamps. Her story is a powerful...",
-"thumbnail": "https://img.transistorcdn.com/QgaiZnNGnq2_OOZjmEiuV6abvsS026Ggj-sF-OATpKY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZDE5/ODhhOWRlNmE1NTk0/YTdhZjYxODc0Y2Uy/ZTc4ZS5wbmc.jpg",
-"duration": "21m",
-"first_seen": "2026-09-02T19:12:05.914603+00:00",
 "tags": []
 }
 ]
