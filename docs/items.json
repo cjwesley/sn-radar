@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-09-22T21:21:52.128715+00:00",
+"generated_at": "2026-09-23T04:48:14.306797+00:00",
 "items": [
 {
 "id": "https://www.youtube.com/watch?v=-Pp3xCYo8xc",
@@ -62,7 +62,7 @@
 "group": "press",
 "via": "The Motley Fool",
 "author": "",
-"published": "2026-09-22T17:55:58+00:00",
+"published": "2026-09-22T18:53:00+00:00",
 "summary": "",
 "thumbnail": "",
 "duration": "",
@@ -288,6 +288,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-09-22T05:00:20.273125+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUEk0ZWhnSU04X2w4REt3YkhjMGtRVnd6bTJnYi1KQkszWk1RakFRYVNnT1cwVkFvUkF1czlpTDJ1dzdwVXpib2ZUbXhkVGwzNGRac0JESEtnSU83R2tZem1XWGRaMldmekdqWl8tbVNXQWdRNWhQcHVoWmhQX0c0SjZpejRXRlB6MWF5Y05QRXcxY2FRUjNNMQ?oc=5",
+"title": "- ServiceNow",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUEk0ZWhnSU04X2w4REt3YkhjMGtRVnd6bTJnYi1KQkszWk1RakFRYVNnT1cwVkFvUkF1czlpTDJ1dzdwVXpib2ZUbXhkVGwzNGRac0JESEtnSU83R2tZem1XWGRaMldmekdqWl8tbVNXQWdRNWhQcHVoWmhQX0c0SjZpejRXRlB6MWF5Y05QRXcxY2FRUjNNMQ?oc=5",
+"source_id": "news-sn-blog-via-gnews",
+"source": "servicenow.com blog (via Google News)",
+"type": "news",
+"group": "official",
+"via": "",
+"author": "",
+"published": "2026-09-22T03:12:53+00:00",
+"summary": "ServiceNow",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-09-23T04:48:10.557234+00:00",
 "tags": []
 },
 {
@@ -543,23 +560,6 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-09-21T04:59:29.114020+00:00",
-"tags": []
-},
-{
-"id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNVhzTkVwbXVoRjhyOXIyZXBtSFgwbVNibGdfc0x6R2hnb2JnR0RJWjNZZktnQ2V5aDZQTHFVakM1cDJBSDlMQnpZd1BHRFFUdVh5N3JGN1lWZkQzQ0VPZjM2ZXlVY1BRZmVzOHhzUXk5YWFVUkNSOTVWLVg2ZTZ1a1gtbURvSFI4SDNYOGZzd0RZVmdsTHhWcUhMdlNMbEJqWWliSg?oc=5",
-"title": "- ServiceNow",
-"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNVhzTkVwbXVoRjhyOXIyZXBtSFgwbVNibGdfc0x6R2hnb2JnR0RJWjNZZktnQ2V5aDZQTHFVakM1cDJBSDlMQnpZd1BHRFFUdVh5N3JGN1lWZkQzQ0VPZjM2ZXlVY1BRZmVzOHhzUXk5YWFVUkNSOTVWLVg2ZTZ1a1gtbURvSFI4SDNYOGZzd0RZVmdsTHhWcUhMdlNMbEJqWWliSg?oc=5",
-"source_id": "news-sn-blog-via-gnews",
-"source": "servicenow.com blog (via Google News)",
-"type": "news",
-"group": "official",
-"via": "",
-"author": "",
-"published": "2026-09-19T08:19:24+00:00",
-"summary": "ServiceNow",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-09-19T20:43:41.424101+00:00",
 "tags": []
 },
 {
@@ -878,7 +878,7 @@
 "source": "Google News: ServiceNow",
 "type": "news",
 "group": "press",
-"via": "diginomica",
+"via": "Diginomica",
 "author": "",
 "published": "2026-09-18T13:29:01+00:00",
 "summary": "",
@@ -7165,7 +7165,7 @@
 "source": "Google News: ServiceNow",
 "type": "news",
 "group": "press",
-"via": "Zencoder",
+"via": "zencoder.ai",
 "author": "",
 "published": "2026-08-24T07:00:00+00:00",
 "summary": "",
