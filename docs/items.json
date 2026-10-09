@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-08T23:23:13.685705+00:00",
+"generated_at": "2026-10-09T06:13:10.187924+00:00",
 "items": [
 {
 "id": "https://www.youtube.com/watch?v=j2BYpy4N1dQ",
@@ -67,6 +67,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-08T23:23:08.907470+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1FoYUQwNHB0cE9FSnp0NU1RVzdaQ1JzRHJUc2p5dzZ6UTVLSWphaFdhZ3l5NDdiQmJQUndCR3IwZ2RCQ1N4Y0MxbFpyS08wakZqRTFEWnZ5ZDBzZnkzQkNUZlNfMXNVR2VGVkRyNGdsNk5FNnM2NFBWbDd0aDVUWnhEYVFYT3l1Nk1pUm5aSEVUcGZqXy1SUkExQUdBUQ?oc=5",
+"title": "Work4Flow Launches 90-Day Program to Accelerate Salesforce-to-ServiceNow CRM Migration",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1FoYUQwNHB0cE9FSnp0NU1RVzdaQ1JzRHJUc2p5dzZ6UTVLSWphaFdhZ3l5NDdiQmJQUndCR3IwZ2RCQ1N4Y0MxbFpyS08wakZqRTFEWnZ5ZDBzZnkzQkNUZlNfMXNVR2VGVkRyNGdsNk5FNnM2NFBWbDd0aDVUWnhEYVFYT3l1Nk1pUm5aSEVUcGZqXy1SUkExQUdBUQ?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Yahoo Finance",
+"author": "",
+"published": "2026-10-08T17:12:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-09T06:13:06.109105+00:00",
 "tags": []
 },
 {
@@ -393,6 +410,23 @@
 "tags": []
 },
 {
+"id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFBsZWJIX2l0cU9vU0I1Y0dYOEwtWDMwdlkxd2sybmpxeXc1cFNWX0JveXlweThvaXVnN0RIZ3VlTVg1R2NMdlIzbjRORXB3MDd6YlRXN1pnYUNtVS0yOHFWTUZGNlQ1aXI4OFdhMUNIUHpHWENTaHNoS1lKM0pLWmIzVjFRNTB4N2c?oc=5",
+"title": "Is Trending Stock ServiceNow, Inc. (NOW) a Buy Now?",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFBsZWJIX2l0cU9vU0I1Y0dYOEwtWDMwdlkxd2sybmpxeXc1cFNWX0JveXlweThvaXVnN0RIZ3VlTVg1R2NMdlIzbjRORXB3MDd6YlRXN1pnYUNtVS0yOHFWTUZGNlQ1aXI4OFdhMUNIUHpHWENTaHNoS1lKM0pLWmIzVjFRNTB4N2c?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Yahoo Finance UK",
+"author": "",
+"published": "2026-10-07T12:00:02+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-09T06:13:06.112662+00:00",
+"tags": []
+},
+{
 "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnFsa29YQVNYOHlzc0RnbzNVWXBKaDE4TFFtNGVlaG1LQ09VZWtnR2Nha3RIdExJQnI0RGxOX0ZLdktZUzlSZ3ZvWms2U2tMVTRBaVNfMU81QXU0Tl9yQXFZZnRNZUlFSC1GRG8tclhxQTduMXdXWUpRQkR5VlNBem1sZ0xTN25ZclM5VVdHQm1naVE1VTBodTBHc2JWcXByYVNITg?oc=5",
 "title": "Microsoft and ServiceNow Target the AI Agent Control Layer",
 "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnFsa29YQVNYOHlzc0RnbzNVWXBKaDE4TFFtNGVlaG1LQ09VZWtnR2Nha3RIdExJQnI0RGxOX0ZLdktZUzlSZ3ZvWms2U2tMVTRBaVNfMU81QXU0Tl9yQXFZZnRNZUlFSC1GRG8tclhxQTduMXdXWUpRQkR5VlNBem1sZ0xTN25ZclM5VVdHQm1naVE1VTBodTBHc2JWcXByYVNITg?oc=5",
@@ -410,20 +444,20 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQmgxeE1tRS15ZXdZdDFoNktYbVk3TkJvOVc3bGJOc05QVkFOZGh0Ti1sc0hsREdxQ2VUTEM1WFVNdWJaTkVjVzFtS1pucHBZRVhZT3VkM09jUzFBMlE5Z1owNlZWTHZyWGxiSFl4bHVPQ2VZWDJKSGFjNi1kdWpPTUgyeURsMmFKNGNPNlZJeDZ6bU5lNHRrNzB1WGJWVWdDYWlrTlNmZ3BVNEV3ZW9CeGlxUFY2SHNKV0w3UFJPMGFZSVHSAcgBQVVfeXFMT0hMMGViVjR1SnR3Vmh2R2lCZjVBRUlLSzNhelhyWURVYXlWLUZUSV9oTTdPNWFxLWFCWENzYl9iT1NPX1FzSEFEbzJhS0h4R2t0M25PTjdqMDF4SzFQYXJsbGx6Y2tLYVhKbzFwd1ZJRUJwQkszaW96V1pEQkc3M01EMlZodkpmcW1nWC12R3JuZUI3RjRiVWpGNkJha3Y5ZWxQN0tQeFBxUk8yOWY1eWtPSTI2UEVXd1QzenJ2YnRDOGIyVzBYU1g?oc=5",
+"id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEwwZWJWNHVKdHdWaHZHaUJmNUFFSUtLM2F6WHJZRFVheVYtRlRJX2hNN081YXEtYUJYQ3NiX2JPU09fUXNIQURvMmFLSHhHa3Qzbk9ON2owMXhLMVBhcmxsbHpja0thWEpvMXB3VklFQnBCSzNpb3pXWkRCRzczTUQyVmh2SmZxbWdYLXZHcm5lQjdGNGJVakY2QmFrdjllbFA3S1B4UHFSTzI5ZjV5a09JMjZQRVd3VDN6cnZidEM4YjJXMFhTWNIByAFBVV95cUxPSEwwZWJWNHVKdHdWaHZHaUJmNUFFSUtLM2F6WHJZRFVheVYtRlRJX2hNN081YXEtYUJYQ3NiX2JPU09fUXNIQURvMmFLSHhHa3Qzbk9ON2owMXhLMVBhcmxsbHpja0thWEpvMXB3VklFQnBCSzNpb3pXWkRCRzczTUQyVmh2SmZxbWdYLXZHcm5lQjdGNGJVakY2QmFrdjllbFA3S1B4UHFSTzI5ZjV5a09JMjZQRVd3VDN6cnZidEM4YjJXMFhTWA?oc=5",
 "title": "ServiceNow (NOW) Stock May Be 49% Undervalued Following Its AI Service Desk Launch",
-"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQmgxeE1tRS15ZXdZdDFoNktYbVk3TkJvOVc3bGJOc05QVkFOZGh0Ti1sc0hsREdxQ2VUTEM1WFVNdWJaTkVjVzFtS1pucHBZRVhZT3VkM09jUzFBMlE5Z1owNlZWTHZyWGxiSFl4bHVPQ2VZWDJKSGFjNi1kdWpPTUgyeURsMmFKNGNPNlZJeDZ6bU5lNHRrNzB1WGJWVWdDYWlrTlNmZ3BVNEV3ZW9CeGlxUFY2SHNKV0w3UFJPMGFZSVHSAcgBQVVfeXFMT0hMMGViVjR1SnR3Vmh2R2lCZjVBRUlLSzNhelhyWURVYXlWLUZUSV9oTTdPNWFxLWFCWENzYl9iT1NPX1FzSEFEbzJhS0h4R2t0M25PTjdqMDF4SzFQYXJsbGx6Y2tLYVhKbzFwd1ZJRUJwQkszaW96V1pEQkc3M01EMlZodkpmcW1nWC12R3JuZUI3RjRiVWpGNkJha3Y5ZWxQN0tQeFBxUk8yOWY1eWtPSTI2UEVXd1QzenJ2YnRDOGIyVzBYU1g?oc=5",
+"url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEwwZWJWNHVKdHdWaHZHaUJmNUFFSUtLM2F6WHJZRFVheVYtRlRJX2hNN081YXEtYUJYQ3NiX2JPU09fUXNIQURvMmFLSHhHa3Qzbk9ON2owMXhLMVBhcmxsbHpja0thWEpvMXB3VklFQnBCSzNpb3pXWkRCRzczTUQyVmh2SmZxbWdYLXZHcm5lQjdGNGJVakY2QmFrdjllbFA3S1B4UHFSTzI5ZjV5a09JMjZQRVd3VDN6cnZidEM4YjJXMFhTWNIByAFBVV95cUxPSEwwZWJWNHVKdHdWaHZHaUJmNUFFSUtLM2F6WHJZRFVheVYtRlRJX2hNN081YXEtYUJYQ3NiX2JPU09fUXNIQURvMmFLSHhHa3Qzbk9ON2owMXhLMVBhcmxsbHpja0thWEpvMXB3VklFQnBCSzNpb3pXWkRCRzczTUQyVmh2SmZxbWdYLXZHcm5lQjdGNGJVakY2QmFrdjllbFA3S1B4UHFSTzI5ZjV5a09JMjZQRVd3VDN6cnZidEM4YjJXMFhTWA?oc=5",
 "source_id": "news-gnews",
 "source": "Google News: ServiceNow",
 "type": "news",
 "group": "press",
 "via": "Simply Wall Street",
 "author": "",
-"published": "2026-10-07T08:59:27+00:00",
+"published": "2026-10-07T08:59:28+00:00",
 "summary": "",
 "thumbnail": "",
 "duration": "",
-"first_seen": "2026-10-07T23:07:27.385928+00:00",
+"first_seen": "2026-10-09T06:13:06.113040+00:00",
 "tags": []
 },
 {
@@ -1458,7 +1492,7 @@
 "group": "press",
 "via": "Simply Wall Street",
 "author": "",
-"published": "2026-10-04T02:31:14+00:00",
+"published": "2026-10-04T06:43:33+00:00",
 "summary": "",
 "thumbnail": "",
 "duration": "",
@@ -3132,23 +3166,6 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEI4YWZjMlBuTHRzcTB0b2JINVFDUUVuNDRHSmRIN2xTS294dHhJV24zRkxZQlhEeWI3WHJUcWhERm1MTkZUUXZqZnRrREYtZjJVNUZUNTVYQXNWS1FXcjZqc0pVbTBCSDhSQkg0WmNxZmJON1R0aWNScG5DbWpac3JrNVdtWjZDY25MQl9sT0g0U1U2LVBMdHR3dUtBSkpoU2lKSHlXU24?oc=5",
-"title": "Automate RCA across ServiceNow, Dynatrace and Slack with AWS DevOps Agent",
-"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEI4YWZjMlBuTHRzcTB0b2JINVFDUUVuNDRHSmRIN2xTS294dHhJV24zRkxZQlhEeWI3WHJUcWhERm1MTkZUUXZqZnRrREYtZjJVNUZUNTVYQXNWS1FXcjZqc0pVbTBCSDhSQkg0WmNxZmJON1R0aWNScG5DbWpac3JrNVdtWjZDY25MQl9sT0g0U1U2LVBMdHR3dUtBSkpoU2lKSHlXU24?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "Amazon Web Services (AWS)",
-"author": "",
-"published": "2026-09-29T19:37:15+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-09-30T05:36:14.088728+00:00",
-"tags": []
-},
-{
 "id": "https://www.youtube.com/shorts/celPZ8-pvy8",
 "title": "Happy #NationalCoffeeDay",
 "url": "https://www.youtube.com/shorts/celPZ8-pvy8",
@@ -3299,6 +3316,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-09-29T12:57:07.196661+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEI4YWZjMlBuTHRzcTB0b2JINVFDUUVuNDRHSmRIN2xTS294dHhJV24zRkxZQlhEeWI3WHJUcWhERm1MTkZUUXZqZnRrREYtZjJVNUZUNTVYQXNWS1FXcjZqc0pVbTBCSDhSQkg0WmNxZmJON1R0aWNScG5DbWpac3JrNVdtWjZDY25MQl9sT0g0U1U2LVBMdHR3dUtBSkpoU2lKSHlXU24?oc=5",
+"title": "Automate RCA across ServiceNow, Dynatrace and Slack with AWS DevOps Agent",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEI4YWZjMlBuTHRzcTB0b2JINVFDUUVuNDRHSmRIN2xTS294dHhJV24zRkxZQlhEeWI3WHJUcWhERm1MTkZUUXZqZnRrREYtZjJVNUZUNTVYQXNWS1FXcjZqc0pVbTBCSDhSQkg0WmNxZmJON1R0aWNScG5DbWpac3JrNVdtWjZDY25MQl9sT0g0U1U2LVBMdHR3dUtBSkpoU2lKSHlXU24?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Amazon Web Services (AWS)",
+"author": "",
+"published": "2026-09-29T07:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-09-30T05:36:14.088728+00:00",
 "tags": []
 },
 {
