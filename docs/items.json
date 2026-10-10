@@ -1,6 +1,23 @@
 {
-"generated_at": "2026-10-10T12:36:15.154679+00:00",
+"generated_at": "2026-10-10T21:47:12.347015+00:00",
 "items": [
+{
+"id": "https://www.servicenow.com/community/flow-by-servicenow-blogs/servicenow-flow-vs-employeeworks-what-s-right-for-me/ba-p/3609216",
+"title": "ServiceNow Flow vs EmployeeWorks - What's right for me?",
+"url": "https://www.servicenow.com/community/flow-by-servicenow-blogs/servicenow-flow-vs-employeeworks-what-s-right-for-me/ba-p/3609216",
+"source_id": "comm-all-articles",
+"source": "Community articles (all boards)",
+"type": "community",
+"group": "official",
+"via": "",
+"author": "darius_koohmare",
+"published": "2026-10-10T16:39:12+00:00",
+"summary": "Many customers have expressed interest in better understanding the positioning and use of ServiceNow EmployeeWorks versus ServiceNow Flow. Both seem to offer conversational chat experiences in slack and teams for employees - so what's the difference? The truth is, these are radically different products, built to solve...",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-10T21:47:07.075659+00:00",
+"tags": []
+},
 {
 "id": "https://www.youtube.com/shorts/6X0zG0d_P-U",
 "title": "What If Your Integration Copied Nothing?",
@@ -135,6 +152,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-09T22:40:56.703564+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNME5WNjdjRmcwS2VzRE9NcE0wQzAzSDE1R3oySXVxcVpDNmFpMHU0MjlZMmZTV0hNZDZIenRQcE1kTk5jVi1iUW9RSFZncG9FbFFNSk9FWDJmTEZrYlZRTjVQRG1scmJWeHZUSEZ4eUd2dW5GSTktejdlZFU0dmkyeFlsRGlaT0tuMHJieDVWa2Eyb09EdHJfT0pOTlgyRTdyY1lQRWpzU2lINnZnVUZYRF83aDgyVnEzYjlFRUxJQndFakxmS1B0bjAzWWc5SXJnV2lzUDFUeDNFcWxnYlE0Zi0zSDh0aDROWHp1a0F2WUFvdw?oc=5",
+"title": "NOW Stock Surges 7% After-Hours As ServiceNow Beats Q2 Estimates, Lifts Full-Year Outlook",
+"url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNME5WNjdjRmcwS2VzRE9NcE0wQzAzSDE1R3oySXVxcVpDNmFpMHU0MjlZMmZTV0hNZDZIenRQcE1kTk5jVi1iUW9RSFZncG9FbFFNSk9FWDJmTEZrYlZRTjVQRG1scmJWeHZUSEZ4eUd2dW5GSTktejdlZFU0dmkyeFlsRGlaT0tuMHJieDVWa2Eyb09EdHJfT0pOTlgyRTdyY1lQRWpzU2lINnZnVUZYRF83aDgyVnEzYjlFRUxJQndFakxmS1B0bjAzWWc5SXJnV2lzUDFUeDNFcWxnYlE0Zi0zSDh0aDROWHp1a0F2WUFvdw?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Stocktwits",
+"author": "",
+"published": "2026-10-09T18:05:15+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-09-06T23:09:56.700401+00:00",
 "tags": []
 },
 {
@@ -903,6 +937,23 @@
 "tags": []
 },
 {
+"id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDhzRkFvMWtlQW9ZSTFtejlncHJtZ0ZnQUdzRFhkSGdvVXVRT2FxSVJDMlZrOFJOMmwtVFNXc1hDUTJYMEljdjM1NFhfaVo1cm8xcFFTS3dUZlBuREFuNFhYSFZMMlVKZlI3VWpFbTBTS1NMMXI1eGR1ZFNLV2JZNkRMN3pjY3VsSklMaUhFSDAzRmRnbFJ4R3dKa1ZoS1p1QUxTRnAzR1d2RjE3?oc=5",
+"title": "Watch ServiceNow President and COO Amit Zavery on AI Demand",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDhzRkFvMWtlQW9ZSTFtejlncHJtZ0ZnQUdzRFhkSGdvVXVRT2FxSVJDMlZrOFJOMmwtVFNXc1hDUTJYMEljdjM1NFhfaVo1cm8xcFFTS3dUZlBuREFuNFhYSFZMMlVKZlI3VWpFbTBTS1NMMXI1eGR1ZFNLV2JZNkRMN3pjY3VsSklMaUhFSDAzRmRnbFJ4R3dKa1ZoS1p1QUxTRnAzR1d2RjE3?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Bloomberg.com",
+"author": "",
+"published": "2026-10-07T06:06:32+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-07T13:28:56.863868+00:00",
+"tags": []
+},
+{
 "id": "https://www.youtube.com/watch?v=eF1P9e9BZRw",
 "title": "How Bundesliga solves 89% of fan issues on first contact",
 "url": "https://www.youtube.com/watch?v=eF1P9e9BZRw",
@@ -968,23 +1019,6 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-07T13:28:56.863294+00:00",
-"tags": []
-},
-{
-"id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDhzRkFvMWtlQW9ZSTFtejlncHJtZ0ZnQUdzRFhkSGdvVXVRT2FxSVJDMlZrOFJOMmwtVFNXc1hDUTJYMEljdjM1NFhfaVo1cm8xcFFTS3dUZlBuREFuNFhYSFZMMlVKZlI3VWpFbTBTS1NMMXI1eGR1ZFNLV2JZNkRMN3pjY3VsSklMaUhFSDAzRmRnbFJ4R3dKa1ZoS1p1QUxTRnAzR1d2RjE3?oc=5",
-"title": "Watch ServiceNow President and COO Amit Zavery on AI Demand",
-"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDhzRkFvMWtlQW9ZSTFtejlncHJtZ0ZnQUdzRFhkSGdvVXVRT2FxSVJDMlZrOFJOMmwtVFNXc1hDUTJYMEljdjM1NFhfaVo1cm8xcFFTS3dUZlBuREFuNFhYSFZMMlVKZlI3VWpFbTBTS1NMMXI1eGR1ZFNLV2JZNkRMN3pjY3VsSklMaUhFSDAzRmRnbFJ4R3dKa1ZoS1p1QUxTRnAzR1d2RjE3?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "Bloomberg.com",
-"author": "",
-"published": "2026-10-07T00:00:00+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-07T13:28:56.863868+00:00",
 "tags": []
 },
 {
@@ -2333,23 +2367,6 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGhZcGh3LWt2eHE3WXF6Y1BHNUFSM2x6REN2XzVfS0V4cEF1Rml0RXhhQy1EU1R2WmV5amdxMVZNNE44amhwUm5fckRPYS1tYzJ6eXQ5aExxdkJoUWlLNVdCSkEtbzJHVkc1eW5MOVE2N1VXcHI5Y3ozSWFiN3BfbHNFWXRPXzlYLTRpRWlTZzJmaDdrbEhPLTBmZw?oc=5",
-"title": "ServiceNow Flow: Can a One-Day Deploy Reshape Enterprise ITSM?",
-"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGhZcGh3LWt2eHE3WXF6Y1BHNUFSM2x6REN2XzVfS0V4cEF1Rml0RXhhQy1EU1R2WmV5amdxMVZNNE44amhwUm5fckRPYS1tYzJ6eXQ5aExxdkJoUWlLNVdCSkEtbzJHVkc1eW5MOVE2N1VXcHI5Y3ozSWFiN3BfbHNFWXRPXzlYLTRpRWlTZzJmaDdrbEhPLTBmZw?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "The Futurum Group",
-"author": "",
-"published": "2026-10-02T14:34:28+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-03T05:21:54.440777+00:00",
-"tags": []
-},
-{
 "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXYwQ1lReUNaeWZTYlBPSG9YRjE1V25pbjBIZmhQeU1KYlMzZWVNMG9EeURwTTJXTEUzUkJUYjZKTkdQel96d3RXN3ZUYWtYMy1oeE1sd0x5YW1rRDR4Wlg2Q2ZBbjNUdXVzQzhFV1NXQmR6Rmd1MHRlcU8tal9vQWcyV1BubERSeVVHYU9MSTZSbFNDRmtySlpRdVllbHZRY0ZtWUdSaEQwOGMxZm5mQk1wcXFyaXc?oc=5",
 "title": "ServiceNow’s AI-Powered Flow Service Desk Aims To Open Midmarket Opportunities",
 "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXYwQ1lReUNaeWZTYlBPSG9YRjE1V25pbjBIZmhQeU1KYlMzZWVNMG9EeURwTTJXTEUzUkJUYjZKTkdQel96d3RXN3ZUYWtYMy1oeE1sd0x5YW1rRDR4Wlg2Q2ZBbjNUdXVzQzhFV1NXQmR6Rmd1MHRlcU8tal9vQWcyV1BubERSeVVHYU9MSTZSbFNDRmtySlpRdVllbHZRY0ZtWUdSaEQwOGMxZm5mQk1wcXFyaXc?oc=5",
@@ -2401,23 +2418,6 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY1AtS2JZYWphWnF4aGlJSk5jbFNlVjRyZjEzcy1pbVNYbnFMY0VhRVFrUmRpTVRUMGZjUEMxQkh6TXlhQXFZRXdMMFcweHM3R3Q3cUc5Ql9jUks4eHh6WDZ1WTdibWJtcWgzUllnTDRMUmZ0N2ZMbEsyaFNjb0dLVklHalgybGFSb29Lcnc3ZTdFdDdSN0JqUUNkcnZfVlk2VzAwODdPN3MycFU2?oc=5",
-"title": "ServiceNow: No Progress On Margins And Fully Valued (Rating Downgrade)",
-"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY1AtS2JZYWphWnF4aGlJSk5jbFNlVjRyZjEzcy1pbVNYbnFMY0VhRVFrUmRpTVRUMGZjUEMxQkh6TXlhQXFZRXdMMFcweHM3R3Q3cUc5Ql9jUks4eHh6WDZ1WTdibWJtcWgzUllnTDRMUmZ0N2ZMbEsyaFNjb0dLVklHalgybGFSb29Lcnc3ZTdFdDdSN0JqUUNkcnZfVlk2VzAwODdPN3MycFU2?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "Seeking Alpha",
-"author": "",
-"published": "2026-10-02T10:13:42+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-02T12:40:26.961578+00:00",
-"tags": []
-},
-{
 "id": "https://www.servicenow.com/community/developer-blog/the-end-of-nowllm-closing-an-in-house-era/ba-p/3577009",
 "title": "The End of NowLLM : Closing an In-House Era",
 "url": "https://www.servicenow.com/community/developer-blog/the-end-of-nowllm-closing-an-in-house-era/ba-p/3577009",
@@ -2449,6 +2449,40 @@
 "thumbnail": "https://i3.ytimg.com/vi/VREgCVLmsqc/hqdefault.jpg",
 "duration": "",
 "first_seen": "2026-10-02T12:40:25.424325+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGhZcGh3LWt2eHE3WXF6Y1BHNUFSM2x6REN2XzVfS0V4cEF1Rml0RXhhQy1EU1R2WmV5amdxMVZNNE44amhwUm5fckRPYS1tYzJ6eXQ5aExxdkJoUWlLNVdCSkEtbzJHVkc1eW5MOVE2N1VXcHI5Y3ozSWFiN3BfbHNFWXRPXzlYLTRpRWlTZzJmaDdrbEhPLTBmZw?oc=5",
+"title": "ServiceNow Flow: Can a One-Day Deploy Reshape Enterprise ITSM?",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGhZcGh3LWt2eHE3WXF6Y1BHNUFSM2x6REN2XzVfS0V4cEF1Rml0RXhhQy1EU1R2WmV5amdxMVZNNE44amhwUm5fckRPYS1tYzJ6eXQ5aExxdkJoUWlLNVdCSkEtbzJHVkc1eW5MOVE2N1VXcHI5Y3ozSWFiN3BfbHNFWXRPXzlYLTRpRWlTZzJmaDdrbEhPLTBmZw?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "The Futurum Group",
+"author": "",
+"published": "2026-10-02T07:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-03T05:21:54.440777+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY1AtS2JZYWphWnF4aGlJSk5jbFNlVjRyZjEzcy1pbVNYbnFMY0VhRVFrUmRpTVRUMGZjUEMxQkh6TXlhQXFZRXdMMFcweHM3R3Q3cUc5Ql9jUks4eHh6WDZ1WTdibWJtcWgzUllnTDRMUmZ0N2ZMbEsyaFNjb0dLVklHalgybGFSb29Lcnc3ZTdFdDdSN0JqUUNkcnZfVlk2VzAwODdPN3MycFU2?oc=5",
+"title": "ServiceNow: No Progress On Margins And Fully Valued (Rating Downgrade)",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY1AtS2JZYWphWnF4aGlJSk5jbFNlVjRyZjEzcy1pbVNYbnFMY0VhRVFrUmRpTVRUMGZjUEMxQkh6TXlhQXFZRXdMMFcweHM3R3Q3cUc5Ql9jUks4eHh6WDZ1WTdibWJtcWgzUllnTDRMUmZ0N2ZMbEsyaFNjb0dLVklHalgybGFSb29Lcnc3ZTdFdDdSN0JqUUNkcnZfVlk2VzAwODdPN3MycFU2?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Seeking Alpha",
+"author": "",
+"published": "2026-10-02T07:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-02T12:40:26.961578+00:00",
 "tags": []
 },
 {
@@ -8358,23 +8392,6 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-09-13T04:52:09.978574+00:00",
-"tags": []
-},
-{
-"id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNME5WNjdjRmcwS2VzRE9NcE0wQzAzSDE1R3oySXVxcVpDNmFpMHU0MjlZMmZTV0hNZDZIenRQcE1kTk5jVi1iUW9RSFZncG9FbFFNSk9FWDJmTEZrYlZRTjVQRG1scmJWeHZUSEZ4eUd2dW5GSTktejdlZFU0dmkyeFlsRGlaT0tuMHJieDVWa2Eyb09EdHJfT0pOTlgyRTdyY1lQRWpzU2lINnZnVUZYRF83aDgyVnEzYjlFRUxJQndFakxmS1B0bjAzWWc5SXJnV2lzUDFUeDNFcWxnYlE0Zi0zSDh0aDROWHp1a0F2WUFvdw?oc=5",
-"title": "NOW Stock Surges 7% After-Hours As ServiceNow Beats Q2 Estimates, Lifts Full-Year Outlook",
-"url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNME5WNjdjRmcwS2VzRE9NcE0wQzAzSDE1R3oySXVxcVpDNmFpMHU0MjlZMmZTV0hNZDZIenRQcE1kTk5jVi1iUW9RSFZncG9FbFFNSk9FWDJmTEZrYlZRTjVQRG1scmJWeHZUSEZ4eUd2dW5GSTktejdlZFU0dmkyeFlsRGlaT0tuMHJieDVWa2Eyb09EdHJfT0pOTlgyRTdyY1lQRWpzU2lINnZnVUZYRF83aDgyVnEzYjlFRUxJQndFakxmS1B0bjAzWWc5SXJnV2lzUDFUeDNFcWxnYlE0Zi0zSDh0aDROWHp1a0F2WUFvdw?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "Stocktwits",
-"author": "",
-"published": "2026-09-12T06:43:26+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-09-06T23:09:56.700401+00:00",
 "tags": []
 },
 {
@@ -15850,23 +15867,6 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-09-02T19:12:05.439041+00:00",
-"tags": []
-},
-{
-"id": "https://www.youtube.com/watch?v=0lKa50IXFWU",
-"title": "New ServiceNow PDI Instance Access: Reclamation Policy (July 2026 Update)",
-"url": "https://www.youtube.com/watch?v=0lKa50IXFWU",
-"source_id": "yt-techtalk-bill",
-"source": "TechTalk with Bill",
-"type": "video",
-"group": "creator",
-"via": "",
-"author": "TechTalk with Bill",
-"published": "2026-07-12T14:47:06+00:00",
-"summary": "ServiceNow PDI Reclamation Policy Is Live (July 11): Avoid Losing Your Developer Instance ServiceNow PDI reclamation policy changes are now in effect. Check your ServiceNow developer instance status to ensure your work remains active. Effective July 11th, 2026, the updated PDI reclamation policy has shifted how...",
-"thumbnail": "https://i1.ytimg.com/vi/0lKa50IXFWU/hqdefault.jpg",
-"duration": "",
-"first_seen": "2026-09-06T23:19:33.601765+00:00",
 "tags": []
 }
 ]
