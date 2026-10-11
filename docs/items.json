@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-10T21:47:12.347015+00:00",
+"generated_at": "2026-10-11T05:51:19.163324+00:00",
 "items": [
 {
 "id": "https://www.servicenow.com/community/flow-by-servicenow-blogs/servicenow-flow-vs-employeeworks-what-s-right-for-me/ba-p/3609216",
@@ -11,8 +11,8 @@
 "group": "official",
 "via": "",
 "author": "darius_koohmare",
-"published": "2026-10-10T16:39:12+00:00",
-"summary": "Many customers have expressed interest in better understanding the positioning and use of ServiceNow EmployeeWorks versus ServiceNow Flow. Both seem to offer conversational chat experiences in slack and teams for employees - so what's the difference? The truth is, these are radically different products, built to solve...",
+"published": "2026-10-10T23:17:41+00:00",
+"summary": "Many customers have expressed interest in better understanding the positioning and use of ServiceNow EmployeeWorks versus ServiceNow Flow . Both seem to offer conversational chat experiences in slack and teams for employees - so what's the difference? The truth is, these are radically different products, built to...",
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-10T21:47:07.075659+00:00",
@@ -563,20 +563,20 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yTEJqUTBwdzR5Z29yR3hqZjN5TG4xR1JwTS1OVFVvM1MzZE1HOVU5ZXRkQ0w0R1hwMjZRZDZXWHdoV1lOUW1wYmpQOTI2WktGNHlYZWg5T0hndHNBQm45N1dCam51dmFtNkp0RTNsZmNPcmxIYnpn?oc=5",
-"title": "This Week: ServiceNow Automates, Atlassian Patches",
-"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yTEJqUTBwdzR5Z29yR3hqZjN5TG4xR1JwTS1OVFVvM1MzZE1HOVU5ZXRkQ0w0R1hwMjZRZDZXWHdoV1lOUW1wYmpQOTI2WktGNHlYZWg5T0hndHNBQm45N1dCam51dmFtNkp0RTNsZmNPcmxIYnpn?oc=5",
+"id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeVhuUWJyQzNJOVVTdlZBNzZFOTVEbUtKLWZuX0hPVEZjNmpfdW01X1YySDJVbkVHbTVMcHhJeDlYcFZvSkd6MlE2eHVVRTZzVGVKLXQtanQtY0RDWnVOcy1kVEcyb0lzc2JWZXJMZkIwUm02ZGFDdlhwZGh2RWo5S0ZvQ3ktcVZwcFZUQXI2X0puNExoVFJVNA?oc=5",
+"title": "Core6 Announces Partnership with Armis from ServiceNow to Extend Cyber Exposure Management to Storage and Backup Systems",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeVhuUWJyQzNJOVVTdlZBNzZFOTVEbUtKLWZuX0hPVEZjNmpfdW01X1YySDJVbkVHbTVMcHhJeDlYcFZvSkd6MlE2eHVVRTZzVGVKLXQtanQtY0RDWnVOcy1kVEcyb0lzc2JWZXJMZkIwUm02ZGFDdlhwZGh2RWo5S0ZvQ3ktcVZwcFZUQXI2X0puNExoVFJVNA?oc=5",
 "source_id": "news-gnews",
 "source": "Google News: ServiceNow",
 "type": "news",
 "group": "press",
-"via": "UC Today",
+"via": "Yahoo! Finance Canada",
 "author": "",
-"published": "2026-10-08T11:04:54+00:00",
+"published": "2026-10-08T12:30:00+00:00",
 "summary": "",
 "thumbnail": "",
 "duration": "",
-"first_seen": "2026-10-07T06:04:21.790401+00:00",
+"first_seen": "2026-10-11T05:51:12.486156+00:00",
 "tags": []
 },
 {
@@ -1104,6 +1104,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-06T06:25:02.822810+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yTEJqUTBwdzR5Z29yR3hqZjN5TG4xR1JwTS1OVFVvM1MzZE1HOVU5ZXRkQ0w0R1hwMjZRZDZXWHdoV1lOUW1wYmpQOTI2WktGNHlYZWg5T0hndHNBQm45N1dCam51dmFtNkp0RTNsZmNPcmxIYnpn?oc=5",
+"title": "This Week: ServiceNow Automates, Atlassian Patches",
+"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yTEJqUTBwdzR5Z29yR3hqZjN5TG4xR1JwTS1OVFVvM1MzZE1HOVU5ZXRkQ0w0R1hwMjZRZDZXWHdoV1lOUW1wYmpQOTI2WktGNHlYZWg5T0hndHNBQm45N1dCam51dmFtNkp0RTNsZmNPcmxIYnpn?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "UC Today",
+"author": "",
+"published": "2026-10-06T14:03:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-07T06:04:21.790401+00:00",
 "tags": []
 },
 {
@@ -2605,23 +2622,6 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV2tpVHk5UU1DTUg4UG9DcndrZHJ6VmJETmRKVng2ZDZsb1RtckY0M1RFS3R1S3BpZDQ0SHRNTjk2LWpWc0NVWnB2MDRiZV9KejItVUw1SS0xREtGdnBEYlhPbXp1YjB6RWVXdzVfb3ZjYnRMUGVETHBTN1lZT01LUlJHVjlWcnF3NnVwVFd4VEg5VHJ2MEMzSW9rX0ktQkd0NXJNTWRVdkZWQQ?oc=5",
-"title": "ServiceNow (NOW) Outperforms Broader Market: What You Need to Know",
-"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV2tpVHk5UU1DTUg4UG9DcndrZHJ6VmJETmRKVng2ZDZsb1RtckY0M1RFS3R1S3BpZDQ0SHRNTjk2LWpWc0NVWnB2MDRiZV9KejItVUw1SS0xREtGdnBEYlhPbXp1YjB6RWVXdzVfb3ZjYnRMUGVETHBTN1lZT01LUlJHVjlWcnF3NnVwVFd4VEg5VHJ2MEMzSW9rX0ktQkd0NXJNTWRVdkZWQQ?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "Yahoo Finance",
-"author": "",
-"published": "2026-10-01T20:45:06+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-03T05:21:54.440374+00:00",
-"tags": []
-},
-{
 "id": "https://www.youtube.com/shorts/2rp4dmNA8Ek",
 "title": "The bug report has a prologue #devlife #softwaredeveloper #techhumor #qa #bugreport",
 "url": "https://www.youtube.com/shorts/2rp4dmNA8Ek",
@@ -2860,40 +2860,6 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXM0Y3RmVGZFLXVONEI3dVlHbmx3ZHhfU2JTZ3VkRTdadjlhZm1FRWt4RUtJWlJHbEw4cS1aNEhlaTI2QmhQWXpkbkhUbFl6dWh4enVlWjIzSzFOWkdtMmhVaXJISzN6UWpvaUhVb3dvS1VDVWZzeEZxR3VObFNvdmpiLVNjRFdIM3gtQ1p1UE9PdFBIeC1KZHZ1MHpZeUFZQnR4QzJsaEVEd2FkQUJPNEJlWEN0YnVkbEo3TzZBUUU1N2M?oc=5",
-"title": "ServiceNow Climbs 4% as Software Names Lead a Rebound; Intuit Jumps 4%, Adobe Rises 3%",
-"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXM0Y3RmVGZFLXVONEI3dVlHbmx3ZHhfU2JTZ3VkRTdadjlhZm1FRWt4RUtJWlJHbEw4cS1aNEhlaTI2QmhQWXpkbkhUbFl6dWh4enVlWjIzSzFOWkdtMmhVaXJISzN6UWpvaUhVb3dvS1VDVWZzeEZxR3VObFNvdmpiLVNjRFdIM3gtQ1p1UE9PdFBIeC1KZHZ1MHpZeUFZQnR4QzJsaEVEd2FkQUJPNEJlWEN0YnVkbEo3TzZBUUU1N2M?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "24/7 Wall St.",
-"author": "",
-"published": "2026-10-01T13:33:00+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-09T22:40:56.843745+00:00",
-"tags": []
-},
-{
-"id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa29ia2hxa0YzUmk3Y1JNc01FV0tHYWlWX2lWTnBsV0VJMFYwSUxRRVFqbm5mS3V2dDNWVDRLU1AxOWJNdW9jMEx1R3NnY1J0M0JORV9tdFZael92YlB6YTVHeTZlODlOTHBEX0swbnFWNWoyLS0tbVM2TmFudmhQSzVMaXI3ZEtrbE1sallMekVnanhyRlBOREgxaU5jaUkyYl9uYw?oc=5",
-"title": "Why ServiceNow built a startup inside itself to take on AI-native rivals",
-"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa29ia2hxa0YzUmk3Y1JNc01FV0tHYWlWX2lWTnBsV0VJMFYwSUxRRVFqbm5mS3V2dDNWVDRLU1AxOWJNdW9jMEx1R3NnY1J0M0JORV9tdFZael92YlB6YTVHeTZlODlOTHBEX0swbnFWNWoyLS0tbVM2TmFudmhQSzVMaXI3ZEtrbE1sallMekVnanhyRlBOREgxaU5jaUkyYl9uYw?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "Fast Company",
-"author": "",
-"published": "2026-10-01T13:07:45+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-01T22:43:27.336934+00:00",
-"tags": []
-},
-{
 "id": "https://www.youtube.com/watch?v=30w5bzZyJgk",
 "title": "Make your work Flow | Introducing Flow by ServiceNow",
 "url": "https://www.youtube.com/watch?v=30w5bzZyJgk",
@@ -2979,6 +2945,57 @@
 "tags": []
 },
 {
+"id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV2tpVHk5UU1DTUg4UG9DcndrZHJ6VmJETmRKVng2ZDZsb1RtckY0M1RFS3R1S3BpZDQ0SHRNTjk2LWpWc0NVWnB2MDRiZV9KejItVUw1SS0xREtGdnBEYlhPbXp1YjB6RWVXdzVfb3ZjYnRMUGVETHBTN1lZT01LUlJHVjlWcnF3NnVwVFd4VEg5VHJ2MEMzSW9rX0ktQkd0NXJNTWRVdkZWQQ?oc=5",
+"title": "ServiceNow (NOW) Outperforms Broader Market: What You Need to Know",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV2tpVHk5UU1DTUg4UG9DcndrZHJ6VmJETmRKVng2ZDZsb1RtckY0M1RFS3R1S3BpZDQ0SHRNTjk2LWpWc0NVWnB2MDRiZV9KejItVUw1SS0xREtGdnBEYlhPbXp1YjB6RWVXdzVfb3ZjYnRMUGVETHBTN1lZT01LUlJHVjlWcnF3NnVwVFd4VEg5VHJ2MEMzSW9rX0ktQkd0NXJNTWRVdkZWQQ?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Yahoo Finance",
+"author": "",
+"published": "2026-10-01T07:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-03T05:21:54.440374+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXM0Y3RmVGZFLXVONEI3dVlHbmx3ZHhfU2JTZ3VkRTdadjlhZm1FRWt4RUtJWlJHbEw4cS1aNEhlaTI2QmhQWXpkbkhUbFl6dWh4enVlWjIzSzFOWkdtMmhVaXJISzN6UWpvaUhVb3dvS1VDVWZzeEZxR3VObFNvdmpiLVNjRFdIM3gtQ1p1UE9PdFBIeC1KZHZ1MHpZeUFZQnR4QzJsaEVEd2FkQUJPNEJlWEN0YnVkbEo3TzZBUUU1N2M?oc=5",
+"title": "ServiceNow Climbs 4% as Software Names Lead a Rebound; Intuit Jumps 4%, Adobe Rises 3%",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXM0Y3RmVGZFLXVONEI3dVlHbmx3ZHhfU2JTZ3VkRTdadjlhZm1FRWt4RUtJWlJHbEw4cS1aNEhlaTI2QmhQWXpkbkhUbFl6dWh4enVlWjIzSzFOWkdtMmhVaXJISzN6UWpvaUhVb3dvS1VDVWZzeEZxR3VObFNvdmpiLVNjRFdIM3gtQ1p1UE9PdFBIeC1KZHZ1MHpZeUFZQnR4QzJsaEVEd2FkQUJPNEJlWEN0YnVkbEo3TzZBUUU1N2M?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "24/7 Wall St.",
+"author": "",
+"published": "2026-10-01T07:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-09T22:40:56.843745+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa29ia2hxa0YzUmk3Y1JNc01FV0tHYWlWX2lWTnBsV0VJMFYwSUxRRVFqbm5mS3V2dDNWVDRLU1AxOWJNdW9jMEx1R3NnY1J0M0JORV9tdFZael92YlB6YTVHeTZlODlOTHBEX0swbnFWNWoyLS0tbVM2TmFudmhQSzVMaXI3ZEtrbE1sallMekVnanhyRlBOREgxaU5jaUkyYl9uYw?oc=5",
+"title": "Why ServiceNow built a startup inside itself to take on AI-native rivals",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa29ia2hxa0YzUmk3Y1JNc01FV0tHYWlWX2lWTnBsV0VJMFYwSUxRRVFqbm5mS3V2dDNWVDRLU1AxOWJNdW9jMEx1R3NnY1J0M0JORV9tdFZael92YlB6YTVHeTZlODlOTHBEX0swbnFWNWoyLS0tbVM2TmFudmhQSzVMaXI3ZEtrbE1sallMekVnanhyRlBOREgxaU5jaUkyYl9uYw?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Fast Company",
+"author": "",
+"published": "2026-10-01T07:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-01T22:43:27.336934+00:00",
+"tags": []
+},
+{
 "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeEwtUkVYdDB6VWxSUUl6R0RfV3Z5bEFITXA4M1BTQUo5Z1h1RnVjN2pVRWQxWGp2SHh3Rkd1VUgyM05yV3kzd3pxWU16eTV4blU5dDlxWlhzVEozMFRwOTV4ZVUzUDhCVWtPTFoyVFpuYlZoQzZkVHBuN3dxVERDUVBPMW5DVmVwbEtRSXlXQlV6MFBjeGhiNmp3QTM4Vk5KbW5ENmEzdWd0VmNPczZiN2pzYnRNNkdmcWxfbjFxMjlJb2VRaUJz?oc=5",
 "title": "Meta, ServiceNow and these 7 other tech stocks could lead the next leg of the AI trade",
 "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeEwtUkVYdDB6VWxSUUl6R0RfV3Z5bEFITXA4M1BTQUo5Z1h1RnVjN2pVRWQxWGp2SHh3Rkd1VUgyM05yV3kzd3pxWU16eTV4blU5dDlxWlhzVEozMFRwOTV4ZVUzUDhCVWtPTFoyVFpuYlZoQzZkVHBuN3dxVERDUVBPMW5DVmVwbEtRSXlXQlV6MFBjeGhiNmp3QTM4Vk5KbW5ENmEzdWd0VmNPczZiN2pzYnRNNkdmcWxfbjFxMjlJb2VRaUJz?oc=5",
@@ -3044,23 +3061,6 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-06T18:24:36.281176+00:00",
-"tags": []
-},
-{
-"id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0g3TmMyTUMzYzJmdzZQc28wVmZEYUlWSkpSdmNDdm1SRnNxOEFuX0hDLXhSNlY3Zk5uZktkSVNYemtaSTRrRkhBSWtJenhBeUZlTWYwby1zZHg4ZjV1U3NyZ1pPcktqOXVoTTV6cnl3WHZVb0pyWVRUa000MzZTbHFXZkpmVU5rOXlGNENHQVJhY0pMeEx2ZTlqb09vS1BMTUVKVXQ1U3g4enA4MUdKVlVuRmxleXhURm9sdjFvVml1QnB1MmRzWA?oc=5",
-"title": "ServiceNow vs. Palantir Technologies: Which Tech Stock Is a Better Buy in 2026?",
-"url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0g3TmMyTUMzYzJmdzZQc28wVmZEYUlWSkpSdmNDdm1SRnNxOEFuX0hDLXhSNlY3Zk5uZktkSVNYemtaSTRrRkhBSWtJenhBeUZlTWYwby1zZHg4ZjV1U3NyZ1pPcktqOXVoTTV6cnl3WHZVb0pyWVRUa000MzZTbHFXZkpmVU5rOXlGNENHQVJhY0pMeEx2ZTlqb09vS1BMTUVKVXQ1U3g4enA4MUdKVlVuRmxleXhURm9sdjFvVml1QnB1MmRzWA?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "The Motley Fool",
-"author": "",
-"published": "2026-10-01T00:35:00+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-01T05:59:57.226430+00:00",
 "tags": []
 },
 {
@@ -3404,6 +3404,23 @@
 "tags": []
 },
 {
+"id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0g3TmMyTUMzYzJmdzZQc28wVmZEYUlWSkpSdmNDdm1SRnNxOEFuX0hDLXhSNlY3Zk5uZktkSVNYemtaSTRrRkhBSWtJenhBeUZlTWYwby1zZHg4ZjV1U3NyZ1pPcktqOXVoTTV6cnl3WHZVb0pyWVRUa000MzZTbHFXZkpmVU5rOXlGNENHQVJhY0pMeEx2ZTlqb09vS1BMTUVKVXQ1U3g4enA4MUdKVlVuRmxleXhURm9sdjFvVml1QnB1MmRzWA?oc=5",
+"title": "ServiceNow vs. Palantir Technologies: Which Tech Stock Is a Better Buy in 2026?",
+"url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0g3TmMyTUMzYzJmdzZQc28wVmZEYUlWSkpSdmNDdm1SRnNxOEFuX0hDLXhSNlY3Zk5uZktkSVNYemtaSTRrRkhBSWtJenhBeUZlTWYwby1zZHg4ZjV1U3NyZ1pPcktqOXVoTTV6cnl3WHZVb0pyWVRUa000MzZTbHFXZkpmVU5rOXlGNENHQVJhY0pMeEx2ZTlqb09vS1BMTUVKVXQ1U3g4enA4MUdKVlVuRmxleXhURm9sdjFvVml1QnB1MmRzWA?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "The Motley Fool",
+"author": "",
+"published": "2026-09-30T07:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-01T05:59:57.226430+00:00",
+"tags": []
+},
+{
 "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkRQVEh5SWtCcWRmV3ZfMWFUVkVhcno0cVFONG5uaXkxUnpFZmt5YWhWVkM1Q2NJWnY5cUNwVjlaT0Z1SUwzLXNKOFV0MFd4R05fT1hJbk5JbENtZXZkZDh4V1hiR1hVOUF3cjExaWk0dlpaNHpuSHRaMlQtT0xYbE5uU3Fjd1pXM2VXZS1OTDFzdHprZVB1OUxTY21fQWxSbGVmeEx6WlBsUjlhZ3c?oc=5",
 "title": "ServiceNow Stock Rises Wednesday: What's Happening?",
 "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkRQVEh5SWtCcWRmV3ZfMWFUVkVhcno0cVFONG5uaXkxUnpFZmt5YWhWVkM1Q2NJWnY5cUNwVjlaT0Z1SUwzLXNKOFV0MFd4R05fT1hJbk5JbENtZXZkZDh4V1hiR1hVOUF3cjExaWk0dlpaNHpuSHRaMlQtT0xYbE5uU3Fjd1pXM2VXZS1OTDFzdHprZVB1OUxTY21fQWxSbGVmeEx6WlBsUjlhZ3c?oc=5",
@@ -3469,23 +3486,6 @@
 "thumbnail": "https://i1.ytimg.com/vi/xBOEnEb8COs/hqdefault.jpg",
 "duration": "",
 "first_seen": "2026-09-30T12:38:51.488737+00:00",
-"tags": []
-},
-{
-"id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKeDFDMUFua0pwcmlicW1BWWRPbzlYYWhPYzdmQjFSTm5LQlpTcEhQU0tndDhydUZ1Z1lFa0premQzTEFjUllzU05EdklKdWhqZzZTVm9zaDFqSDh1UmhoSksyanpWUElxRHZWUzlnQlgxdFdMbl9udEw4ZUp1YVU?oc=5",
-"title": "Platform Copilot Takes on ServiceNow Development",
-"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKeDFDMUFua0pwcmlicW1BWWRPbzlYYWhPYzdmQjFSTm5LQlpTcEhQU0tndDhydUZ1Z1lFa0premQzTEFjUllzU05EdklKdWhqZzZTVm9zaDFqSDh1UmhoSksyanpWUElxRHZWUzlnQlgxdFdMbl9udEw4ZUp1YVU?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "https://tech-insider.org/",
-"author": "",
-"published": "2026-09-29T23:17:00+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-09-30T05:36:14.101679+00:00",
 "tags": []
 },
 {
@@ -3707,6 +3707,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-09-29T12:57:07.196661+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKeDFDMUFua0pwcmlicW1BWWRPbzlYYWhPYzdmQjFSTm5LQlpTcEhQU0tndDhydUZ1Z1lFa0premQzTEFjUllzU05EdklKdWhqZzZTVm9zaDFqSDh1UmhoSksyanpWUElxRHZWUzlnQlgxdFdMbl9udEw4ZUp1YVU?oc=5",
+"title": "Platform Copilot Takes on ServiceNow Development",
+"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKeDFDMUFua0pwcmlicW1BWWRPbzlYYWhPYzdmQjFSTm5LQlpTcEhQU0tndDhydUZ1Z1lFa0premQzTEFjUllzU05EdklKdWhqZzZTVm9zaDFqSDh1UmhoSksyanpWUElxRHZWUzlnQlgxdFdMbl9udEw4ZUp1YVU?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "https://tech-insider.org/",
+"author": "",
+"published": "2026-09-29T07:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-09-30T05:36:14.101679+00:00",
 "tags": []
 },
 {
@@ -15850,23 +15867,6 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-09-02T19:12:05.439092+00:00",
-"tags": []
-},
-{
-"id": "https://www.servicenow.com/community/developer-blog/event-management-source-push-heartbeating/ba-p/3554210",
-"title": "Event Management source Push Heartbeating",
-"url": "https://www.servicenow.com/community/developer-blog/event-management-source-push-heartbeating/ba-p/3554210",
-"source_id": "comm-dev-blog",
-"source": "Community: Developer blog",
-"type": "community",
-"group": "official",
-"via": "",
-"author": "Jim Palmer",
-"published": "2026-07-13T05:11:42+00:00",
-"summary": "Quis custodiet ipsos custodes?",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-09-02T19:12:05.439041+00:00",
 "tags": []
 }
 ]
