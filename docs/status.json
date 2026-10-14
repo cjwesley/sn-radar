@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-14T04:57:45.376172+00:00",
+  "generated_at": "2026-10-14T11:57:25.603368+00:00",
   "status": [
     {
       "id": "yt-basico",
       "name": "Basico ServiceNow Learning",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJIhKeKrS5_uMOX0hYDBUw",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 404",
-      "fetched_at": "2026-10-14T04:57:39.336668+00:00"
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-10-14T11:57:19.422320+00:00"
     },
     {
       "id": "pod-break-point",
@@ -17,7 +17,7 @@
       "ok": true,
       "items": 100,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:40.774204+00:00"
+      "fetched_at": "2026-10-14T11:57:21.332261+00:00"
     },
     {
       "id": "pod-cj-the-duke",
@@ -26,7 +26,7 @@
       "ok": true,
       "items": 128,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:41.022453+00:00"
+      "fetched_at": "2026-10-14T11:57:21.408363+00:00"
     },
     {
       "id": "comm-all-articles",
@@ -35,7 +35,7 @@
       "ok": true,
       "items": 20,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:39.434721+00:00"
+      "fetched_at": "2026-10-14T11:57:19.868878+00:00"
     },
     {
       "id": "comm-community-week",
@@ -44,7 +44,7 @@
       "ok": true,
       "items": 20,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:40.753532+00:00"
+      "fetched_at": "2026-10-14T11:57:21.310993+00:00"
     },
     {
       "id": "comm-dev-advocate",
@@ -53,7 +53,7 @@
       "ok": true,
       "items": 20,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:39.463785+00:00"
+      "fetched_at": "2026-10-14T11:57:19.893756+00:00"
     },
     {
       "id": "comm-dev-blog",
@@ -62,7 +62,7 @@
       "ok": true,
       "items": 20,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:39.435573+00:00"
+      "fetched_at": "2026-10-14T11:57:19.879245+00:00"
     },
     {
       "id": "comm-in-other-news",
@@ -71,7 +71,7 @@
       "ok": true,
       "items": 20,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:40.747619+00:00"
+      "fetched_at": "2026-10-14T11:57:21.300474+00:00"
     },
     {
       "id": "comm-now-platform",
@@ -80,7 +80,7 @@
       "ok": true,
       "items": 20,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:39.478152+00:00"
+      "fetched_at": "2026-10-14T11:57:19.908854+00:00"
     },
     {
       "id": "news-gnews",
@@ -89,7 +89,7 @@
       "ok": true,
       "items": 100,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:39.605376+00:00"
+      "fetched_at": "2026-10-14T11:57:20.271231+00:00"
     },
     {
       "id": "blog-jace",
@@ -98,70 +98,70 @@
       "ok": true,
       "items": 341,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:39.522950+00:00"
+      "fetched_at": "2026-10-14T11:57:20.205568+00:00"
     },
     {
       "id": "yt-jace",
       "name": "JaceNow",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXCuRTGhtIPuUKj2sGlTw",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 404",
-      "fetched_at": "2026-10-14T04:57:39.337478+00:00"
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-10-14T11:57:19.423063+00:00"
     },
     {
       "id": "yt-the-duke",
       "name": "Robert, The Duke, Fedoruk",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfhKNeCYiaJQaaKuACKt0Sg",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 404",
-      "fetched_at": "2026-10-14T04:57:39.434052+00:00"
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-10-14T11:57:19.849281+00:00"
     },
     {
       "id": "yt-servicenow",
       "name": "ServiceNow",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLukrOQYSgsHUR_NSiVZndQ",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 404",
-      "fetched_at": "2026-10-14T04:57:39.334722+00:00"
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-10-14T11:57:19.420631+00:00"
     },
     {
       "id": "yt-sn911",
       "name": "ServiceNow 911",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXpQCadm49L7FtPlCuOzqbA",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 404",
-      "fetched_at": "2026-10-14T04:57:39.336338+00:00"
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-10-14T11:57:19.422037+00:00"
     },
     {
       "id": "yt-community",
       "name": "ServiceNow Community",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCBQU8mlFrElxQNR2mo-gLg",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 404",
-      "fetched_at": "2026-10-14T04:57:39.336008+00:00"
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-10-14T11:57:19.421743+00:00"
     },
     {
       "id": "yt-devprogram",
       "name": "ServiceNow Dev Program",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdXorgCT87YlFRN9n8oJ7_A",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 404",
-      "fetched_at": "2026-10-14T04:57:39.335186+00:00"
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-10-14T11:57:19.421085+00:00"
     },
     {
       "id": "yt-docs",
       "name": "ServiceNow Documentation",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQjE37R-Y4DTq7kUWPO83Wg",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 404",
-      "fetched_at": "2026-10-14T04:57:39.335542+00:00"
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-10-14T11:57:19.421453+00:00"
     },
     {
       "id": "blog-snelite",
@@ -170,16 +170,16 @@
       "ok": true,
       "items": 20,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:39.503915+00:00"
+      "fetched_at": "2026-10-14T11:57:19.938692+00:00"
     },
     {
       "id": "yt-guru",
       "name": "ServiceNow Guru (YouTube)",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxz4zy9PV5nAyHUZiYvtJBQ",
-      "ok": false,
+      "ok": true,
       "items": 0,
-      "error": "HTTP 404",
-      "fetched_at": "2026-10-14T04:57:39.337156+00:00"
+      "error": "",
+      "fetched_at": "2026-10-14T11:57:19.422783+00:00"
     },
     {
       "id": "pod-insights",
@@ -188,7 +188,7 @@
       "ok": true,
       "items": 100,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:39.875226+00:00"
+      "fetched_at": "2026-10-14T11:57:20.436976+00:00"
     },
     {
       "id": "pod-community",
@@ -197,7 +197,7 @@
       "ok": true,
       "items": 100,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:39.661862+00:00"
+      "fetched_at": "2026-10-14T11:57:20.287432+00:00"
     },
     {
       "id": "pod-store-highlights",
@@ -206,16 +206,16 @@
       "ok": true,
       "items": 100,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:40.502894+00:00"
+      "fetched_at": "2026-10-14T11:57:20.907657+00:00"
     },
     {
       "id": "news-sn-blog-via-gnews",
       "name": "servicenow.com blog (via Google News)",
       "url": "https://news.google.com/rss/search?q=site:servicenow.com/blogs&hl=en-US&gl=US&ceid=US:en",
       "ok": true,
-      "items": 32,
+      "items": 31,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:39.532038+00:00"
+      "fetched_at": "2026-10-14T11:57:20.219345+00:00"
     },
     {
       "id": "blog-snprotips",
@@ -224,7 +224,7 @@
       "ok": true,
       "items": 50,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:39.499679+00:00"
+      "fetched_at": "2026-10-14T11:57:19.926404+00:00"
     },
     {
       "id": "pod-xentegra",
@@ -233,16 +233,16 @@
       "ok": true,
       "items": 55,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:40.733754+00:00"
+      "fetched_at": "2026-10-14T11:57:21.207305+00:00"
     },
     {
       "id": "yt-techtalk-bill",
       "name": "TechTalk with Bill",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMf7pje1x5iZkkEF-Y3PLSA",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 404",
-      "fetched_at": "2026-10-14T04:57:39.427677+00:00"
+      "ok": true,
+      "items": 15,
+      "error": "",
+      "fetched_at": "2026-10-14T11:57:19.800968+00:00"
     },
     {
       "id": "pod-change-agents",
@@ -251,7 +251,7 @@
       "ok": true,
       "items": 9,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:40.374434+00:00"
+      "fetched_at": "2026-10-14T11:57:20.857369+00:00"
     },
     {
       "id": "pod-honor-roll",
@@ -260,7 +260,7 @@
       "ok": true,
       "items": 9,
       "error": "",
-      "fetched_at": "2026-10-14T04:57:39.891773+00:00"
+      "fetched_at": "2026-10-14T11:57:20.583897+00:00"
     }
   ]
 }
