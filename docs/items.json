@@ -1,6 +1,40 @@
 {
-"generated_at": "2026-10-14T21:43:36.553929+00:00",
+"generated_at": "2026-10-15T04:44:34.838809+00:00",
 "items": [
+{
+"id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORy1qbU15eHdfZmgzRHBqZEdGX3pLeFlrS2d5ZFQxTFIzbnlSVWVLRHZCaWlWU19OeTZIM0h3c2hNQ1RaNUJxbnBVcDJub19VWXFBNmR3cEhkYmNRc01LcVRzbmM1NFB6SXFqSzhRNS1Pb0J5TXpwcnZWeFdVTWR4M3pCZS13d1oxdE1IUHJvdGFZakhnOWdocEdwVGxXYmVSRThhT2FCXzY4b3ZWT0FJZXI2MjZDbWxuQlRBQ3BR?oc=5",
+"title": "If You Invested $1000 In ServiceNow Stock 10 Years Ago, You Would Have This Much Today",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORy1qbU15eHdfZmgzRHBqZEdGX3pLeFlrS2d5ZFQxTFIzbnlSVWVLRHZCaWlWU19OeTZIM0h3c2hNQ1RaNUJxbnBVcDJub19VWXFBNmR3cEhkYmNRc01LcVRzbmM1NFB6SXFqSzhRNS1Pb0J5TXpwcnZWeFdVTWR4M3pCZS13d1oxdE1IUHJvdGFZakhnOWdocEdwVGxXYmVSRThhT2FCXzY4b3ZWT0FJZXI2MjZDbWxuQlRBQ3BR?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Benzinga",
+"author": "",
+"published": "2026-10-14T23:00:24+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-15T04:44:30.588888+00:00",
+"tags": []
+},
+{
+"id": "https://www.servicenow.com/community/veza/veza-from-servicenow-identity-security-as-the-foundation-for/ba-p/3610544",
+"title": "Veza from ServiceNow: Identity Security as the Foundation for NeoClouds and AI Governance",
+"url": "https://www.servicenow.com/community/veza/veza-from-servicenow-identity-security-as-the-foundation-for/ba-p/3610544",
+"source_id": "comm-all-articles",
+"source": "Community articles (all boards)",
+"type": "community",
+"group": "official",
+"via": "",
+"author": "tarunthakur",
+"published": "2026-10-14T22:39:37+00:00",
+"summary": "GPUs are becoming the backbone of enterprise AI. But who has access to them? It’s no longer just engineers and data scientists. It’s microservices, orchestration layers, and autonomous AI agents, all competing for the same compute. Most NeoCloud platforms weren’t built to govern all three. Without that, “Govern” and...",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-15T04:44:29.694723+00:00",
+"tags": []
+},
 {
 "id": "https://www.youtube.com/shorts/KORBQzRkFdw",
 "title": "My computer fans turn on whenever my mouse even gets close to it. #spreadsheet #corporatelife #tech",
@@ -138,20 +172,20 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNazNVUk42ZHVDajZobHJIV1lLUnJkek1uNjB3MzludGUxWW5rQ2NBcXdYdzA5Uk5nQ01qOXk5ZWcwTkhLNV96bnZJQXZHOUR5TGRoYzV4Q3I0YlN6aXdaR0ZpVUVqTlBpVklvSUhBQ1Q1Rlotb1ZlVXdGeVFqc1FPa1RrOFdOYzhHSUlDenVB?oc=5",
+"id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQnhFY3ZXWnRHVkR2aHI5Rk5jZkNjS01jaHFuSjZCS0ZGQXNndHlMeEwzYnNKNXR1MFRlb2JYY0JCZkhsNXZUc3Q3RUxLWlltRTNEOWttWmdiNGp0Y0lhNklxTUFQU0d2ZGNyUVVPb3VVNFJBSnZMbEp0aWJuVkp1REpBeUlmdVM5TE1RQ25iNU5kdklyVDFMY0hiZk1QT2FsTWpHYw?oc=5",
 "title": "Salesforce vs. ServiceNow: Which AI Software Stock Has the Edge?",
-"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNazNVUk42ZHVDajZobHJIV1lLUnJkek1uNjB3MzludGUxWW5rQ2NBcXdYdzA5Uk5nQ01qOXk5ZWcwTkhLNV96bnZJQXZHOUR5TGRoYzV4Q3I0YlN6aXdaR0ZpVUVqTlBpVklvSUhBQ1Q1Rlotb1ZlVXdGeVFqc1FPa1RrOFdOYzhHSUlDenVB?oc=5",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQnhFY3ZXWnRHVkR2aHI5Rk5jZkNjS01jaHFuSjZCS0ZGQXNndHlMeEwzYnNKNXR1MFRlb2JYY0JCZkhsNXZUc3Q3RUxLWlltRTNEOWttWmdiNGp0Y0lhNklxTUFQU0d2ZGNyUVVPb3VVNFJBSnZMbEp0aWJuVkp1REpBeUlmdVM5TE1RQ25iNU5kdklyVDFMY0hiZk1QT2FsTWpHYw?oc=5",
 "source_id": "news-gnews",
 "source": "Google News: ServiceNow",
 "type": "news",
 "group": "press",
-"via": "Yahoo! Finance Canada",
+"via": "Zacks Investment Research",
 "author": "",
-"published": "2026-10-14T13:50:00+00:00",
+"published": "2026-10-14T14:03:31+00:00",
 "summary": "",
 "thumbnail": "",
 "duration": "",
-"first_seen": "2026-10-14T17:14:27.050836+00:00",
+"first_seen": "2026-10-15T04:44:30.581844+00:00",
 "tags": []
 },
 {
@@ -818,6 +852,23 @@
 "tags": []
 },
 {
+"id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVllrQk50MUstdGNQZVh5X1VyRE5ObkU1dDI4T1NhaTJVcGI4RW9xV1pTZzZSTTM2TlM4bTIyTEk3VGxsV2JpWTRLMHlnTWtFQkhZOVpXWWdPM1FTeGw0N2JidExyOWlwR3l1ZW42eU0wM1plOFI0Ri1wY2pfeGxKU0tQMklBTVBuSXM4WWR0QlBVV0tDZ2I0?oc=5",
+"title": "Sakon Introduces Ask Milo™, the AI Companion for Enterprise Telecom on ServiceNow",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVllrQk50MUstdGNQZVh5X1VyRE5ObkU1dDI4T1NhaTJVcGI4RW9xV1pTZzZSTTM2TlM4bTIyTEk3VGxsV2JpWTRLMHlnTWtFQkhZOVpXWWdPM1FTeGw0N2JidExyOWlwR3l1ZW42eU0wM1plOFI0Ri1wY2pfeGxKU0tQMklBTVBuSXM4WWR0QlBVV0tDZ2I0?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Yahoo Finance",
+"author": "",
+"published": "2026-10-12T14:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-15T04:44:30.588771+00:00",
+"tags": []
+},
+{
 "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVFDQkM1QXJZam11aWU1bm1PSEZtdXExTDM3SlhFdDVKRVBUbXZlQ09wYjhwQkktMzVyVlpXRlJBYjNfT0hvcVRuZ1o5RjFHbEN6aVJiN3RPeS1OUlNQakFoTWpqS28wSTNlWTF3UURjbFd0RHdBOEx6cVp2Z0EtVmFqdTBDTlBEeFFUTEZfRHBzZDR4aVBVbUY3bWd2VXllUVE?oc=5",
 "title": "Why is ServiceNow stock climbing today?",
 "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVFDQkM1QXJZam11aWU1bm1PSEZtdXExTDM3SlhFdDVKRVBUbXZlQ09wYjhwQkktMzVyVlpXRlJBYjNfT0hvcVRuZ1o5RjFHbEN6aVJiN3RPeS1OUlNQakFoTWpqS28wSTNlWTF3UURjbFd0RHdBOEx6cVp2Z0EtVmFqdTBDTlBEeFFUTEZfRHBzZDR4aVBVbUY3bWd2VXllUVE?oc=5",
@@ -1325,6 +1376,23 @@
 "thumbnail": "https://i3.ytimg.com/vi/rMrqgv6tv-Y/hqdefault.jpg",
 "duration": "",
 "first_seen": "2026-10-09T22:40:55.836111+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMl9ENGcxTVZrV0FfTkdSbWs0U1V4N05zZktaV3FLZ0prSFpKYWhXZ25mTW1lcC1ULXdaby1naGZHa0NQVUpQN0hlcUxfWElRZFZkbC03bnEzZFhTOXRsOUtmR3NtdVpjNDVKeGNUT1hMMEx5cjhBQW9PLWNqT3FpWjZkYTAtMS0zeHc?oc=5",
+"title": "Wall Street Bulls Look Optimistic About ServiceNow (NOW): Should You Buy?",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMl9ENGcxTVZrV0FfTkdSbWs0U1V4N05zZktaV3FLZ0prSFpKYWhXZ25mTW1lcC1ULXdaby1naGZHa0NQVUpQN0hlcUxfWElRZFZkbC03bnEzZFhTOXRsOUtmR3NtdVpjNDVKeGNUT1hMMEx5cjhBQW9PLWNqT3FpWjZkYTAtMS0zeHc?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Yahoo Finance Australia",
+"author": "",
+"published": "2026-10-09T12:30:02+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-15T04:44:30.582669+00:00",
 "tags": []
 },
 {
@@ -2059,23 +2127,6 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDhzRkFvMWtlQW9ZSTFtejlncHJtZ0ZnQUdzRFhkSGdvVXVRT2FxSVJDMlZrOFJOMmwtVFNXc1hDUTJYMEljdjM1NFhfaVo1cm8xcFFTS3dUZlBuREFuNFhYSFZMMlVKZlI3VWpFbTBTS1NMMXI1eGR1ZFNLV2JZNkRMN3pjY3VsSklMaUhFSDAzRmRnbFJ4R3dKa1ZoS1p1QUxTRnAzR1d2RjE3?oc=5",
-"title": "Watch ServiceNow President and COO Amit Zavery on AI Demand",
-"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDhzRkFvMWtlQW9ZSTFtejlncHJtZ0ZnQUdzRFhkSGdvVXVRT2FxSVJDMlZrOFJOMmwtVFNXc1hDUTJYMEljdjM1NFhfaVo1cm8xcFFTS3dUZlBuREFuNFhYSFZMMlVKZlI3VWpFbTBTS1NMMXI1eGR1ZFNLV2JZNkRMN3pjY3VsSklMaUhFSDAzRmRnbFJ4R3dKa1ZoS1p1QUxTRnAzR1d2RjE3?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "Bloomberg.com",
-"author": "",
-"published": "2026-10-07T06:06:32+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-07T13:28:56.863868+00:00",
-"tags": []
-},
-{
 "id": "https://www.youtube.com/watch?v=eF1P9e9BZRw",
 "title": "How Bundesliga solves 89% of fan issues on first contact",
 "url": "https://www.youtube.com/watch?v=eF1P9e9BZRw",
@@ -2124,6 +2175,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-08T06:09:23.346855+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDhzRkFvMWtlQW9ZSTFtejlncHJtZ0ZnQUdzRFhkSGdvVXVRT2FxSVJDMlZrOFJOMmwtVFNXc1hDUTJYMEljdjM1NFhfaVo1cm8xcFFTS3dUZlBuREFuNFhYSFZMMlVKZlI3VWpFbTBTS1NMMXI1eGR1ZFNLV2JZNkRMN3pjY3VsSklMaUhFSDAzRmRnbFJ4R3dKa1ZoS1p1QUxTRnAzR1d2RjE3?oc=5",
+"title": "Watch ServiceNow President and COO Amit Zavery on AI Demand",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDhzRkFvMWtlQW9ZSTFtejlncHJtZ0ZnQUdzRFhkSGdvVXVRT2FxSVJDMlZrOFJOMmwtVFNXc1hDUTJYMEljdjM1NFhfaVo1cm8xcFFTS3dUZlBuREFuNFhYSFZMMlVKZlI3VWpFbTBTS1NMMXI1eGR1ZFNLV2JZNkRMN3pjY3VsSklMaUhFSDAzRmRnbFJ4R3dKa1ZoS1p1QUxTRnAzR1d2RjE3?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Bloomberg.com",
+"author": "",
+"published": "2026-10-07T00:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-07T13:28:56.863868+00:00",
 "tags": []
 },
 {
