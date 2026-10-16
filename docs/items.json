@@ -1,6 +1,23 @@
 {
-"generated_at": "2026-10-15T21:26:12.942552+00:00",
+"generated_at": "2026-10-16T04:35:56.603017+00:00",
 "items": [
+{
+"id": "https://www.servicenow.com/community/developer-blog/more-than-an-event-the-ideas-and-connections-hoping-to-bring/ba-p/3610983",
+"title": "More than an Event: The ideas and Connections Hoping to Bring Back from [now]dev",
+"url": "https://www.servicenow.com/community/developer-blog/more-than-an-event-the-ideas-and-connections-hoping-to-bring/ba-p/3610983",
+"source_id": "comm-all-articles",
+"source": "Community articles (all boards)",
+"type": "community",
+"group": "official",
+"via": "",
+"author": "Paulsylo",
+"published": "2026-10-16T04:26:40+00:00",
+"summary": "I don’t want to return from [now]dev with just notes. I want to return with ideas worth putting into action. Hello Folks ! Every technology event offers opportunities to discover new capabilities, explore emerging trends, and learn from experts. But for me, the real value begins after the event, when we turn those...",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-16T04:35:52.466277+00:00",
+"tags": []
+},
 {
 "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaEdOSndGTVhlMWtVVmNONVNJTTdOX2t3ajdCeWtGbF9uSllUT2tISThLV2ZWZ19VdHNKX3FRNHplaWZLVVpJRDRZODlCcWpHX3pXQTVpSzk5bW5WenNFRVpzVnJXanRnbTltTHVFZlJiazRBU2hGRW1aYmw1Wm1XbWVwUzM1TzNI?oc=5",
 "title": "Tech Bytes: ServiceNow looks to boost AI agent control",
@@ -36,6 +53,23 @@
 "tags": []
 },
 {
+"id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yUUM5S3dabkpGNmw0elRibGZTMVh3VExkeXlGWFU5QjFLLXBTWlhIb0JHVmMxM09UOXZNUm9HbVhSMktFMjNfZExqdWdZUk9PSEEwR3pBbVpXa2lqdTdxaUNEM0d2RzkxZDNZQ0otMWs5bE9ISklhRlpITlhKWnfSAYQBQVVfeXFMTkhDdXRCanpLQTdBclpTWE1MYVhRdXUxZVA0M0lyYnJnaXNoTG9LeHZwYUtLTVF1bXBiUk03SWVWeDU3b09jVldEenRMaEpkdGF5U0lZMDd0cDhHMUFEaHFERkQwRVRNSFBsT3UwVFZ1NHo5NzVwUDNyZ2d3NDMyemkyWEh2?oc=5",
+"title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yUUM5S3dabkpGNmw0elRibGZTMVh3VExkeXlGWFU5QjFLLXBTWlhIb0JHVmMxM09UOXZNUm9HbVhSMktFMjNfZExqdWdZUk9PSEEwR3pBbVpXa2lqdTdxaUNEM0d2RzkxZDNZQ0otMWs5bE9ISklhRlpITlhKWnfSAYQBQVVfeXFMTkhDdXRCanpLQTdBclpTWE1MYVhRdXUxZVA0M0lyYnJnaXNoTG9LeHZwYUtLTVF1bXBiUk03SWVWeDU3b09jVldEenRMaEpkdGF5U0lZMDd0cDhHMUFEaHFERkQwRVRNSFBsT3UwVFZ1NHo5NzVwUDNyZ2d3NDMyemkyWEh2?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "CNBC",
+"author": "",
+"published": "2026-10-15T19:42:36+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-16T04:35:53.429909+00:00",
+"tags": []
+},
+{
 "id": "https://servicenowstorehighlights.podbean.com/e/servicenow-store-highlights-ssh-v20260909-1792092200",
 "title": "ServiceNow Store Highlights (SSH) v20260909",
 "url": "https://servicenowstorehighlights.podbean.com/e/servicenow-store-highlights-ssh-v20260909-1792092200",
@@ -50,6 +84,23 @@
 "thumbnail": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog17330282/ServiceNow_Store_Highlights_-_Podcast0017ek41.jpeg",
 "duration": "17m",
 "first_seen": "2026-10-15T21:26:05.760916+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVhrM0tnWEhmTjRSTHM4Uk9hMVhOUmRhdkZuOG82N3RMUXM3b3hudmJlcUZ6TTRTYlVyN2xkS0JtN3BzcGMtZ1kyYnYwbUUxSUhYdkkxeWdmRmZadmI3ejJOaFFlb2pnOWh2TVdQNm5SX2wzSzduVV9IeTIzR3ZmemJmZWM1a1pUaXNZNDAtOExVaDEyelE?oc=5",
+"title": "ServiceNow Bets the Credential Is the Governance Layer, Not the Policy",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVhrM0tnWEhmTjRSTHM4Uk9hMVhOUmRhdkZuOG82N3RMUXM3b3hudmJlcUZ6TTRTYlVyN2xkS0JtN3BzcGMtZ1kyYnYwbUUxSUhYdkkxeWdmRmZadmI3ejJOaFFlb2pnOWh2TVdQNm5SX2wzSzduVV9IeTIzR3ZmemJmZWM1a1pUaXNZNDAtOExVaDEyelE?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Forkast News",
+"author": "",
+"published": "2026-10-15T18:37:42+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-16T04:35:53.431543+00:00",
 "tags": []
 },
 {
@@ -186,6 +237,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-15T21:26:05.510280+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXFFMHZYSjlVaHhzNTdVdkZEd2dBNHdIanB2em9laHI5aDZ1TkxObmpVQmVyX0ZwVDNaUEdhUU1NTzdiRHVRcFVhRU5TUVQtSnpZbUNQZ0pEWjNfOXlLdVFuTWsxdUZMZ2xNWHpDOTFSeDZVQmpUbTBYa0hnTnZrcFR6RU5waW13ektGQTVnaS1xdGx3TFpyMUlzYnNPRml4N21pWHBjd1ZVMVlFUTN6MDRmTFlWV01kVHJRWQ?oc=5",
+"title": "ServiceNow announces AI Passport - bringing authorization, business context and a kill switch together",
+"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXFFMHZYSjlVaHhzNTdVdkZEd2dBNHdIanB2em9laHI5aDZ1TkxObmpVQmVyX0ZwVDNaUEdhUU1NTzdiRHVRcFVhRU5TUVQtSnpZbUNQZ0pEWjNfOXlLdVFuTWsxdUZMZ2xNWHpDOTFSeDZVQmpUbTBYa0hnTnZrcFR6RU5waW13ektGQTVnaS1xdGx3TFpyMUlzYnNPRml4N21pWHBjd1ZVMVlFUTN6MDRmTFlWV01kVHJRWQ?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Diginomica",
+"author": "",
+"published": "2026-10-15T14:15:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-16T04:35:53.430629+00:00",
 "tags": []
 },
 {
@@ -458,6 +526,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-15T04:44:29.694723+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2g5eGVtb0VUOVFtRlJPdWtWc0NzM0lkeU5YM0pNQTh6UHoxckpLSXJkZXNlaWYxMWNyYU5PV3dPdWlGTDl3bDNMZHFkRmdMelYyUGtWbS1rNWZHMkN4MzJWX052Q2RINFpNSW41UldnWHhrZ2dRRW5kQ1NJbUd5OEJUMThuU2M2QkxVeXZITGpjMTFDcWxaTlY3SmZjNHNaQldWRDd1UzgtRm8?oc=5",
+"title": "Real Options Trades: Covered Calls on Blue Owl and Puts on ServiceNow",
+"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2g5eGVtb0VUOVFtRlJPdWtWc0NzM0lkeU5YM0pNQTh6UHoxckpLSXJkZXNlaWYxMWNyYU5PV3dPdWlGTDl3bDNMZHFkRmdMelYyUGtWbS1rNWZHMkN4MzJWX052Q2RINFpNSW41UldnWHhrZ2dRRW5kQ1NJbUd5OEJUMThuU2M2QkxVeXZITGpjMTFDcWxaTlY3SmZjNHNaQldWRDd1UzgtRm8?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "The Acquirer's Multiple",
+"author": "",
+"published": "2026-10-14T21:40:16+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-16T04:35:53.431599+00:00",
 "tags": []
 },
 {
@@ -985,6 +1070,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-13T22:48:05.888831+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3JiSmRHZGgxV2U5LTNMVnlhNnFIX01VYkN2RGQ3bnAxRDgxcFRvX2ZYaGxWMEpTWVlRaml6NHAyeWtoU00xdDVicU1RNDhFYnN2NHU2ZmVxT0FRTWNTMW5lNm42N1pOeGpGVTVCMTBNMTZZRTlVMDhCUzlrU2NzVXFWbmlDNVBUTUl6XzU0QzU1N0tvVnF3YW5ZRktqcm9CLVBaY24wZmhwbGthdTBmSEJRWTAtX21aUjRiR3BGWUF1UQ?oc=5",
+"title": "AI agent company Decagon is holding early M&A talks with ServiceNow, others",
+"url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3JiSmRHZGgxV2U5LTNMVnlhNnFIX01VYkN2RGQ3bnAxRDgxcFRvX2ZYaGxWMEpTWVlRaml6NHAyeWtoU00xdDVicU1RNDhFYnN2NHU2ZmVxT0FRTWNTMW5lNm42N1pOeGpGVTVCMTBNMTZZRTlVMDhCUzlrU2NzVXFWbmlDNVBUTUl6XzU0QzU1N0tvVnF3YW5ZRktqcm9CLVBaY24wZmhwbGthdTBmSEJRWTAtX21aUjRiR3BGWUF1UQ?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Business Insider Africa",
+"author": "",
+"published": "2026-10-13T16:36:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-16T04:35:53.431452+00:00",
 "tags": []
 },
 {
@@ -1654,8 +1756,8 @@
 "id": "https://www.servicenow.com/community/developer-blog/why-i-m-looking-forward-to-now-dev-beyond-the-sessions/ba-p/3609135",
 "title": "Why I’m Looking Forward to [now]dev - Beyond the Sessions",
 "url": "https://www.servicenow.com/community/developer-blog/why-i-m-looking-forward-to-now-dev-beyond-the-sessions/ba-p/3609135",
-"source_id": "comm-all-articles",
-"source": "Community articles (all boards)",
+"source_id": "comm-dev-blog",
+"source": "Community: Developer blog",
 "type": "community",
 "group": "official",
 "via": "",
@@ -2314,23 +2416,6 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdXF2UDdyNjB1RU4zS2pjbk91LVpqNC1TaU9SWEg5M0s2d1hPQU9KSG9KdUFiT1V4WVQ5Xy1fWUlXRDhmWV9FZ1ZlZHhfczNTTWhHX0otTmZnclZEcml5aVJvamZQVWVpcW83dTEwV1FzT1A0OUlRMnRyWmcxTnZFUFdyQ2JQRXN5TG1CVFVvQW9GUzZ0WXNQQW55T3N0dHk4dDN3X0EtMA?oc=5",
-"title": "ServiceNow vs. UiPath: Which AI Stock Is a Better Buy in 2026?",
-"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdXF2UDdyNjB1RU4zS2pjbk91LVpqNC1TaU9SWEg5M0s2d1hPQU9KSG9KdUFiT1V4WVQ5Xy1fWUlXRDhmWV9FZ1ZlZHhfczNTTWhHX0otTmZnclZEcml5aVJvamZQVWVpcW83dTEwV1FzT1A0OUlRMnRyWmcxTnZFUFdyQ2JQRXN5TG1CVFVvQW9GUzZ0WXNQQW55T3N0dHk4dDN3X0EtMA?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "The Motley Fool",
-"author": "",
-"published": "2026-10-07T17:00:00+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-07T23:07:27.380472+00:00",
-"tags": []
-},
-{
 "id": "https://www.youtube.com/watch?v=bmYzNkDX9DE",
 "title": "CRM for Manufacturing Demo: Quote to Installation to Defect Resolution",
 "url": "https://www.youtube.com/watch?v=bmYzNkDX9DE",
@@ -2450,23 +2535,6 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkM2TTR6UW1hT01aekhxUHVycTBDcnlSYmhhekJsMDlBV3E4emJXN280VTZkbWVDREhFRG8tN3FNa0JXWF92RU9YTVdYblZZNTlad0RWd2xaRno0T1VfYnozOElhTWpDaDYxelpja3RCcTBaUmVqcmtsaHphZjJfalhwaEpjUlFYY0VVU2cyOGd2djhDeV9rN1Z2RnZQVFB4MUlGSVI1STVpMGxvZWhHZEhiWmlyeExpdEFnVHdweFNIWGM?oc=5",
-"title": "CrowdStrike vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
-"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkM2TTR6UW1hT01aekhxUHVycTBDcnlSYmhhekJsMDlBV3E4emJXN280VTZkbWVDREhFRG8tN3FNa0JXWF92RU9YTVdYblZZNTlad0RWd2xaRno0T1VfYnozOElhTWpDaDYxelpja3RCcTBaUmVqcmtsaHphZjJfalhwaEpjUlFYY0VVU2cyOGd2djhDeV9rN1Z2RnZQVFB4MUlGSVI1STVpMGxvZWhHZEhiWmlyeExpdEFnVHdweFNIWGM?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "The Motley Fool",
-"author": "",
-"published": "2026-10-07T13:55:00+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-07T13:28:56.865675+00:00",
-"tags": []
-},
-{
 "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFBsZWJIX2l0cU9vU0I1Y0dYOEwtWDMwdlkxd2sybmpxeXc1cFNWX0JveXlweThvaXVnN0RIZ3VlTVg1R2NMdlIzbjRORXB3MDd6YlRXN1pnYUNtVS0yOHFWTUZGNlQ1aXI4OFdhMUNIUHpHWENTaHNoS1lKM0pLWmIzVjFRNTB4N2c?oc=5",
 "title": "Is Trending Stock ServiceNow, Inc. (NOW) a Buy Now?",
 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFBsZWJIX2l0cU9vU0I1Y0dYOEwtWDMwdlkxd2sybmpxeXc1cFNWX0JveXlweThvaXVnN0RIZ3VlTVg1R2NMdlIzbjRORXB3MDd6YlRXN1pnYUNtVS0yOHFWTUZGNlQ1aXI4OFdhMUNIUHpHWENTaHNoS1lKM0pLWmIzVjFRNTB4N2c?oc=5",
@@ -2532,6 +2600,40 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-07T13:28:55.663803+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdXF2UDdyNjB1RU4zS2pjbk91LVpqNC1TaU9SWEg5M0s2d1hPQU9KSG9KdUFiT1V4WVQ5Xy1fWUlXRDhmWV9FZ1ZlZHhfczNTTWhHX0otTmZnclZEcml5aVJvamZQVWVpcW83dTEwV1FzT1A0OUlRMnRyWmcxTnZFUFdyQ2JQRXN5TG1CVFVvQW9GUzZ0WXNQQW55T3N0dHk4dDN3X0EtMA?oc=5",
+"title": "ServiceNow vs. UiPath: Which AI Stock Is a Better Buy in 2026?",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdXF2UDdyNjB1RU4zS2pjbk91LVpqNC1TaU9SWEg5M0s2d1hPQU9KSG9KdUFiT1V4WVQ5Xy1fWUlXRDhmWV9FZ1ZlZHhfczNTTWhHX0otTmZnclZEcml5aVJvamZQVWVpcW83dTEwV1FzT1A0OUlRMnRyWmcxTnZFUFdyQ2JQRXN5TG1CVFVvQW9GUzZ0WXNQQW55T3N0dHk4dDN3X0EtMA?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "The Motley Fool",
+"author": "",
+"published": "2026-10-07T07:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-07T23:07:27.380472+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkM2TTR6UW1hT01aekhxUHVycTBDcnlSYmhhekJsMDlBV3E4emJXN280VTZkbWVDREhFRG8tN3FNa0JXWF92RU9YTVdYblZZNTlad0RWd2xaRno0T1VfYnozOElhTWpDaDYxelpja3RCcTBaUmVqcmtsaHphZjJfalhwaEpjUlFYY0VVU2cyOGd2djhDeV9rN1Z2RnZQVFB4MUlGSVI1STVpMGxvZWhHZEhiWmlyeExpdEFnVHdweFNIWGM?oc=5",
+"title": "CrowdStrike vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkM2TTR6UW1hT01aekhxUHVycTBDcnlSYmhhekJsMDlBV3E4emJXN280VTZkbWVDREhFRG8tN3FNa0JXWF92RU9YTVdYblZZNTlad0RWd2xaRno0T1VfYnozOElhTWpDaDYxelpja3RCcTBaUmVqcmtsaHphZjJfalhwaEpjUlFYY0VVU2cyOGd2djhDeV9rN1Z2RnZQVFB4MUlGSVI1STVpMGxvZWhHZEhiWmlyeExpdEFnVHdweFNIWGM?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "The Motley Fool",
+"author": "",
+"published": "2026-10-07T07:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-07T13:28:56.865675+00:00",
 "tags": []
 },
 {
