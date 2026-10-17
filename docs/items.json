@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-17T04:31:34.496003+00:00",
+"generated_at": "2026-10-17T10:48:51.045640+00:00",
 "items": [
 {
 "id": "https://www.servicenow.com/community/veza/look-before-you-revoke-why-every-group-removal-needs-an-impact/ba-p/3610017",
@@ -19,6 +19,23 @@
 "tags": []
 },
 {
+"id": "https://www.youtube.com/watch?v=PF5eqd95MdY",
+"title": "Take Control of Scripting Governance in ServiceNow Security Center",
+"url": "https://www.youtube.com/watch?v=PF5eqd95MdY",
+"source_id": "yt-community",
+"source": "ServiceNow Community",
+"type": "video",
+"group": "official",
+"via": "",
+"author": "ServiceNow Community",
+"published": "2026-10-17T00:22:13+00:00",
+"summary": "Knowing who has the ability, the need, and has actually run scripts in the past is essential to protecting the stability of your ServiceNow AI Platform instance, and it is part of the criteria for stronger platform security. Scripting Governance helps keep this access from becoming a blind spot. Learn more about the...",
+"thumbnail": "https://i1.ytimg.com/vi/PF5eqd95MdY/hqdefault.jpg",
+"duration": "",
+"first_seen": "2026-10-17T10:48:44.759866+00:00",
+"tags": []
+},
+{
 "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHBZN1pYSDJWd2lIOV8xakVnWTBHY010TGV5bXctX1J3RUViLTNScVFjWmJsandycHVqRkNmdm1IQXd4alBHZzQ1QkJQdTRVVTdLOHNxbEtobGVlMmMtbXBwWWtCU1hmc3pTRUVuY00waVB1U21wSXZ0U2Z1SDMxZXd1cXRlR1lmY3lpYkdhTGhaWEJZMGc?oc=5",
 "title": "ServiceNow CFO says leaders working 14 hours and getting 4 hours of sleep set a ‘terrible example’ for their employees",
 "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHBZN1pYSDJWd2lIOV8xakVnWTBHY010TGV5bXctX1J3RUViLTNScVFjWmJsandycHVqRkNmdm1IQXd4alBHZzQ1QkJQdTRVVTdLOHNxbEtobGVlMmMtbXBwWWtCU1hmc3pTRUVuY00waVB1U21wSXZ0U2Z1SDMxZXd1cXRlR1lmY3lpYkdhTGhaWEJZMGc?oc=5",
@@ -33,6 +50,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-17T04:31:30.706075+00:00",
+"tags": []
+},
+{
+"id": "https://www.youtube.com/watch?v=AvkcuMyBFI4",
+"title": "AI-Powered Warranty Claims: Detect Fraud and Approve Faster",
+"url": "https://www.youtube.com/watch?v=AvkcuMyBFI4",
+"source_id": "yt-community",
+"source": "ServiceNow Community",
+"type": "video",
+"group": "official",
+"via": "",
+"author": "ServiceNow Community",
+"published": "2026-10-16T22:07:18+00:00",
+"summary": "Warranty teams spend hours reviewing claims one at a time, and improper payouts still slip through. See how ServiceNow CRM for Manufacturing uses AI to triage every warranty claim, detect fraud, and recommend the outcome, all in one connected flow from dealer submission to OEM decision. Follow one warranty claim from...",
+"thumbnail": "https://i2.ytimg.com/vi/AvkcuMyBFI4/hqdefault.jpg",
+"duration": "",
+"first_seen": "2026-10-17T10:48:44.759987+00:00",
 "tags": []
 },
 {
