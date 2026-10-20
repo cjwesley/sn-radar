@@ -1,6 +1,57 @@
 {
-"generated_at": "2026-10-20T17:12:00.864152+00:00",
+"generated_at": "2026-10-20T21:39:31.474938+00:00",
 "items": [
+{
+"id": "https://www.youtube.com/watch?v=8PnxxkbH6EQ",
+"title": "ITOM | Configure trusted certificate authorities",
+"url": "https://www.youtube.com/watch?v=8PnxxkbH6EQ",
+"source_id": "yt-docs",
+"source": "ServiceNow Documentation",
+"type": "video",
+"group": "official",
+"via": "",
+"author": "ServiceNow Documentation",
+"published": "2026-10-20T21:15:12+00:00",
+"summary": "Configure certificate authorities (CAs) that your organization trusts and activate the certificate authority trust policy so that certificates from other authorities are flagged as untrusted. Before you begin Role required: Cryptographic Asset admin (sn_itom_cac.admin) This video was recorded in the Brazil release....",
+"thumbnail": "https://i1.ytimg.com/vi/8PnxxkbH6EQ/hqdefault.jpg",
+"duration": "",
+"first_seen": "2026-10-20T21:39:27.829000+00:00",
+"tags": []
+},
+{
+"id": "https://www.youtube.com/shorts/d3nkrs31zfE",
+"title": "POV: My console is a diary #debugging #coding #developer #programming",
+"url": "https://www.youtube.com/shorts/d3nkrs31zfE",
+"source_id": "yt-devprogram",
+"source": "ServiceNow Dev Program",
+"type": "video",
+"group": "official",
+"via": "",
+"author": "ServiceNow Dev Program",
+"published": "2026-10-20T21:06:27+00:00",
+"summary": "",
+"thumbnail": "https://i1.ytimg.com/vi/d3nkrs31zfE/hqdefault.jpg",
+"duration": "",
+"first_seen": "2026-10-20T21:39:27.897093+00:00",
+"tags": []
+},
+{
+"id": "https://www.servicenow.com/community/sam-blog/servicenow-named-a-leader-in-the-2026-gartner-magic-quadrant-for/ba-p/3612219",
+"title": "ServiceNow named a Leader in the 2026 Gartner Magic Quadrant for SaaS Management Platforms",
+"url": "https://www.servicenow.com/community/sam-blog/servicenow-named-a-leader-in-the-2026-gartner-magic-quadrant-for/ba-p/3612219",
+"source_id": "comm-all-articles",
+"source": "Community articles (all boards)",
+"type": "community",
+"group": "official",
+"via": "",
+"author": "Richard91",
+"published": "2026-10-20T19:25:26+00:00",
+"summary": "To read the report, click here .",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-20T21:39:28.283700+00:00",
+"tags": []
+},
 {
 "id": "https://www.servicenow.com/community/servicenow-university-community/want-a-free-pass-now-dev-26-november-4-5-2026-in-person-at-the/ba-p/3612145",
 "title": "Want a FREE pass? now[dev]26 November 4–5, 2026 in-person at the San Jose Convention Center",
@@ -11,8 +62,8 @@
 "group": "official",
 "via": "",
 "author": "Anisa Chaudry",
-"published": "2026-10-20T17:08:05+00:00",
-"summary": "NorCal! Do you want a free ticket to NowDev?! Registration for now[dev]26 is officially open, and we want you in the room. The first 5 commenters will receive a FREE pass! This is two days of real builds, worked side by side with the engineers and product teams who crafted the platform you're already building on. The...",
+"published": "2026-10-20T17:51:13+00:00",
+"summary": "NorCal! Do you want free entry to NowDev?! Registration for now[dev]26 is officially open, and we want you in the room. The first 5 commenters will receive a FREE pass! This is two days of real builds, worked side by side with the engineers and product teams who crafted the platform you're already building on. The...",
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-20T17:11:55.802898+00:00",
@@ -1044,8 +1095,8 @@
 "id": "https://www.servicenow.com/community/developer-blog/more-than-an-event-the-ideas-and-connections-hoping-to-bring/ba-p/3610983",
 "title": "More than an Event: The ideas and Connections Hoping to Bring Back from [now]dev",
 "url": "https://www.servicenow.com/community/developer-blog/more-than-an-event-the-ideas-and-connections-hoping-to-bring/ba-p/3610983",
-"source_id": "comm-dev-blog",
-"source": "Community: Developer blog",
+"source_id": "comm-all-articles",
+"source": "Community articles (all boards)",
 "type": "community",
 "group": "official",
 "via": "",
@@ -18450,25 +18501,6 @@
 "duration": "",
 "first_seen": "2026-09-06T23:19:33.600899+00:00",
 "tags": []
-},
-{
-"id": "https://www.servicenow.com/community/developer-advocate-blog/calling-servicenow-ai-skills-via-rest-api-a-complete-walkthrough/ba-p/3577549",
-"title": "Calling ServiceNow AI Skills via REST API: A Complete Walkthrough",
-"url": "https://www.servicenow.com/community/developer-advocate-blog/calling-servicenow-ai-skills-via-rest-api-a-complete-walkthrough/ba-p/3577549",
-"source_id": "comm-dev-advocate",
-"source": "Community: Developer advocate blog",
-"type": "community",
-"group": "official",
-"via": "",
-"author": "Earl Duque",
-"published": "2026-07-22T21:25:01+00:00",
-"summary": "Everything AI in ServiceNow runs on skills: prompts, AI Agents, and analysis skills that live inside the Now Platform and have native access to your data, your tables, and your security model. Normally you invoke them from inside the platform: a UI Action, a Flow, a Virtual Agent topic. But what if the automation...",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-09-02T19:12:06.657826+00:00",
-"tags": [
-"Dev advocates"
-]
 }
 ]
 }
