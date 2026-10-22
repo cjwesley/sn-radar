@@ -1,6 +1,40 @@
 {
-"generated_at": "2026-10-21T21:45:11.539906+00:00",
+"generated_at": "2026-10-22T04:53:06.078669+00:00",
 "items": [
+{
+"id": "https://www.servicenow.com/community/servicenow-impact-blog/sizing-tech-debt-with-platform-health-analytics-and-servicenow/ba-p/3612256",
+"title": "Sizing tech debt with Platform Health Analytics and ServiceNow Impact",
+"url": "https://www.servicenow.com/community/servicenow-impact-blog/sizing-tech-debt-with-platform-health-analytics-and-servicenow/ba-p/3612256",
+"source_id": "comm-all-articles",
+"source": "Community articles (all boards)",
+"type": "community",
+"group": "official",
+"via": "",
+"author": "isaacsharp",
+"published": "2026-10-22T02:27:56+00:00",
+"summary": "Tech debt is easy to feel and hard to see. This post shows how Platform Health Analytics in the Impact Store App turns scan findings into a dollar value, with three sample findings and a section for executives.",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-22T04:53:00.473895+00:00",
+"tags": []
+},
+{
+"id": "https://www.servicenow.com/community/app-engine-blog/setting-up-ci-cd-with-github-actions-now-sdk-and-update-sets/ba-p/3612834",
+"title": "Setting up CI/CD With GitHub Actions, Now-SDK and Update Sets",
+"url": "https://www.servicenow.com/community/app-engine-blog/setting-up-ci-cd-with-github-actions-now-sdk-and-update-sets/ba-p/3612834",
+"source_id": "comm-all-articles",
+"source": "Community articles (all boards)",
+"type": "community",
+"group": "official",
+"via": "",
+"author": "Jon G Lind",
+"published": "2026-10-21T22:23:17+00:00",
+"summary": "Example of how to use ServiceNow SDK (Now-SDK) to setup a Continuous Integration and Delivery (CI/CD) pipeline using Update Sets to deploy.",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-22T04:53:00.473981+00:00",
+"tags": []
+},
 {
 "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUNSV1BzSWswekVROU1BYzFoVkxjUjRVRFNQbC1UbS1aWkZzVlZKN1Q3aXc4QWRrdjRNNnF6S2Zzck9IMWNQWWl1cU1kQUJRajdWY3R5ejZwSXR0T1FDZ1J6QUtqSDBqQnRESW9Tb1hCXzRLZHFSeXdqTVBxTU5nbl9hMktZSE54Y29XSGxB?oc=5",
 "title": "ServiceNow cuts network incidents 90% with HPE Mist AI",
