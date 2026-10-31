@@ -1,6 +1,40 @@
 {
-"generated_at": "2026-10-31T05:48:13.206409+00:00",
+"generated_at": "2026-10-31T12:37:55.181257+00:00",
 "items": [
+{
+"id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjVraDE0QnJ3Q2VTbkJYLUxLTVBlbkw3SUVndkhmOXVvVlZRREFhay03UDNocTkxYldnRWpkQVV3UDZpTzQ1cGVDaGRXSjZhRlo1RllvdUZyaGFiNGFkWHZ2QVFrX1Y0X2FhV1o5YmxsQVRTZEkzd3dRQzVYTDBfelFNMDJaRWRNOUZPX2lRZUZJZDJIaml6cGo2UHNFdWFLVWZodXAzSHg5Ykd4UC1hcmtFQQ?oc=5",
+"title": "ServiceNow CFO says AI disruption to enterprise software narrative is false",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjVraDE0QnJ3Q2VTbkJYLUxLTVBlbkw3SUVndkhmOXVvVlZRREFhay03UDNocTkxYldnRWpkQVV3UDZpTzQ1cGVDaGRXSjZhRlo1RllvdUZyaGFiNGFkWHZ2QVFrX1Y0X2FhV1o5YmxsQVRTZEkzd3dRQzVYTDBfelFNMDJaRWRNOUZPX2lRZUZJZDJIaml6cGo2UHNFdWFLVWZodXAzSHg5Ykd4UC1hcmtFQQ?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Seeking Alpha",
+"author": "",
+"published": "2026-10-31T12:00:48+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-31T12:37:50.202867+00:00",
+"tags": []
+},
+{
+"id": "https://www.youtube.com/shorts/Rw62cLvgQF8",
+"title": "Tables store Facts, Knowledge Graph Links them.",
+"url": "https://www.youtube.com/shorts/Rw62cLvgQF8",
+"source_id": "yt-devprogram",
+"source": "ServiceNow Dev Program",
+"type": "video",
+"group": "official",
+"via": "",
+"author": "ServiceNow Dev Program",
+"published": "2026-10-31T11:00:22+00:00",
+"summary": "Karteek and Sujan explain the knowledge graph in Workflow Data Fabric. A database stores facts, and the knowledge graph maps how those facts relate. When data products are published in WDF, it builds semantic links between them. AI agents can follow those links from one record to the next to receive the required data...",
+"thumbnail": "https://i3.ytimg.com/vi/Rw62cLvgQF8/hqdefault.jpg",
+"duration": "",
+"first_seen": "2026-10-31T12:37:48.987859+00:00",
+"tags": []
+},
 {
 "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1Y4am95TVZId2c4eGlpYk02UWpyUkpPbUJ4cm9BQnlrSlVOVlhENmxJYmY1WXhjLXd0d1Y4Ui04RUxrRU4wRWFaaGdMRlAzMXVlVjhuMHNBdVFtSHhoeVFKb1JrdzZiLVl3SnhtWm5IaG5zRGo3eXJucnFKVjVuNjhhQlJ1aGtUa3V6ZVNkN2pIcEVJS2tUSEQtekxEa21nU1hWbGtBSm1KcUYtM20yX3NHSjZia0po?oc=5",
 "title": "IBM vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
@@ -118,6 +152,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-29T22:47:18.108495+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY0JYREwwbXYtUXR2REdQOXc2VVpnaEtYOE9QbUEyXy1ybllQdlUyQUo5WWFHODRiS1pZeUNzNjBMV1ptTkRSQWJUdjFCWTd0Y3FvUkk4ZzJBY0RSb1g5eEVmRHc4TUtpLXRBZC1kTVA0Ni1XQzR0b0x2aExfaU1lREtzemZUbFVkV25jYkpybmdlZllBMW5NM2Rn?oc=5",
+"title": "As ServiceNow plunges 31%, this mid-cap software stock is surging",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY0JYREwwbXYtUXR2REdQOXc2VVpnaEtYOE9QbUEyXy1ybllQdlUyQUo5WWFHODRiS1pZeUNzNjBMV1ptTkRSQWJUdjFCWTd0Y3FvUkk4ZzJBY0RSb1g5eEVmRHc4TUtpLXRBZC1kTVA0Ni1XQzR0b0x2aExfaU1lREtzemZUbFVkV25jYkpybmdlZllBMW5NM2Rn?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Yahoo Finance",
+"author": "",
+"published": "2026-10-30T15:02:04+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-31T12:37:50.200287+00:00",
 "tags": []
 },
 {
@@ -308,6 +359,23 @@
 "tags": []
 },
 {
+"id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdWNWSXU0WkNaejh4eEtSYm9XOXFmVlAzbVY4Rjg4ajJyYld5U3dsLU55aDB2WFZidTV4bEdqV0JzV0VDTXhhM1lraU56UlR3YnN5MTg4OWY2YUtpMzhQS0NJaXdRNnluMjJtVFgtaDlOQk1TbmdkbVFSNER2UmthXzNSNGNUb3pTUmktWjRmVWFJN3R3N1lfYTVSenltdw?oc=5",
+"title": "ServiceNow battered after guidance announced",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdWNWSXU0WkNaejh4eEtSYm9XOXFmVlAzbVY4Rjg4ajJyYld5U3dsLU55aDB2WFZidTV4bEdqV0JzV0VDTXhhM1lraU56UlR3YnN5MTg4OWY2YUtpMzhQS0NJaXdRNnluMjJtVFgtaDlOQk1TbmdkbVFSNER2UmthXzNSNGNUb3pTUmktWjRmVWFJN3R3N1lfYTVSenltdw?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "marketscreener.com",
+"author": "",
+"published": "2026-10-30T07:40:32+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-31T12:37:50.203154+00:00",
+"tags": []
+},
+{
 "id": "https://www.youtube.com/watch?v=f2TUTLpvGG8",
 "title": "How do we build a plugin in Tool Studio? | Build EmployeeWorks plugins with ToolSmith (Part 3)",
 "url": "https://www.youtube.com/watch?v=f2TUTLpvGG8",
@@ -322,6 +390,23 @@
 "thumbnail": "https://i3.ytimg.com/vi/f2TUTLpvGG8/hqdefault.jpg",
 "duration": "",
 "first_seen": "2026-10-30T12:59:50.692320+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXFCajZiZFVCVG5seWU0cVdhRVRJQ0std29qYWQzTUVnR1JwVGQ4VndmX2RQRS14U2FvdWJodENMV0pjQkVpaFJWQnZ3ZDdBVWNOQ1ZaQVIzWTQ2dFZCMzZpTXBsbkVJLThFZnpvRHJhaHR2U2xPdUtBc1dYV1lpdmlJektNTXdqNk1MWDJuN1VaZzNLcUxmVnhn?oc=5",
+"title": "ServiceNow Just Had Its Worst Day Ever. The Backlog Guide Did It.",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXFCajZiZFVCVG5seWU0cVdhRVRJQ0std29qYWQzTUVnR1JwVGQ4VndmX2RQRS14U2FvdWJodENMV0pjQkVpaFJWQnZ3ZDdBVWNOQ1ZaQVIzWTQ2dFZCMzZpTXBsbkVJLThFZnpvRHJhaHR2U2xPdUtBc1dYV1lpdmlJektNTXdqNk1MWDJuN1VaZzNLcUxmVnhn?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Money Morning",
+"author": "",
+"published": "2026-10-30T07:07:04+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-31T12:37:50.202975+00:00",
 "tags": []
 },
 {
@@ -1685,6 +1770,23 @@
 "tags": []
 },
 {
+"id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTV4cHlTQlhsSmRiUHhVLVJMV3BhUl9QWXZlZTJ1WkJPOHJHVWRhTEVyVTRuTVgyUnNfcjJSLXBSNm9NUmJvLUtZZHlmVDZYX0MzQ3cwT055MUlzRFFUdEpqcmE1R2NLMWEzY3dDVFJjbUFZcDRRSjY1Z1dqMW55TXRFOGJJWjJhdW95czhDSHl6RVRv?oc=5",
+"title": "Key Takeaways From Microsoft and ServiceNow Earnings",
+"url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTV4cHlTQlhsSmRiUHhVLVJMV3BhUl9QWXZlZTJ1WkJPOHJHVWRhTEVyVTRuTVgyUnNfcjJSLXBSNm9NUmJvLUtZZHlmVDZYX0MzQ3cwT055MUlzRFFUdEpqcmE1R2NLMWEzY3dDVFJjbUFZcDRRSjY1Z1dqMW55TXRFOGJJWjJhdW95czhDSHl6RVRv?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Yahoo Finance",
+"author": "",
+"published": "2026-10-28T20:36:41+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-31T12:37:50.201935+00:00",
+"tags": []
+},
+{
 "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVRXQXl4aHFyRUdxTmUyU3VNbkU3SnRTRDhmZnNZMHh0c1FSc2JLV0Y4bWNxUVFlQXo1N05wVGRqMWlnRGRHRnFGdXdrOGNTc0Zac1Qwd3dvRldxLWpBeDIxRWxJZnctN0tjQmZuaHNIWndTNlYxY3RiTV9vRnRucnJkUjVObE5PaGxPeU1yRHNpMGJrZ2tIT0p5dVp5WjJvN240d05BQ3piMHVVVm1ZZEx1UHA?oc=5",
 "title": "ServiceNow expands OpenAI partnership with ChatGPT plugin",
 "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVRXQXl4aHFyRUdxTmUyU3VNbkU3SnRTRDhmZnNZMHh0c1FSc2JLV0Y4bWNxUVFlQXo1N05wVGRqMWlnRGRHRnFGdXdrOGNTc0Zac1Qwd3dvRldxLWpBeDIxRWxJZnctN0tjQmZuaHNIWndTNlYxY3RiTV9vRnRucnJkUjVObE5PaGxPeU1yRHNpMGJrZ2tIT0p5dVp5WjJvN240d05BQ3piMHVVVm1ZZEx1UHA?oc=5",
@@ -1794,7 +1896,7 @@
 "source": "Google News: ServiceNow",
 "type": "news",
 "group": "press",
-"via": "Bloomberg.com",
+"via": "Bloomberg",
 "author": "",
 "published": "2026-10-28T20:17:05+00:00",
 "summary": "",
@@ -2226,23 +2328,6 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-28T05:46:27.216352+00:00",
-"tags": []
-},
-{
-"id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ3BUYVc5WndOZ2VXdDdTOWZWekRDTUgzY0ZYSmZqeG1oOEFsZG04c2tsd210czg5SjFtOFIydjUtQnRZbm91dm5Ic2dxbHc4Q0duNHh4T250b2t4a1VuVUhqUzRINW1maEFMc0x3MmIzNVNBeTZpVGFXTjVUc3Zuc2JHVzQ4a3g3bjJ0VnVMZ19uaEdWVXA5Y0Y5NF9FVldrbENVSWpmemxYT0U?oc=5",
-"title": "Key Takeaways From Microsoft and ServiceNow Earnings",
-"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ3BUYVc5WndOZ2VXdDdTOWZWekRDTUgzY0ZYSmZqeG1oOEFsZG04c2tsd210czg5SjFtOFIydjUtQnRZbm91dm5Ic2dxbHc4Q0duNHh4T250b2t4a1VuVUhqUzRINW1maEFMc0x3MmIzNVNBeTZpVGFXTjVUc3Zuc2JHVzQ4a3g3bjJ0VnVMZ19uaEdWVXA5Y0Y5NF9FVldrbENVSWpmemxYT0U?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "Bloomberg.com",
-"author": "",
-"published": "2026-10-28T00:00:00+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-29T05:51:57.462575+00:00",
 "tags": []
 },
 {
