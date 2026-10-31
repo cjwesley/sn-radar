@@ -1,6 +1,23 @@
 {
-"generated_at": "2026-10-30T22:24:08.338975+00:00",
+"generated_at": "2026-10-31T05:48:13.206409+00:00",
 "items": [
+{
+"id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1Y4am95TVZId2c4eGlpYk02UWpyUkpPbUJ4cm9BQnlrSlVOVlhENmxJYmY1WXhjLXd0d1Y4Ui04RUxrRU4wRWFaaGdMRlAzMXVlVjhuMHNBdVFtSHhoeVFKb1JrdzZiLVl3SnhtWm5IaG5zRGo3eXJucnFKVjVuNjhhQlJ1aGtUa3V6ZVNkN2pIcEVJS2tUSEQtekxEa21nU1hWbGtBSm1KcUYtM20yX3NHSjZia0po?oc=5",
+"title": "IBM vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
+"url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1Y4am95TVZId2c4eGlpYk02UWpyUkpPbUJ4cm9BQnlrSlVOVlhENmxJYmY1WXhjLXd0d1Y4Ui04RUxrRU4wRWFaaGdMRlAzMXVlVjhuMHNBdVFtSHhoeVFKb1JrdzZiLVl3SnhtWm5IaG5zRGo3eXJucnFKVjVuNjhhQlJ1aGtUa3V6ZVNkN2pIcEVJS2tUSEQtekxEa21nU1hWbGtBSm1KcUYtM20yX3NHSjZia0po?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "The Motley Fool",
+"author": "",
+"published": "2026-10-30T21:15:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-30T22:24:06.054956+00:00",
+"tags": []
+},
 {
 "id": "https://www.servicenow.com/community/developer-blog/agentic-security-best-practices/ba-p/3616201",
 "title": "Agentic Security - Best Practices",
@@ -33,23 +50,6 @@
 "thumbnail": "https://i2.ytimg.com/vi/Q2GHJlyNDTs/hqdefault.jpg",
 "duration": "",
 "first_seen": "2026-10-30T22:24:04.882867+00:00",
-"tags": []
-},
-{
-"id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1Y4am95TVZId2c4eGlpYk02UWpyUkpPbUJ4cm9BQnlrSlVOVlhENmxJYmY1WXhjLXd0d1Y4Ui04RUxrRU4wRWFaaGdMRlAzMXVlVjhuMHNBdVFtSHhoeVFKb1JrdzZiLVl3SnhtWm5IaG5zRGo3eXJucnFKVjVuNjhhQlJ1aGtUa3V6ZVNkN2pIcEVJS2tUSEQtekxEa21nU1hWbGtBSm1KcUYtM20yX3NHSjZia0po?oc=5",
-"title": "IBM vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
-"url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1Y4am95TVZId2c4eGlpYk02UWpyUkpPbUJ4cm9BQnlrSlVOVlhENmxJYmY1WXhjLXd0d1Y4Ui04RUxrRU4wRWFaaGdMRlAzMXVlVjhuMHNBdVFtSHhoeVFKb1JrdzZiLVl3SnhtWm5IaG5zRGo3eXJucnFKVjVuNjhhQlJ1aGtUa3V6ZVNkN2pIcEVJS2tUSEQtekxEa21nU1hWbGtBSm1KcUYtM20yX3NHSjZia0po?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "The Motley Fool",
-"author": "",
-"published": "2026-10-30T20:25:07+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-30T22:24:06.054956+00:00",
 "tags": []
 },
 {
@@ -934,6 +934,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-29T22:47:18.750737+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQUpuMFR1MVJuYWRfQnZKNDlVRThQT1VyZl95Y2lIWWxoOWV5R2ladVplWk03blZrRWttbTJ3bFdmYXVZMEowQ1pVS0diYUFDaWsxWHNhd2VIWVVjcVdOZXRjVHFrQzdWaENucXc3R1NDVnpnR0YzVEVBZFA5Mk0yVmdvUmpjNmlKSWVJa3pxTmFaX0w0OS00MWZsbzhsQl9oelpYVmZhdEFJZXVHVTY0STdBLVliRW0wTkpheVZZZ0g0TTFBUkdHa3NpR1hyZGtpQXV5ejhJZGRwMHYyQW85QmtXVkNxWEtjSHY2QnJpYkZWOS03?oc=5",
+"title": "Fortinet drags down cybersecurity stocks as the company's service revenue forecast misses estimates",
+"url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQUpuMFR1MVJuYWRfQnZKNDlVRThQT1VyZl95Y2lIWWxoOWV5R2ladVplWk03blZrRWttbTJ3bFdmYXVZMEowQ1pVS0diYUFDaWsxWHNhd2VIWVVjcVdOZXRjVHFrQzdWaENucXc3R1NDVnpnR0YzVEVBZFA5Mk0yVmdvUmpjNmlKSWVJa3pxTmFaX0w0OS00MWZsbzhsQl9oelpYVmZhdEFJZXVHVTY0STdBLVliRW0wTkpheVZZZ0g0TTFBUkdHa3NpR1hyZGtpQXV5ejhJZGRwMHYyQW85QmtXVkNxWEtjSHY2QnJpYkZWOS03?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Yahoo Finance",
+"author": "",
+"published": "2026-10-29T13:08:34+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-31T05:48:08.722544+00:00",
 "tags": []
 },
 {
