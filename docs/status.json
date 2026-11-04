@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T23:25:49.050951+00:00",
+  "generated_at": "2026-11-04T06:29:41.249706+00:00",
   "status": [
     {
       "id": "yt-basico",
@@ -7,8 +7,8 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJIhKeKrS5_uMOX0hYDBUw",
       "ok": false,
       "items": 0,
-      "error": "HTTP 500",
-      "fetched_at": "2026-11-03T23:25:45.320604+00:00"
+      "error": "HTTP 404",
+      "fetched_at": "2026-11-04T06:29:34.954168+00:00"
     },
     {
       "id": "pod-break-point",
@@ -17,7 +17,7 @@
       "ok": true,
       "items": 100,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:46.385169+00:00"
+      "fetched_at": "2026-11-04T06:29:36.544779+00:00"
     },
     {
       "id": "pod-cj-the-duke",
@@ -26,7 +26,7 @@
       "ok": true,
       "items": 128,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:46.491139+00:00"
+      "fetched_at": "2026-11-04T06:29:36.649587+00:00"
     },
     {
       "id": "comm-all-articles",
@@ -35,7 +35,7 @@
       "ok": true,
       "items": 20,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:45.411967+00:00"
+      "fetched_at": "2026-11-04T06:29:35.098364+00:00"
     },
     {
       "id": "comm-community-week",
@@ -44,7 +44,7 @@
       "ok": true,
       "items": 20,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:46.273253+00:00"
+      "fetched_at": "2026-11-04T06:29:36.417175+00:00"
     },
     {
       "id": "comm-dev-advocate",
@@ -53,7 +53,7 @@
       "ok": true,
       "items": 20,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:45.419301+00:00"
+      "fetched_at": "2026-11-04T06:29:35.119243+00:00"
     },
     {
       "id": "comm-dev-blog",
@@ -62,7 +62,7 @@
       "ok": true,
       "items": 20,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:45.414311+00:00"
+      "fetched_at": "2026-11-04T06:29:35.103549+00:00"
     },
     {
       "id": "comm-in-other-news",
@@ -71,7 +71,7 @@
       "ok": true,
       "items": 20,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:46.192147+00:00"
+      "fetched_at": "2026-11-04T06:29:36.283337+00:00"
     },
     {
       "id": "comm-now-platform",
@@ -80,7 +80,7 @@
       "ok": true,
       "items": 20,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:45.423210+00:00"
+      "fetched_at": "2026-11-04T06:29:35.159731+00:00"
     },
     {
       "id": "news-gnews",
@@ -89,7 +89,7 @@
       "ok": true,
       "items": 100,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:45.657433+00:00"
+      "fetched_at": "2026-11-04T06:29:35.377470+00:00"
     },
     {
       "id": "blog-jace",
@@ -98,7 +98,7 @@
       "ok": true,
       "items": 342,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:45.517792+00:00"
+      "fetched_at": "2026-11-04T06:29:35.374452+00:00"
     },
     {
       "id": "yt-jace",
@@ -107,7 +107,7 @@
       "ok": false,
       "items": 0,
       "error": "HTTP 404",
-      "fetched_at": "2026-11-03T23:25:45.321052+00:00"
+      "fetched_at": "2026-11-04T06:29:34.955064+00:00"
     },
     {
       "id": "yt-the-duke",
@@ -115,8 +115,8 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfhKNeCYiaJQaaKuACKt0Sg",
       "ok": false,
       "items": 0,
-      "error": "HTTP 500",
-      "fetched_at": "2026-11-03T23:25:45.411049+00:00"
+      "error": "HTTP 404",
+      "fetched_at": "2026-11-04T06:29:35.064867+00:00"
     },
     {
       "id": "yt-servicenow",
@@ -125,7 +125,7 @@
       "ok": false,
       "items": 0,
       "error": "HTTP 404",
-      "fetched_at": "2026-11-03T23:25:45.319147+00:00"
+      "fetched_at": "2026-11-04T06:29:34.952074+00:00"
     },
     {
       "id": "yt-sn911",
@@ -134,7 +134,7 @@
       "ok": false,
       "items": 0,
       "error": "HTTP 404",
-      "fetched_at": "2026-11-03T23:25:45.320412+00:00"
+      "fetched_at": "2026-11-04T06:29:34.953756+00:00"
     },
     {
       "id": "yt-community",
@@ -143,7 +143,7 @@
       "ok": false,
       "items": 0,
       "error": "HTTP 404",
-      "fetched_at": "2026-11-03T23:25:45.320206+00:00"
+      "fetched_at": "2026-11-04T06:29:34.953419+00:00"
     },
     {
       "id": "yt-devprogram",
@@ -152,7 +152,7 @@
       "ok": false,
       "items": 0,
       "error": "HTTP 404",
-      "fetched_at": "2026-11-03T23:25:45.319500+00:00"
+      "fetched_at": "2026-11-04T06:29:34.952491+00:00"
     },
     {
       "id": "yt-docs",
@@ -161,7 +161,7 @@
       "ok": false,
       "items": 0,
       "error": "HTTP 404",
-      "fetched_at": "2026-11-03T23:25:45.320012+00:00"
+      "fetched_at": "2026-11-04T06:29:34.952928+00:00"
     },
     {
       "id": "blog-snelite",
@@ -170,7 +170,7 @@
       "ok": true,
       "items": 20,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:45.491429+00:00"
+      "fetched_at": "2026-11-04T06:29:35.319736+00:00"
     },
     {
       "id": "yt-guru",
@@ -179,7 +179,7 @@
       "ok": false,
       "items": 0,
       "error": "HTTP 404",
-      "fetched_at": "2026-11-03T23:25:45.320900+00:00"
+      "fetched_at": "2026-11-04T06:29:34.954751+00:00"
     },
     {
       "id": "pod-insights",
@@ -188,7 +188,7 @@
       "ok": true,
       "items": 100,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:45.765831+00:00"
+      "fetched_at": "2026-11-04T06:29:35.640298+00:00"
     },
     {
       "id": "pod-community",
@@ -197,7 +197,7 @@
       "ok": true,
       "items": 100,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:45.740921+00:00"
+      "fetched_at": "2026-11-04T06:29:35.429582+00:00"
     },
     {
       "id": "pod-store-highlights",
@@ -206,7 +206,7 @@
       "ok": true,
       "items": 100,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:46.093125+00:00"
+      "fetched_at": "2026-11-04T06:29:35.964969+00:00"
     },
     {
       "id": "news-sn-blog-via-gnews",
@@ -215,7 +215,7 @@
       "ok": true,
       "items": 28,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:45.648693+00:00"
+      "fetched_at": "2026-11-04T06:29:35.375072+00:00"
     },
     {
       "id": "blog-snprotips",
@@ -224,7 +224,7 @@
       "ok": true,
       "items": 50,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:45.423573+00:00"
+      "fetched_at": "2026-11-04T06:29:35.165063+00:00"
     },
     {
       "id": "pod-xentegra",
@@ -233,7 +233,7 @@
       "ok": true,
       "items": 55,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:46.128722+00:00"
+      "fetched_at": "2026-11-04T06:29:35.992834+00:00"
     },
     {
       "id": "yt-techtalk-bill",
@@ -242,7 +242,7 @@
       "ok": false,
       "items": 0,
       "error": "HTTP 404",
-      "fetched_at": "2026-11-03T23:25:45.410635+00:00"
+      "fetched_at": "2026-11-04T06:29:35.057285+00:00"
     },
     {
       "id": "pod-change-agents",
@@ -251,7 +251,7 @@
       "ok": true,
       "items": 9,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:46.039048+00:00"
+      "fetched_at": "2026-11-04T06:29:35.778857+00:00"
     },
     {
       "id": "pod-honor-roll",
@@ -260,7 +260,7 @@
       "ok": true,
       "items": 10,
       "error": "",
-      "fetched_at": "2026-11-03T23:25:45.919893+00:00"
+      "fetched_at": "2026-11-04T06:29:35.755433+00:00"
     }
   ]
 }
