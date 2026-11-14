@@ -1,6 +1,59 @@
 {
-"generated_at": "2026-11-13T19:45:18.887903+00:00",
+"generated_at": "2026-11-14T06:29:32.676934+00:00",
 "items": [
+{
+"id": "https://www.servicenow.com/community/autonomous-it-blog/you-don-t-need-a-perfect-cmdb/ba-p/3621243",
+"title": "You Don't Need a Perfect CMDB",
+"url": "https://www.servicenow.com/community/autonomous-it-blog/you-don-t-need-a-perfect-cmdb/ba-p/3621243",
+"source_id": "comm-all-articles",
+"source": "Community articles (all boards)",
+"type": "community",
+"group": "official",
+"via": "",
+"author": "LexaFu",
+"published": "2026-11-13T21:56:17+00:00",
+"summary": "Smarter IT starts with a healthier CMDB Connect your IT data, improve visibility, and build confidence to scale AI and automation. Imagine an employee reports an application issue. It should be a straightforward fix. But the device records don't match, software information is outdated, and nobody's quite sure which...",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-11-14T06:29:28.785785+00:00",
+"tags": []
+},
+{
+"id": "https://www.servicenow.com/community/flow-by-servicenow-blogs/your-first-10-automations-with-flow-by-servicenow/ba-p/3621203",
+"title": "Your first 10 automations with Flow by ServiceNow",
+"url": "https://www.servicenow.com/community/flow-by-servicenow-blogs/your-first-10-automations-with-flow-by-servicenow/ba-p/3621203",
+"source_id": "comm-all-articles",
+"source": "Community articles (all boards)",
+"type": "community",
+"group": "official",
+"via": "",
+"author": "jasonleung",
+"published": "2026-11-13T20:48:43+00:00",
+"summary": "Ask any IT admin where the week went, and you'll hear the same things: password resets, access requests, tool approvals . Why not automate them with Flow?! The easiest place to start is the everyday work that eats up your time . Most of it isn’t technically hard. It’s slow because someone is waiting on approval from...",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-11-14T06:29:28.786073+00:00",
+"tags": []
+},
+{
+"id": "https://www.servicenow.com/community/in-other-news/congratulations-2026-servicenow-community-rising-stars/ba-p/3612252",
+"title": "Congratulations 2026 ServiceNow Community Rising Stars! 🎉",
+"url": "https://www.servicenow.com/community/in-other-news/congratulations-2026-servicenow-community-rising-stars/ba-p/3612252",
+"source_id": "comm-in-other-news",
+"source": "Community: In other news (MVP announcements and spotlights)",
+"type": "community",
+"group": "official",
+"via": "",
+"author": "Sarah G_",
+"published": "2026-11-13T20:29:46+00:00",
+"summary": "Congratulations 2026 Rising Stars We’re pleased to announce the long-awaited new wave of ServiceNow Community Rising Stars. 💚 WHY IS THIS A BIG MOMENT? Rising Stars are ServiceNow practitioners from all over the world who are setting a strong example for how to get started and thrive in our online community. These...",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-21T04:53:24.872580+00:00",
+"tags": [
+"MVP"
+]
+},
 {
 "id": "https://www.youtube.com/watch?v=H6rd4tMv-KA",
 "title": "Tables Rock and DuckDB with Hannes Mühleisen",
@@ -580,6 +633,23 @@
 "tags": []
 },
 {
+"id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWnhnbHFfMC1xRWRmYzZOVzZvY293NXp6X1hoOVRzcnN3U2l3Z1hlcG4yTE8ybmtnd25maDFOWTZSVEJhckl6Tkl0NGhLU2JXeXc3b1lZNGRHVGRVVng5eFdSV2Rtb2ZrSkEyRFotS3hsamVWTnRUM3hXLUpIcHBNTUpyMTFBeUswSXBGM2NjTGZGblFPelZ0NHFUOW5HY0M0REIteTloT29WUmo0SkRmUTd3c28xQ0xhTmRTUHJpcWUyYmlQcjBkYTh2TzhnTFVMcV9RLUtyRUdtdXlmQ242aA?oc=5",
+"title": "ServiceNow at BMO Capital Technology and Innovation Leaders Conference: AI push deepens",
+"url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWnhnbHFfMC1xRWRmYzZOVzZvY293NXp6X1hoOVRzcnN3U2l3Z1hlcG4yTE8ybmtnd25maDFOWTZSVEJhckl6Tkl0NGhLU2JXeXc3b1lZNGRHVGRVVng5eFdSV2Rtb2ZrSkEyRFotS3hsamVWTnRUM3hXLUpIcHBNTUpyMTFBeUswSXBGM2NjTGZGblFPelZ0NHFUOW5HY0M0REIteTloT29WUmo0SkRmUTd3c28xQ0xhTmRTUHJpcWUyYmlQcjBkYTh2TzhnTFVMcV9RLUtyRUdtdXlmQ242aA?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Investing.com Canada",
+"author": "",
+"published": "2026-11-12T16:14:59+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-11-14T06:29:29.426726+00:00",
+"tags": []
+},
+{
 "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYkpocEV2dFBRb042d1M1akVtTnFMYWFTOHBqbGVYOW9xMUdHN2ZWZEhGTlhJUi1YVXpZdk0xcnlsbTFka0lzdFFEOXNQV09uTHVtV0E5NXlnX3g3eVhneHRKUGc2alF1Wjdwd3A1VDJaT1JFSk9GaFhOcHViTnF3RWtIUGhCZi1zMXBDV0oxN0tKSjlEbm9sd1IxUl9wWkg4bkQ4TFQ3MWZWdi1qZXVHSkdGSldabmh6d3hybFZ2S2loNUN3c1FLV29oT25nUnVDTFZuOS1tVXYxdw?oc=5",
 "title": "LicenseFortress Expands Independent Software Licensing Services to Include ServiceNow",
 "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYkpocEV2dFBRb042d1M1akVtTnFMYWFTOHBqbGVYOW9xMUdHN2ZWZEhGTlhJUi1YVXpZdk0xcnlsbTFka0lzdFFEOXNQV09uTHVtV0E5NXlnX3g3eVhneHRKUGc2alF1Wjdwd3A1VDJaT1JFSk9GaFhOcHViTnF3RWtIUGhCZi1zMXBDV0oxN0tKSjlEbm9sd1IxUl9wWkg4bkQ4TFQ3MWZWdi1qZXVHSkdGSldabmh6d3hybFZ2S2loNUN3c1FLV29oT25nUnVDTFZuOS1tVXYxdw?oc=5",
@@ -594,23 +664,6 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-11-13T19:45:14.227715+00:00",
-"tags": []
-},
-{
-"id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaHZmbEJRaUUwbkZYNlZTTWxnZjVOR2dNTGpoWkF6OFJzSzdYQ0J5YmViNzNpeVg0UDRmWk9POXlJMWUyRjREaWVVZndfSVZCUElucXIxQXFGS04yOVZ2SmkyVjJ0VS1IcWY4cGE3cUtEeEZ6UWtUYkFoNHhTaERWTkpJUzBjSlNwVWFSbWFVY05XVGxPVkNZaUtKV1ktOU03VTMtbGYzZ0xYUkk4MW0za0VrYXVaZUhkSVlNTG5qbWpQU1l3RUw0OXV4WGNwUU9mZWZXbmI2ZmJQMllXdkVhbA?oc=5",
-"title": "ServiceNow at BMO Capital Technology and Innovation Leaders Conference: AI push deepens",
-"url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaHZmbEJRaUUwbkZYNlZTTWxnZjVOR2dNTGpoWkF6OFJzSzdYQ0J5YmViNzNpeVg0UDRmWk9POXlJMWUyRjREaWVVZndfSVZCUElucXIxQXFGS04yOVZ2SmkyVjJ0VS1IcWY4cGE3cUtEeEZ6UWtUYkFoNHhTaERWTkpJUzBjSlNwVWFSbWFVY05XVGxPVkNZaUtKV1ktOU03VTMtbGYzZ0xYUkk4MW0za0VrYXVaZUhkSVlNTG5qbWpQU1l3RUw0OXV4WGNwUU9mZWZXbmI2ZmJQMllXdkVhbA?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "Investing.com UK",
-"author": "",
-"published": "2026-11-12T15:54:00+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-11-13T19:45:14.227668+00:00",
 "tags": []
 },
 {
@@ -1823,23 +1876,6 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1BocjVmMTVZRExVZ1dOa0lmb1ZvWWo5MU91Uk9nVk1DZmEyU3FnNFpYZF9UY1doeElSU25hYjZQVWFvU2puVldTaGZ1ZzFjb3NJdUdnSWZZYjFKdllKd29nX0tncmkzN2dyUzA3eWhhNENvOWRNcUtfcGZrMlpEUXZOenVyM3dvckE?oc=5",
-"title": "ServiceNow Inc Stock (NOW) Moved Down by 5.07% on Nov 10: What Investors Need To Know",
-"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1BocjVmMTVZRExVZ1dOa0lmb1ZvWWo5MU91Uk9nVk1DZmEyU3FnNFpYZF9UY1doeElSU25hYjZQVWFvU2puVldTaGZ1ZzFjb3NJdUdnSWZZYjFKdllKd29nX0tncmkzN2dyUzA3eWhhNENvOWRNcUtfcGZrMlpEUXZOenVyM3dvckE?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "TradingKey",
-"author": "",
-"published": "2026-11-10T23:54:15+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-11-10T19:46:13.645527+00:00",
-"tags": []
-},
-{
 "id": "https://www.youtube.com/watch?v=IbNkCxWkvDg",
 "title": "Celebrating veterans and their spirt of service",
 "url": "https://www.youtube.com/watch?v=IbNkCxWkvDg",
@@ -2041,6 +2077,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-11-10T19:46:13.644803+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1BocjVmMTVZRExVZ1dOa0lmb1ZvWWo5MU91Uk9nVk1DZmEyU3FnNFpYZF9UY1doeElSU25hYjZQVWFvU2puVldTaGZ1ZzFjb3NJdUdnSWZZYjFKdllKd29nX0tncmkzN2dyUzA3eWhhNENvOWRNcUtfcGZrMlpEUXZOenVyM3dvckE?oc=5",
+"title": "ServiceNow Inc Stock (NOW) Moved Down by 5.07% on Nov 10: What Investors Need To Know",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1BocjVmMTVZRExVZ1dOa0lmb1ZvWWo5MU91Uk9nVk1DZmEyU3FnNFpYZF9UY1doeElSU25hYjZQVWFvU2puVldTaGZ1ZzFjb3NJdUdnSWZZYjFKdllKd29nX0tncmkzN2dyUzA3eWhhNENvOWRNcUtfcGZrMlpEUXZOenVyM3dvckE?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "TradingKey",
+"author": "",
+"published": "2026-11-10T18:15:30+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-11-10T19:46:13.645527+00:00",
 "tags": []
 },
 {
@@ -3285,23 +3338,6 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVR3eWNjSUNwNVdFY3VrdHVaNjcwWmpxNHNoSFBzRDF6M21TeUZZanRLTWowMkZDTEE0ZE9ONWNaLUJUa1JUTGxmQVYwRFdFY2pvcTUtV3pHVUg1eXFzdjF4Mlc5bmU5ZjJQZWJzaGotMEVqX2NhRVRUZFRQR2dmSkhGNGJwTUo2bUF1RjFMalNnYVhKLXFheFlxcElJN1Z1aWpKUXVDY1JkaTF4Qkh6SWZ3WVM0czByQ09NX2NUbFkyRm8?oc=5",
-"title": "ServiceNow layoffs hit UK, US and India as company restructures workforce - People Matters",
-"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVR3eWNjSUNwNVdFY3VrdHVaNjcwWmpxNHNoSFBzRDF6M21TeUZZanRLTWowMkZDTEE0ZE9ONWNaLUJUa1JUTGxmQVYwRFdFY2pvcTUtV3pHVUg1eXFzdjF4Mlc5bmU5ZjJQZWJzaGotMEVqX2NhRVRUZFRQR2dmSkhGNGJwTUo2bUF1RjFMalNnYVhKLXFheFlxcElJN1Z1aWpKUXVDY1JkaTF4Qkh6SWZ3WVM0czByQ09NX2NUbFkyRm8?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "HR News",
-"author": "",
-"published": "2026-11-06T03:15:44+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-11-06T19:26:52.300542+00:00",
-"tags": []
-},
-{
 "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEVZMVpJZnl6aTNWTG5TcGswUXp0NFFIdjJCc2NpTF94X01wN3dZbmpLUUVYdXh3bmhkNUd5Nk91eTdHME1oak9jUUx4MWFvdkxTWjVSNFZjY09feHhMSXY5RzVocnh2QnRyVFV4cW5nak5QR0VWZkVuR0NfT1Z4N1g5QTFwTGRvQUtabmZVWkRudUJWQUhLVUlpTENjS0NsZG5Xd1JZUU9ua0E3LTE1U1BLNWpxZEZrVFNFYkZQMTgycmxU0gHKAUFVX3lxTE1oeUFGeUhId01xVjRSaTZBZ2VsVkxBZk1OX042Wkx5MnhsXzBRd2VxS3h1eUVERTZvbkxubDdOOWZ0X2ZTOGo0bGRpQnBKUnhjMEVRLXRRMkI0eXVrZ1I5ODhyN3kyd2xkVUE3M012Mzh4NFdFMEZkMUZBOG9BY2ZTcE9RSFJfZmRjNlFuQzE5RTZ1ZldnWXdhMkhJTm9kQTFCNGl4REVGdWc5VGFmYldCUlRrSl9KdktTbm5QOFlxNTBoWlo0aWZ0Tmc?oc=5",
 "title": "ServiceNow (NOW) Could Be 34% Undervalued On Its NBA Workflow Expansion",
 "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEVZMVpJZnl6aTNWTG5TcGswUXp0NFFIdjJCc2NpTF94X01wN3dZbmpLUUVYdXh3bmhkNUd5Nk91eTdHME1oak9jUUx4MWFvdkxTWjVSNFZjY09feHhMSXY5RzVocnh2QnRyVFV4cW5nak5QR0VWZkVuR0NfT1Z4N1g5QTFwTGRvQUtabmZVWkRudUJWQUhLVUlpTENjS0NsZG5Xd1JZUU9ua0E3LTE1U1BLNWpxZEZrVFNFYkZQMTgycmxU0gHKAUFVX3lxTE1oeUFGeUhId01xVjRSaTZBZ2VsVkxBZk1OX042Wkx5MnhsXzBRd2VxS3h1eUVERTZvbkxubDdOOWZ0X2ZTOGo0bGRpQnBKUnhjMEVRLXRRMkI0eXVrZ1I5ODhyN3kyd2xkVUE3M012Mzh4NFdFMEZkMUZBOG9BY2ZTcE9RSFJfZmRjNlFuQzE5RTZ1ZldnWXdhMkhJTm9kQTFCNGl4REVGdWc5VGFmYldCUlRrSl9KdktTbm5QOFlxNTBoWlo0aWZ0Tmc?oc=5",
@@ -4064,6 +4100,23 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-11-05T19:59:12.566748+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVR3eWNjSUNwNVdFY3VrdHVaNjcwWmpxNHNoSFBzRDF6M21TeUZZanRLTWowMkZDTEE0ZE9ONWNaLUJUa1JUTGxmQVYwRFdFY2pvcTUtV3pHVUg1eXFzdjF4Mlc5bmU5ZjJQZWJzaGotMEVqX2NhRVRUZFRQR2dmSkhGNGJwTUo2bUF1RjFMalNnYVhKLXFheFlxcElJN1Z1aWpKUXVDY1JkaTF4Qkh6SWZ3WVM0czByQ09NX2NUbFkyRm8?oc=5",
+"title": "ServiceNow layoffs hit UK, US and India as company restructures workforce - People Matters",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVR3eWNjSUNwNVdFY3VrdHVaNjcwWmpxNHNoSFBzRDF6M21TeUZZanRLTWowMkZDTEE0ZE9ONWNaLUJUa1JUTGxmQVYwRFdFY2pvcTUtV3pHVUg1eXFzdjF4Mlc5bmU5ZjJQZWJzaGotMEVqX2NhRVRUZFRQR2dmSkhGNGJwTUo2bUF1RjFMalNnYVhKLXFheFlxcElJN1Z1aWpKUXVDY1JkaTF4Qkh6SWZ3WVM0czByQ09NX2NUbFkyRm8?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "HR News",
+"author": "",
+"published": "2026-11-05T08:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-11-06T19:26:52.300542+00:00",
 "tags": []
 },
 {
@@ -5699,23 +5752,6 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1Y4am95TVZId2c4eGlpYk02UWpyUkpPbUJ4cm9BQnlrSlVOVlhENmxJYmY1WXhjLXd0d1Y4Ui04RUxrRU4wRWFaaGdMRlAzMXVlVjhuMHNBdVFtSHhoeVFKb1JrdzZiLVl3SnhtWm5IaG5zRGo3eXJucnFKVjVuNjhhQlJ1aGtUa3V6ZVNkN2pIcEVJS2tUSEQtekxEa21nU1hWbGtBSm1KcUYtM20yX3NHSjZia0po?oc=5",
-"title": "IBM vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
-"url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1Y4am95TVZId2c4eGlpYk02UWpyUkpPbUJ4cm9BQnlrSlVOVlhENmxJYmY1WXhjLXd0d1Y4Ui04RUxrRU4wRWFaaGdMRlAzMXVlVjhuMHNBdVFtSHhoeVFKb1JrdzZiLVl3SnhtWm5IaG5zRGo3eXJucnFKVjVuNjhhQlJ1aGtUa3V6ZVNkN2pIcEVJS2tUSEQtekxEa21nU1hWbGtBSm1KcUYtM20yX3NHSjZia0po?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "The Motley Fool",
-"author": "",
-"published": "2026-10-30T21:15:00+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-30T22:24:06.054956+00:00",
-"tags": []
-},
-{
 "id": "https://www.servicenow.com/community/developer-blog/agentic-security-best-practices/ba-p/3616201",
 "title": "Agentic Security - Best Practices",
 "url": "https://www.servicenow.com/community/developer-blog/agentic-security-best-practices/ba-p/3616201",
@@ -6022,6 +6058,23 @@
 "tags": []
 },
 {
+"id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1Y4am95TVZId2c4eGlpYk02UWpyUkpPbUJ4cm9BQnlrSlVOVlhENmxJYmY1WXhjLXd0d1Y4Ui04RUxrRU4wRWFaaGdMRlAzMXVlVjhuMHNBdVFtSHhoeVFKb1JrdzZiLVl3SnhtWm5IaG5zRGo3eXJucnFKVjVuNjhhQlJ1aGtUa3V6ZVNkN2pIcEVJS2tUSEQtekxEa21nU1hWbGtBSm1KcUYtM20yX3NHSjZia0po?oc=5",
+"title": "IBM vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
+"url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1Y4am95TVZId2c4eGlpYk02UWpyUkpPbUJ4cm9BQnlrSlVOVlhENmxJYmY1WXhjLXd0d1Y4Ui04RUxrRU4wRWFaaGdMRlAzMXVlVjhuMHNBdVFtSHhoeVFKb1JrdzZiLVl3SnhtWm5IaG5zRGo3eXJucnFKVjVuNjhhQlJ1aGtUa3V6ZVNkN2pIcEVJS2tUSEQtekxEa21nU1hWbGtBSm1KcUYtM20yX3NHSjZia0po?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "The Motley Fool",
+"author": "",
+"published": "2026-10-30T07:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-30T22:24:06.054956+00:00",
+"tags": []
+},
+{
 "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcC1HYmM1dGhWYmF5ZEtKT2ZGWHg0WEhmU1ctVmQyMDJVcjl0LVotdEExcmdTSkpnbVdsTVJxc3ZVMXdNYU04YTB6cXhVWEhNV2c3SnZCR0pUcFJ4S3U2bHB6X19TdFctbi1CNVJzVnViOHJQYWowTXd3cnp2MHRWMHMtaDEteDFBWlg2WU5BOW1GV056M3k4amtpQWpoV0VkdFJtX1FyR2FmYWVBREJpcjBiMmlPMDJS?oc=5",
 "title": "NOW Stock Slides Toward $100 After ServiceNow Misses the Earnings Estimates",
 "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcC1HYmM1dGhWYmF5ZEtKT2ZGWHg0WEhmU1ctVmQyMDJVcjl0LVotdEExcmdTSkpnbVdsTVJxc3ZVMXdNYU04YTB6cXhVWEhNV2c3SnZCR0pUcFJ4S3U2bHB6X19TdFctbi1CNVJzVnViOHJQYWowTXd3cnp2MHRWMHMtaDEteDFBWlg2WU5BOW1GV056M3k4amtpQWpoV0VkdFJtX1FyR2FmYWVBREJpcjBiMmlPMDJS?oc=5",
@@ -6155,23 +6208,6 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-29T22:47:18.751504+00:00",
-"tags": []
-},
-{
-"id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE1FRDZpLXJiZmxJdUNiTzdMMDY1NjBsWUM0NnE3aVQ3MlRZRmtCYnp3N2huQVRwQkpSWXNoc3hCS2ZpOEc3bnBnNVQwMTFkb2o5T3BIaHczcWNjUHhldng5NWN2QW9ycFVDV0JvV1dhTE04aTFQTExLVmREbTJwM2ZHMm5pWTZqOGZCVHUtVTMyMjBMTE9JdUdQcmxaUkRET2c?oc=5",
-"title": "Why ServiceNow (NOW) stock is nosediving",
-"url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE1FRDZpLXJiZmxJdUNiTzdMMDY1NjBsWUM0NnE3aVQ3MlRZRmtCYnp3N2huQVRwQkpSWXNoc3hCS2ZpOEc3bnBnNVQwMTFkb2o5T3BIaHczcWNjUHhldng5NWN2QW9ycFVDV0JvV1dhTE04aTFQTExLVmREbTJwM2ZHMm5pWTZqOGZCVHUtVTMyMjBMTE9JdUdQcmxaUkRET2c?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "Yahoo Finance",
-"author": "",
-"published": "2026-10-29T21:12:34+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-30T05:53:15.308931+00:00",
 "tags": []
 },
 {
@@ -6889,6 +6925,23 @@
 "tags": []
 },
 {
+"id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE1FRDZpLXJiZmxJdUNiTzdMMDY1NjBsWUM0NnE3aVQ3MlRZRmtCYnp3N2huQVRwQkpSWXNoc3hCS2ZpOEc3bnBnNVQwMTFkb2o5T3BIaHczcWNjUHhldng5NWN2QW9ycFVDV0JvV1dhTE04aTFQTExLVmREbTJwM2ZHMm5pWTZqOGZCVHUtVTMyMjBMTE9JdUdQcmxaUkRET2c?oc=5",
+"title": "Why ServiceNow (NOW) stock is nosediving",
+"url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE1FRDZpLXJiZmxJdUNiTzdMMDY1NjBsWUM0NnE3aVQ3MlRZRmtCYnp3N2huQVRwQkpSWXNoc3hCS2ZpOEc3bnBnNVQwMTFkb2o5T3BIaHczcWNjUHhldng5NWN2QW9ycFVDV0JvV1dhTE04aTFQTExLVmREbTJwM2ZHMm5pWTZqOGZCVHUtVTMyMjBMTE9JdUdQcmxaUkRET2c?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Yahoo Finance",
+"author": "",
+"published": "2026-10-29T07:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-30T05:53:15.308931+00:00",
+"tags": []
+},
+{
 "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhaFd4eFp0OG5ucmFzMXIyaVF0NEJJNU1TMGQxQ185N1ptaktsN2tQZm9aODJkVTRNTjdMRWhZNEZqOE9qbzZFNVFvLTZpZ2lDdjBFOTJ3UURwY2FFLVNYRHBibUpVR250YVA3Q3FOdjFYNmtYSld30gF8QVVfeXFMTWRKSXl6SURkYVVLMGRNdXZ2N1BjWklhb0xxanZFeUljYjZJV0s5Smo3U1R3OHEzWXhBR1E2YWQyWU8wMko2VWVBOXg3cUlKV0lHaTRTcG9DWnF1OHJ2S1N1V3k2UGNMT2VrbUZ1LXRtUWE3Q3RGSUVLMWZyZA?oc=5",
 "title": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears",
 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhaFd4eFp0OG5ucmFzMXIyaVF0NEJJNU1TMGQxQ185N1ptaktsN2tQZm9aODJkVTRNTjdMRWhZNEZqOE9qbzZFNVFvLTZpZ2lDdjBFOTJ3UURwY2FFLVNYRHBibUpVR250YVA3Q3FOdjFYNmtYSld30gF8QVVfeXFMTWRKSXl6SURkYVVLMGRNdXZ2N1BjWklhb0xxanZFeUljYjZJV0s5Smo3U1R3OHEzWXhBR1E2YWQyWU8wMko2VWVBOXg3cUlKV0lHaTRTcG9DWnF1OHJ2S1N1V3k2UGNMT2VrbUZ1LXRtUWE3Q3RGSUVLMWZyZA?oc=5",
@@ -7141,23 +7194,6 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-10-29T13:06:50.557020+00:00",
-"tags": []
-},
-{
-"id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZnVhdHB4ZkFLaEdqbjl2NHI0N2FaOU9BOGlLRlFLX01lRXhBMEk3dm9ieVc3d2RNSnp1ckUzWTF1eGh1dkFVY0s0MUZQU1VpdXZZbktvS2hNUG12dXIxRnNRZEYtNkI4cWNfMHlwbWpDRmhXMTNMLXhOWHVGVG1ZeHdHRVUwc2dQUVREeG00Sk8zbFIwbEE?oc=5",
-"title": "ServiceNow Earnings Miss Amid Acquisitions, Revenue Beats",
-"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZnVhdHB4ZkFLaEdqbjl2NHI0N2FaOU9BOGlLRlFLX01lRXhBMEk3dm9ieVc3d2RNSnp1ckUzWTF1eGh1dkFVY0s0MUZQU1VpdXZZbktvS2hNUG12dXIxRnNRZEYtNkI4cWNfMHlwbWpDRmhXMTNMLXhOWHVGVG1ZeHdHRVUwc2dQUVREeG00Sk8zbFIwbEE?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "Investor's Business Daily",
-"author": "",
-"published": "2026-10-28T22:40:00+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-29T05:51:57.460727+00:00",
 "tags": []
 },
 {
@@ -7603,23 +7639,6 @@
 "tags": []
 },
 {
-"id": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR21wSG92eUIzdTJ4bGIyY0JRRmdkWlJzMjUyRGVkUVd6aG9qN0F4Tl9YbU5vSXpnOGQ1R3hFM19KZUFZZHR2UkZCTzN4Wmc1MjBjZGhJVllxLUxtREpIWWdmdzZzTkdMY0Fqa1B5MnNLRURKLThDZEx5UWxRSFVha0tQa2hfbXJGaUM0TXB4MVBUR3RJRE5EVWthQldrUQ?oc=5",
-"title": "ServiceNow (NOW) Stock Still Looks Below Fair Value On Cash Flow",
-"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR21wSG92eUIzdTJ4bGIyY0JRRmdkWlJzMjUyRGVkUVd6aG9qN0F4Tl9YbU5vSXpnOGQ1R3hFM19KZUFZZHR2UkZCTzN4Wmc1MjBjZGhJVllxLUxtREpIWWdmdzZzTkdMY0Fqa1B5MnNLRURKLThDZEx5UWxRSFVha0tQa2hfbXJGaUM0TXB4MVBUR3RJRE5EVWthQldrUQ?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "Yahoo Finance",
-"author": "",
-"published": "2026-10-28T19:12:42+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-29T05:51:57.464283+00:00",
-"tags": []
-},
-{
 "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd29HWnlHaHBUeW0tRXZpZ3ZfMnJxZ1FrcWNDOWdKY2dkUzJTQUtTNVZZU1BpNjFFSlpaSlZ6SDhHZ1R5b3ZZVzVuOXFhdkpmMmdNOXF0RW5WSTB2d2M4T09FbHdQLVVfRVRNdnNFZFg3VU1iV3pjVDFYSTZfaS1xaEdJRmYxWG9DR3hmSENyN0pLNFZUbmFsUVNTc3pwYThISFFvYXVYMC0wbFJzSWRpSGxtUGpoNVk5TGthRUR4SHB5UHdXQzB6aEtZZEV3Ykk?oc=5",
 "title": "Will ServiceNow’s Q3 Earnings Disappoint Tonight After Stock Slides 3.8% Today?",
 "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd29HWnlHaHBUeW0tRXZpZ3ZfMnJxZ1FrcWNDOWdKY2dkUzJTQUtTNVZZU1BpNjFFSlpaSlZ6SDhHZ1R5b3ZZVzVuOXFhdkpmMmdNOXF0RW5WSTB2d2M4T09FbHdQLVVfRVRNdnNFZFg3VU1iV3pjVDFYSTZfaS1xaEdJRmYxWG9DR3hmSENyN0pLNFZUbmFsUVNTc3pwYThISFFvYXVYMC0wbFJzSWRpSGxtUGpoNVk5TGthRUR4SHB5UHdXQzB6aEtZZEV3Ykk?oc=5",
@@ -7821,6 +7840,40 @@
 "thumbnail": "https://i4.ytimg.com/vi/w7Ke9vFvYkE/hqdefault.jpg",
 "duration": "",
 "first_seen": "2026-10-28T12:59:39.493157+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZnVhdHB4ZkFLaEdqbjl2NHI0N2FaOU9BOGlLRlFLX01lRXhBMEk3dm9ieVc3d2RNSnp1ckUzWTF1eGh1dkFVY0s0MUZQU1VpdXZZbktvS2hNUG12dXIxRnNRZEYtNkI4cWNfMHlwbWpDRmhXMTNMLXhOWHVGVG1ZeHdHRVUwc2dQUVREeG00Sk8zbFIwbEE?oc=5",
+"title": "ServiceNow Earnings Miss Amid Acquisitions, Revenue Beats",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZnVhdHB4ZkFLaEdqbjl2NHI0N2FaOU9BOGlLRlFLX01lRXhBMEk3dm9ieVc3d2RNSnp1ckUzWTF1eGh1dkFVY0s0MUZQU1VpdXZZbktvS2hNUG12dXIxRnNRZEYtNkI4cWNfMHlwbWpDRmhXMTNMLXhOWHVGVG1ZeHdHRVUwc2dQUVREeG00Sk8zbFIwbEE?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Investor's Business Daily",
+"author": "",
+"published": "2026-10-28T07:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-29T05:51:57.460727+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR21wSG92eUIzdTJ4bGIyY0JRRmdkWlJzMjUyRGVkUVd6aG9qN0F4Tl9YbU5vSXpnOGQ1R3hFM19KZUFZZHR2UkZCTzN4Wmc1MjBjZGhJVllxLUxtREpIWWdmdzZzTkdMY0Fqa1B5MnNLRURKLThDZEx5UWxRSFVha0tQa2hfbXJGaUM0TXB4MVBUR3RJRE5EVWthQldrUQ?oc=5",
+"title": "ServiceNow (NOW) Stock Still Looks Below Fair Value On Cash Flow",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR21wSG92eUIzdTJ4bGIyY0JRRmdkWlJzMjUyRGVkUVd6aG9qN0F4Tl9YbU5vSXpnOGQ1R3hFM19KZUFZZHR2UkZCTzN4Wmc1MjBjZGhJVllxLUxtREpIWWdmdzZzTkdMY0Fqa1B5MnNLRURKLThDZEx5UWxRSFVha0tQa2hfbXJGaUM0TXB4MVBUR3RJRE5EVWthQldrUQ?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "Yahoo Finance",
+"author": "",
+"published": "2026-10-28T07:00:00+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-10-29T05:51:57.464283+00:00",
 "tags": []
 },
 {
@@ -10119,25 +10172,6 @@
 "duration": "",
 "first_seen": "2026-10-26T04:51:34.975722+00:00",
 "tags": []
-},
-{
-"id": "https://www.servicenow.com/community/in-other-news/congratulations-2026-servicenow-community-rising-stars/ba-p/3612252",
-"title": "Congratulations 2026 ServiceNow Community Rising Stars! 🎉",
-"url": "https://www.servicenow.com/community/in-other-news/congratulations-2026-servicenow-community-rising-stars/ba-p/3612252",
-"source_id": "comm-in-other-news",
-"source": "Community: In other news (MVP announcements and spotlights)",
-"type": "community",
-"group": "official",
-"via": "",
-"author": "Sarah G_",
-"published": "2026-10-21T15:19:18+00:00",
-"summary": "Congratulations 2026 Rising Stars We’re pleased to announce the long-awaited new wave of ServiceNow Community Rising Stars. 💚 WHY IS THIS A BIG MOMENT? Rising Stars are ServiceNow practitioners from all over the world who are setting a strong example for how to get started and thrive in our online community. These...",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-10-21T04:53:24.872580+00:00",
-"tags": [
-"MVP"
-]
 },
 {
 "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWY5OUhVRXNPbEZDWWhPY1Rvdk5MMGNiTFU0MG81UXBVNnBKbDhKOFJaRURvTWxQTXdoVEpIaW9hZ0ZuR25aQ0drR1Bwb254VHJJemxUNi1zOW51Q2cxWFBiQlNSbEpjeTh6UlRvOHBoaGt4NHNVZjFuTzRwNndKcUt1cl9sUnZUUWxQcTQ4c0piZDZxa0c4ZGMtaS1JRFlh?oc=5",
