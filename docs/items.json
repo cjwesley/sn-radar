@@ -1,6 +1,40 @@
 {
-"generated_at": "2026-11-15T18:53:40.360030+00:00",
+"generated_at": "2026-11-16T06:35:28.548911+00:00",
 "items": [
+{
+"id": "https://www.servicenow.com/community/japan-blog/hr-%E3%83%8A%E3%83%AC%E3%83%83%E3%82%B8%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E5%B0%8E%E5%85%A5%E3%81%AE%E5%AE%9F%E8%B7%B5%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/ba-p/3621494",
+"title": "HR ナレッジマネジメント導入の実践ポイント",
+"url": "https://www.servicenow.com/community/japan-blog/hr-%E3%83%8A%E3%83%AC%E3%83%83%E3%82%B8%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E5%B0%8E%E5%85%A5%E3%81%AE%E5%AE%9F%E8%B7%B5%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/ba-p/3621494",
+"source_id": "comm-all-articles",
+"source": "Community articles (all boards)",
+"type": "community",
+"group": "official",
+"via": "",
+"author": "taikimotomu",
+"published": "2026-11-16T01:26:43+00:00",
+"summary": "HR ナレッジマネジメント導入の実践ポイント ～KB 設計・権限・運用の勘所～ ナレッジ記事の書き方を整えても、ナレッジベースの構成・権限・運用体制が決まっていなければ成果は出ません。HR のナレッジは機微情報と部門差分が多く、設計を後回しにすると作り直しになります。導入時に何を決めておくべきかを整理します。",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-11-16T06:35:24.989012+00:00",
+"tags": []
+},
+{
+"id": "https://www.servicenow.com/community/servicenow-ai-platform-blog/from-ai-readiness-to-autonomy-a-phased-path-to-value-with/ba-p/3621484",
+"title": "From AI Readiness to Autonomy: a phased path to value with agentic workflows on ServiceNow",
+"url": "https://www.servicenow.com/community/servicenow-ai-platform-blog/from-ai-readiness-to-autonomy-a-phased-path-to-value-with/ba-p/3621484",
+"source_id": "comm-now-platform",
+"source": "Community: Now Platform blog",
+"type": "community",
+"group": "official",
+"via": "",
+"author": "Arjen Prins",
+"published": "2026-11-15T23:30:10+00:00",
+"summary": "Your AI programme is stalling—but it’s not the technology. Here’s a seven-phase framework for what actually matters.",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-11-16T06:35:24.989055+00:00",
+"tags": []
+},
 {
 "id": "https://www.servicenow.com/community/developer-blog/technical-review-boards-a-stitch-in-time-saves-nine/ba-p/3621457",
 "title": "Technical Review Boards: A Stitch in Time Saves Nine",
@@ -650,6 +684,40 @@
 "tags": []
 },
 {
+"id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ0dteUV4dEdRQWZidzNITWlnaDZxQ29WdGlDT2pRNjg3Z0xvQnJYMjZUZ3Vyc0oxRjFkczgyZDR5YmRXVnNtRUdqUzFueTJlZWR3UTNBSVQ1bWk5TFFNLTVxZjFTNG8tY3BOVHBvU0R5VHl6YXdmSFdXVlhidmhrbklLc2Q0YWVrUjlwVTBlVElTUWJFeUoxQm9oOGdoV1A2QktDZU9wZXZNS1U4V2tiOHgyNHhNY1pkMUQ2M0xmUzNKRXZQa0hQYnZqX2FpSFlXVGhaY21lSFhWdzVkeXRNU3JSVzlRUExZNlHSAe8BQVVfeXFMUFlFMDJERHdNdFZGOHlmSFhwYUhfLW91VGpFWXc0ZGRuTVlocW9lOVhsYXNmczFyUFNUVXpPdGFoZHNwLWhsMmloOXQxczNWOWdJX3FLbE1qMEhHN1hYZW53azZUNWdwdkNSVmtRbW92VWdrWXpFLUV3RDZRRlBmemNMd0RodG9wM05JUnpZczFvcDJXV1ZZaElBUnBxSTQ0X3FIaVNqbnN6eEhVdnpGaDVnbU1XLTRJczlmd0RKV213Y21HTjQ3cmNYWE1pR1o4a2xjNnVwRW5wemlNaVlyNGhyWlkweXRONlpCcFhzQTg?oc=5",
+"title": "ServiceNow launches AI engine to cut enterprise CRM migration timelines to weeks",
+"url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ0dteUV4dEdRQWZidzNITWlnaDZxQ29WdGlDT2pRNjg3Z0xvQnJYMjZUZ3Vyc0oxRjFkczgyZDR5YmRXVnNtRUdqUzFueTJlZWR3UTNBSVQ1bWk5TFFNLTVxZjFTNG8tY3BOVHBvU0R5VHl6YXdmSFdXVlhidmhrbklLc2Q0YWVrUjlwVTBlVElTUWJFeUoxQm9oOGdoV1A2QktDZU9wZXZNS1U4V2tiOHgyNHhNY1pkMUQ2M0xmUzNKRXZQa0hQYnZqX2FpSFlXVGhaY21lSFhWdzVkeXRNU3JSVzlRUExZNlHSAe8BQVVfeXFMUFlFMDJERHdNdFZGOHlmSFhwYUhfLW91VGpFWXc0ZGRuTVlocW9lOVhsYXNmczFyUFNUVXpPdGFoZHNwLWhsMmloOXQxczNWOWdJX3FLbE1qMEhHN1hYZW53azZUNWdwdkNSVmtRbW92VWdrWXpFLUV3RDZRRlBmemNMd0RodG9wM05JUnpZczFvcDJXV1ZZaElBUnBxSTQ0X3FIaVNqbnN6eEhVdnpGaDVnbU1XLTRJczlmd0RKV213Y21HTjQ3cmNYWE1pR1o4a2xjNnVwRW5wemlNaVlyNGhyWlkweXRONlpCcFhzQTg?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "ET Enterprise AI",
+"author": "",
+"published": "2026-11-13T07:49:52+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-11-16T06:35:25.435629+00:00",
+"tags": []
+},
+{
+"id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNHVSbmFpNmEwbDhUTUhGT2o1dXpEcDdJNXVfc0pEa1ZrS1YtVEdzNU94aEMtdEFYdEktSy1iMktBX3JiaUVxYnZCVC1RR1Y1RU1PRmpDY0ZzajFlcVVqQm8yT1BBWk1hWkNrbmsxYzNrbVoyU05wVlJDTzJPNllDNlJhY0hHVERSVTh3cnA5S2Y4S081aWJtamVZYXJ3cktIRUpKTTRvekFweGlDa2hraVRsRVY1bHNFdjY4M1FBcUFxVmQtM3YwVjN1Y203VGhQZkdtMW15WU9yb2hQMXhwSXJsTUh0WkZxeUhvRGsyemE5OUNY?oc=5",
+"title": "ServiceNow Pitches an AI-Native CRM Engine While Kyndryl Automation Hits the Store Shelves",
+"url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNHVSbmFpNmEwbDhUTUhGT2o1dXpEcDdJNXVfc0pEa1ZrS1YtVEdzNU94aEMtdEFYdEktSy1iMktBX3JiaUVxYnZCVC1RR1Y1RU1PRmpDY0ZzajFlcVVqQm8yT1BBWk1hWkNrbmsxYzNrbVoyU05wVlJDTzJPNllDNlJhY0hHVERSVTh3cnA5S2Y4S081aWJtamVZYXJ3cktIRUpKTTRvekFweGlDa2hraVRsRVY1bHNFdjY4M1FBcUFxVmQtM3YwVjN1Y203VGhQZkdtMW15WU9yb2hQMXhwSXJsTUh0WkZxeUhvRGsyemE5OUNY?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "ad-hoc-news.de",
+"author": "",
+"published": "2026-11-13T06:31:38+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-11-16T06:35:25.436241+00:00",
+"tags": []
+},
+{
 "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR05TZXlWdUZBQmlnWFJsdEFGd3MzQkFxTHhvc1o2QVpSdHFvdXlOV0xMa203Tk5VWlhIcE9wRXQxcGlIZi1Dc3VmbkhBMV8wSW9rNk1fSWdzWFZuOTFLVEZUR21NZG5mZFYzRWNKMzlYeno4Z3FNX0V6VmlERXMxSW5LVWkxd3hwOG9sVDFWVEpjNzEzN09wWG80QkdmRkZ3VmVfVndnSzBIV0pOSUV0ekdPcw?oc=5",
 "title": "ServiceNow launches 'Autonomous CRM Engine' to cut CRM migration time",
 "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR05TZXlWdUZBQmlnWFJsdEFGd3MzQkFxTHhvc1o2QVpSdHFvdXlOV0xMa203Tk5VWlhIcE9wRXQxcGlIZi1Dc3VmbkhBMV8wSW9rNk1fSWdzWFZuOTFLVEZUR21NZG5mZFYzRWNKMzlYeno4Z3FNX0V6VmlERXMxSW5LVWkxd3hwOG9sVDFWVEpjNzEzN09wWG80QkdmRkZ3VmVfVndnSzBIV0pOSUV0ekdPcw?oc=5",
@@ -1075,6 +1143,23 @@
 "tags": []
 },
 {
+"id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbmxlZFlUZFFRTVh3czA3LXBDRUFYNHRnbUtuUjV2aFNmYXBDTFdCUnhxY1Z5TXZhM1BuTkFCSmtpMDVxWUQ1VEtFSG5FOHU4OUVWQTB2QXA0cGpPcHRTZG4tVkVHNWo0YmtlMmp1eERiaFFoajAxRHc2MjBHSlhhZkNTSkZIS0ZRYUh3WnpQbE13U0c2Q2lMcUFudVl4cHhuUXhNZUFpZWp4NHpY?oc=5",
+"title": "ServiceNow Launches Autonomous CRM Engine to Streamline CRM Migr",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbmxlZFlUZFFRTVh3czA3LXBDRUFYNHRnbUtuUjV2aFNmYXBDTFdCUnhxY1Z5TXZhM1BuTkFCSmtpMDVxWUQ1VEtFSG5FOHU4OUVWQTB2QXA0cGpPcHRTZG4tVkVHNWo0YmtlMmp1eERiaFFoajAxRHc2MjBHSlhhZkNTSkZIS0ZRYUh3WnpQbE13U0c2Q2lMcUFudVl4cHhuUXhNZUFpZWp4NHpY?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "GuruFocus",
+"author": "",
+"published": "2026-11-12T15:03:21+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-11-16T06:35:25.436196+00:00",
+"tags": []
+},
+{
 "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeURXYnRtNnRDVy1fUXJBMEIxTTZQZ1V6TzR4Rk1pdEJsdkFZbjAxdzAxMDJiTWpROTBZTk5mT3ltYl9JdkplRWkxd3FJOEhFZG1oVXNBamwyc2o0MXN4cVQ3RjVOVTR6ZDQ4c3JaTmZkaVVYYTJzSUNiak9Bcm1zZUdmVW9OYXpkZ3Y5R1RfY0xBdWdNMEpaYmR3SVdwQmJBbFhabEtRTnJyMEtQX1BlU1M0SExmTkRsajBzeFFteXJxaWhmSEdBOEFKSWt0dw?oc=5",
 "title": "ServiceNow - Autonomous Crm Engine in Control",
 "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeURXYnRtNnRDVy1fUXJBMEIxTTZQZ1V6TzR4Rk1pdEJsdkFZbjAxdzAxMDJiTWpROTBZTk5mT3ltYl9JdkplRWkxd3FJOEhFZG1oVXNBamwyc2o0MXN4cVQ3RjVOVTR6ZDQ4c3JaTmZkaVVYYTJzSUNiak9Bcm1zZUdmVW9OYXpkZ3Y5R1RfY0xBdWdNMEpaYmR3SVdwQmJBbFhabEtRTnJyMEtQX1BlU1M0SExmTkRsajBzeFFteXJxaWhmSEdBOEFKSWt0dw?oc=5",
@@ -1201,7 +1286,7 @@
 "source": "Google News: ServiceNow",
 "type": "news",
 "group": "press",
-"via": "diginomica",
+"via": "Diginomica",
 "author": "",
 "published": "2026-11-12T13:00:02+00:00",
 "summary": "",
@@ -2692,6 +2777,23 @@
 "tags": []
 },
 {
+"id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZnhCenV3dTdackVXc24yU2lXNkV3WFVRdE5XSDFGY004aURRblZ6R19jb0pYdWt6ckdtZTR4Z010dDBCSTE5WHhvS0V3a1F0MjdkWExYY1ZfUlZBY0o5Vm8xbGQ0QTVxMWd3Ql9OQ0lkNmtfYkd3Y3lrZEZNdU9QV0VCVW13d0phVW1lblluTU9falRFM1dYWHBHaHpYRHNldThhQWt2OG9YQTRDcUdTWmx1akRhbFhBMEtHNUpfVE1Mamh0TThxWVBHY2pzaF9QdVJJUnNEQXdhVjl1SkdfVzVReE9pUQ?oc=5",
+"title": "ServiceNow vs. Snowflake: Which Tech Stock Is the Better Buy for 2027?",
+"url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZnhCenV3dTdackVXc24yU2lXNkV3WFVRdE5XSDFGY004aURRblZ6R19jb0pYdWt6ckdtZTR4Z010dDBCSTE5WHhvS0V3a1F0MjdkWExYY1ZfUlZBY0o5Vm8xbGQ0QTVxMWd3Ql9OQ0lkNmtfYkd3Y3lrZEZNdU9QV0VCVW13d0phVW1lblluTU9falRFM1dYWHBHaHpYRHNldThhQWt2OG9YQTRDcUdTWmx1akRhbFhBMEtHNUpfVE1Mamh0TThxWVBHY2pzaF9QdVJJUnNEQXdhVjl1SkdfVzVReE9pUQ?oc=5",
+"source_id": "news-gnews",
+"source": "Google News: ServiceNow",
+"type": "news",
+"group": "press",
+"via": "The Globe and Mail",
+"author": "",
+"published": "2026-11-10T14:37:25+00:00",
+"summary": "",
+"thumbnail": "",
+"duration": "",
+"first_seen": "2026-11-16T06:35:25.435397+00:00",
+"tags": []
+},
+{
 "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVmlrcVVRZVZnMXRHS0JiOG1XdzJ5emh1bGVMTGtWZjZVQUVJV3BIQ0lmWFJFTHJrWnpFOGRUNndKNW9NczVCTk12UC1IU3VtbEQ0RkZwTUpMUzJOZzhING5PTm5DUE9jMjVwNFRkRjhrdWZMbG40MlR0bk8zWV9najBZNUNyaHdnT0dYRDBhVWdUZm1FUDE4WHBvOEVqS1ZKRldB?oc=5",
 "title": "CA-SERVICENOW",
 "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVmlrcVVRZVZnMXRHS0JiOG1XdzJ5emh1bGVMTGtWZjZVQUVJV3BIQ0lmWFJFTHJrWnpFOGRUNndKNW9NczVCTk12UC1IU3VtbEQ0RkZwTUpMUzJOZzhING5PTm5DUE9jMjVwNFRkRjhrdWZMbG40MlR0bk8zWV9najBZNUNyaHdnT0dYRDBhVWdUZm1FUDE4WHBvOEVqS1ZKRldB?oc=5",
@@ -2723,23 +2825,6 @@
 "thumbnail": "",
 "duration": "",
 "first_seen": "2026-11-11T06:29:06.875383+00:00",
-"tags": []
-},
-{
-"id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG85R1FzM3lhc2E3bzZGMGRTYUZyNlZUcm9uUjdvWlNXWGE3VkhPSF9VVDBYdE44ZktDaG0xQkloMGoyV0UzMGhUb0U5dUVqQkF4eVptTDdlbVdrMlAzaG93amlQYmN3dU9BMmZQa1VMa3ljVnVxTXJkWHNMdTFOMlhiSkg0RHhVS0VraGU5UFZLQXFVdm1vb25rZzh3Z0xEVHlmQnR4emY2Y0FnT1lUbktJcjNHcy1BY3czZA?oc=5",
-"title": "ServiceNow vs. Snowflake: Which Tech Stock Is the Better Buy for 2027?",
-"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG85R1FzM3lhc2E3bzZGMGRTYUZyNlZUcm9uUjdvWlNXWGE3VkhPSF9VVDBYdE44ZktDaG0xQkloMGoyV0UzMGhUb0U5dUVqQkF4eVptTDdlbVdrMlAzaG93amlQYmN3dU9BMmZQa1VMa3ljVnVxTXJkWHNMdTFOMlhiSkg0RHhVS0VraGU5UFZLQXFVdm1vb25rZzh3Z0xEVHlmQnR4emY2Y0FnT1lUbktJcjNHcy1BY3czZA?oc=5",
-"source_id": "news-gnews",
-"source": "Google News: ServiceNow",
-"type": "news",
-"group": "press",
-"via": "The Motley Fool",
-"author": "",
-"published": "2026-11-10T13:45:00+00:00",
-"summary": "",
-"thumbnail": "",
-"duration": "",
-"first_seen": "2026-11-10T19:46:13.643748+00:00",
 "tags": []
 },
 {
@@ -28194,23 +28279,6 @@
 "thumbnail": "https://i1.ytimg.com/vi/Pp5nOTuWfSQ/hqdefault.jpg",
 "duration": "",
 "first_seen": "2026-09-02T19:12:05.144816+00:00",
-"tags": []
-},
-{
-"id": "https://www.youtube.com/watch?v=W23pTJZgCQI",
-"title": "Meet our 2026 interns",
-"url": "https://www.youtube.com/watch?v=W23pTJZgCQI",
-"source_id": "yt-servicenow",
-"source": "ServiceNow",
-"type": "video",
-"group": "official",
-"via": "",
-"author": "ServiceNow",
-"published": "2026-08-18T00:23:44+00:00",
-"summary": "Four interns. One summer. Plenty of impact. They built demos that could influence major deals, leveled up their skills on projects, and thrived in a culture where people want to stay. Find out what they built, what they learned, and why day 1 felt so special.",
-"thumbnail": "https://i4.ytimg.com/vi/W23pTJZgCQI/hqdefault.jpg",
-"duration": "",
-"first_seen": "2026-09-02T19:12:05.150265+00:00",
 "tags": []
 }
 ]
